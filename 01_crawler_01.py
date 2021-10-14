@@ -16,6 +16,51 @@ stop_words = nltk.corpus.stopwords.words('english') + [ 'ut', '\'re','.', ',', '
 # We most likely would like to remove html markup
 # crawl elemenets under div > p
 
+jokeIndicators = ["[audience cheers]","[audience cheering]","[laughs]","[applauding]","[woman cheers]","[man cheers]","[applause and cheering]","[cheers]","[cheers and applause]","[cheering]","[audience cheers]","[audience laughs]","[applause]","[laughter]","[distant chuckling"]
+
+class Joke():
+    def __init__(self,setup,punchline):
+        self.setup = setup
+        self.punchline = punchline
+        self.taglines = []
+    def addTagLine(self, tagline):
+        self.taglines.append(tagline)
+    def toString(self):
+        data = "----Setup----\n"
+        data += self.setup
+        data += "----Punchline----\n"
+        data += self.punchline
+        if(len(self.taglines)>0):
+            data += "----Tagline(s)----\n"
+            for tagline in self.taglines:
+                data += tagline
+        return data
+
+
+def findJokes():
+    jokes = []
+    transcript = "dave-chappelle-the-closer-transcript.txt"
+    with open("Dave_Chappelle/"+transcript,"r") as lines:
+        setup = ""
+        joke = ""
+        for line in lines:
+            endOfJoke = False 
+            for indicator in jokeIndicators:
+                if(indicator in line):
+                    endOfJoke = True
+            if(not endOfJoke):
+                print(line)
+                setup += joke
+                joke = line
+            else:
+                jokes.append(Joke(setup,joke))
+                joke = ""
+                setup = ""
+        print("---End of Transcript---")
+    with open("Dave_Chappelle/dave-chappelle-the-closer-transcript.jokes","w") as parsedJokes:
+        for joke in jokes:
+            parsedJokes.write(joke.toString() +"\n")
+         
 
 def cleanHtml (html):
     from bs4 import BeautifulSoup
@@ -38,14 +83,21 @@ def cleanWord (w):
 def cleanData(text):
     data = ""
     line = ""
+    previousChar = ''
+    nextChar = ''
     newLineChars = ["\n",".","]"]
     #Are we at the content: no
     throughGarbage = False
-    for char in text:
+    for index in range(len(text)):
+        char = text[index]
+        if (index < len(text)-1):
+            nextChar = text[index+1]
+        else:
+            nextChar = ''
         line += char
-        if(char in newLineChars):
+        if((char == '\n') or (char ==']') or (char == "." and nextChar != '”') or (char == '”' and previousChar in [".","?","!"])):
             #Save the transcipt
-            if(throughGarbage):
+            if(throughGarbage and not("More:" in line)):
                 #print(line)
                 data += line+"\n"
             #Unless they change their site layout, this is the last link before the content
@@ -55,12 +107,13 @@ def cleanData(text):
             elif(throughGarbage and ("More:" in line)):
                 throughGarbage = False
             line = ""
+        previousChar = char
     return data
 
 # define a function to get text/clean/calculate frequency
 def get_wf (text):
     # remove html markup
-    t = cleanHtml (text) .lower()
+    t = cleanHtml (text).lower()
     
     # split string into an array of words using any sequence of spaces "\s+" 
     wds = re .split('\s+',t)
@@ -90,7 +143,23 @@ def get_wf (text):
 
     #Reverse the list because barh plots items from the bottom
     return (wfs [ 0:ml ] [::-1], tw)
-        
+
+def inBrackets(text):
+    commands = {}
+    command = False
+    action= ""
+    for line in text:
+        if "[" == line:
+            command = True
+        elif "]" == line:
+            command = False
+            count = commands.get(action,0)
+            commands.update({action:count+1})
+            action = ""
+        elif command:
+            action += line
+    return commands
+
 
 def main():
     #Eventually this will be a command line arguement, for now, a string pointing to a file containing links to a  comedian's standup
@@ -115,9 +184,9 @@ def main():
             #save result into the txt file
             with open(path+"/"+resultName+".txt", "w") as result_clean_file:
             	result_clean_file.write(cleaned_result)
-            #print(cleaned_result)
-main()
-
+            print(inBrackets(cleaned_result))
+#main()
+findJokes()
 ####################
 #we can use the wf part to count the number of word frequencies
 ####################
