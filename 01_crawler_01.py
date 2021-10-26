@@ -11,7 +11,7 @@ import operator
 nltk.download('stopwords')
 
 # we may not care about the usage of stop words
-stop_words = nltk.corpus.stopwords.words('english') + [ 'ut', '\'re','.', ',', '--', '\'s', '?', ')', '(', ':', '\'', '\"', '-', '}', '{', '&', '|', u'\u2014', '' ]
+stop_words = nltk.corpus.stopwords.words('english') + [ 'ut', '\'re','.', ',', '--', '\'s', '?', ')', '(', ':', '\'', '\"', '-', '}', '{', '&', '|', u'\u2014', '', " " ]
 
 # We most likely would like to remove html markup
 # crawl elemenets under div > p
@@ -190,19 +190,21 @@ def main():
         pass
     with open(comedian,"r") as listOfTranscripts:
         for transcript in listOfTranscripts:
+            print(transcript)
             #Based off of how scrapes from the loft organizes its transripts, this will be the name of the routine
             resultName = transcript.split("comedy/")[1].replace("\n","").replace("/","")
             #crawling raw dataset
-            scraped = requests.get(transcript, headers={'User-agent': 'Mozilla/5.0'}).text
+            scraped = requests.get(transcript[:-1], headers={'User-agent': 'Mozilla/5.0'}).text
             #print(scraped)
             raw_result = cleanHtml(scraped)
+            print(raw_result)
             cleaned_result = cleanData(raw_result)
             #save result into the txt file
             with open(path+"/"+resultName+".txt", "w") as result_clean_file:
             	result_clean_file.write(cleaned_result)
             print(inBrackets(cleaned_result))
-#main()
-findJokes()
+main()
+#findJokes()
 ####################
 #we can use the wf part to count the number of word frequencies
 ####################
