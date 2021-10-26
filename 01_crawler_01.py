@@ -17,9 +17,9 @@ stop_words = nltk.corpus.stopwords.words('english') + [ 'ut', '\'re','.', ',', '
 # crawl elemenets under div > p
 
 #Some of these indicators are not for jokes. We need to be selective.
-jokeIndicators = ["[audience cheers]","[audience cheering]","[laughs]","[applauding]","[woman cheers]","[man cheers]","[applause and cheering]","[cheers]","[cheers and applause]","[cheering]","[audience cheers]","[audience laughs]","[applause]","[laughter]","[distant chuckling"]
+#jokeIndicators = ["[audience cheers]","[audience cheering]","[laughs]","[applauding]","[woman cheers]","[man cheers]","[applause and cheering]","[cheers]","[cheers and applause]","[cheering]","[audience cheers]","[audience laughs]","[applause]","[laughter]","[distant chuckling"]
 #jokeIndicators = ["[laughs]","[audience laughs]","[laughter]","[distant chuckling"]
-
+jokeIndicators = ["cheers and applause","audience laughing","laughs","cheers","audience cheers","audience laughs","applause","laughter","cheering","distant chuckling","Laughter","Laughter and applause","Light laughter","Moans and applause","Moans and laughter","chuckles"]
 
 class Joke():
     def __init__(self,setup,punchline):
@@ -197,7 +197,7 @@ def main():
             scraped = requests.get(transcript[:-1], headers={'User-agent': 'Mozilla/5.0'}).text
             #print(scraped)
             raw_result = cleanHtml(scraped)
-            print(raw_result)
+            #print(raw_result)
             cleaned_result = cleanData(raw_result)
             #save result into the txt file
             with open(path+"/"+resultName+".txt", "w") as result_clean_file:
