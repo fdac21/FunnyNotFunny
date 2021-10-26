@@ -40,43 +40,44 @@ class Joke():
         return data
 
 
-def findJokes():
+def findJokes(comedian):
     '''
     A joke with no setup is most likely a tagline beloning to the most recent joke (Naive Approach)
     Alternativly, look all jokes setup's and look for correlations, but give additional weight to the most recent joke 
     '''
     jokes = []
-    transcript = "dave-chappelle-the-closer-transcript.txt"
-    with open("Dave_Chappelle/"+transcript,"r") as lines:
-        setup = ""
-        joke = ""
-        mostRecentJoke = ""
-        for line in lines:
-            endOfJoke = False 
-            for indicator in jokeIndicators:
-                if(indicator in line):
-                    endOfJoke = True
-            if(not endOfJoke):
-                print(line)
-                setup += joke
-                joke = line
-            #
-            elif ():
-                setup = ""
-                joke = ""    
-            else:
-                if (setup != ""):
-                    mostRecentJoke = Joke(setup,joke)
-                    jokes.append(mostRecentJoke)
+    transcripts = [f for f in os.listdir(comedian+'/') if (os.path.isfile(os.path.join(comedian+'/', f)) and f[-3:]=="txt")]
+    for transcript in transcripts:
+        with open(comedian+"/"+transcript,"r") as lines:
+            setup = ""
+            joke = ""
+            mostRecentJoke = ""
+            for line in lines:
+                endOfJoke = False 
+                for indicator in jokeIndicators:
+                    if(indicator in line):
+                        endOfJoke = True
+                if(not endOfJoke):
+                    print(line)
+                    setup += joke
+                    joke = line
+                #
+                elif ():
+                    setup = ""
+                    joke = ""    
                 else:
-                    mostRecentJoke.addTagLine(joke)
-                joke = ""
-                setup = ""
-        print("---End of Transcript---")
-    with open("Dave_Chappelle/dave-chappelle-the-closer-transcript.jokes","w") as parsedJokes:
-        for joke in jokes:
-            parsedJokes.write(joke.toString() +"\n")
-         
+                    if (setup != ""):
+                        mostRecentJoke = Joke(setup,joke)
+                        jokes.append(mostRecentJoke)
+                    else:
+                        mostRecentJoke.addTagLine(joke)
+                    joke = ""
+                    setup = ""
+            print("---End of Transcript---")
+        with open(comedian+"/"+transcript[0:-3]+".jokes","w") as parsedJokes:
+            for joke in jokes:
+                parsedJokes.write(joke.toString() +"\n")
+             
 
 def cleanHtml (html):
     from bs4 import BeautifulSoup
@@ -203,8 +204,8 @@ def main():
             with open(path+"/"+resultName+".txt", "w") as result_clean_file:
             	result_clean_file.write(cleaned_result)
             print(inBrackets(cleaned_result))
-main()
-#findJokes()
+#main()
+findJokes("Dave_Chappelle")
 ####################
 #we can use the wf part to count the number of word frequencies
 ####################
