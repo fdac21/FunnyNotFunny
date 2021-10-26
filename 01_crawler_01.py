@@ -16,7 +16,10 @@ stop_words = nltk.corpus.stopwords.words('english') + [ 'ut', '\'re','.', ',', '
 # We most likely would like to remove html markup
 # crawl elemenets under div > p
 
+#Some of these indicators are not for jokes. We need to be selective.
 jokeIndicators = ["[audience cheers]","[audience cheering]","[laughs]","[applauding]","[woman cheers]","[man cheers]","[applause and cheering]","[cheers]","[cheers and applause]","[cheering]","[audience cheers]","[audience laughs]","[applause]","[laughter]","[distant chuckling"]
+#jokeIndicators = ["[laughs]","[audience laughs]","[laughter]","[distant chuckling"]
+
 
 class Joke():
     def __init__(self,setup,punchline):
@@ -38,11 +41,16 @@ class Joke():
 
 
 def findJokes():
+    '''
+    A joke with no setup is most likely a tagline beloning to the most recent joke (Naive Approach)
+    Alternativly, look all jokes setup's and look for correlations, but give additional weight to the most recent joke 
+    '''
     jokes = []
     transcript = "dave-chappelle-the-closer-transcript.txt"
     with open("Dave_Chappelle/"+transcript,"r") as lines:
         setup = ""
         joke = ""
+        mostRecentJoke = ""
         for line in lines:
             endOfJoke = False 
             for indicator in jokeIndicators:
@@ -52,8 +60,16 @@ def findJokes():
                 print(line)
                 setup += joke
                 joke = line
+            #
+            elif ():
+                setup = ""
+                joke = ""    
             else:
-                jokes.append(Joke(setup,joke))
+                if (setup != ""):
+                    mostRecentJoke = Joke(setup,joke)
+                    jokes.append(mostRecentJoke)
+                else:
+                    mostRecentJoke.addTagLine(joke)
                 joke = ""
                 setup = ""
         print("---End of Transcript---")
@@ -95,7 +111,7 @@ def cleanData(text):
         else:
             nextChar = ''
         line += char
-        if((char == '\n') or (char ==']') or (char == "." and nextChar != '”') or (char == '”' and previousChar in [".","?","!"])):
+        if((char == '\n') or (char ==']') or (previousChar == "…" and char == " " and nextChar =="[") or (char == "♪" and nextChar !=" ") or (char == "." and nextChar != '”') or (char == '”' and previousChar in [".","?","!"])):
             #Save the transcipt
             if(throughGarbage and not("More:" in line)):
                 #print(line)
