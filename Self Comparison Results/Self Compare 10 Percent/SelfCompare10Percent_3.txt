@@ -1,0 +1,409 @@
+----Setup----
+ Too noisy in a cornfield.
+ I had to have a whole town meeting about how noisy I was being in the cornfield.
+----Punchline----
+ It was so embarrassing.
+
+
+Similarity Score:1.0
+Percent Error Setup:72.77871366247678%
+Percent Error Punchline:59.50339934968962%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:72.1676038454562%
+----Setup----
+ Helicopter took him to Walter Reed hospital.
+ You know, I’m from D.C.
+----Punchline----
+ and I got to tell you, Walter Reed is not close to the White House, but you can walk.
+
+
+Similarity Score:2.8484848484848486
+Percent Error Setup:84.61405554835645%
+Percent Error Punchline:61.986402601241494%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:67.19753310357336%
+----Setup----
+ Team of doctors was waiting for him, all the doctors came around, gave him experimental medicine and stuff, and flew him back home in the helicopter.
+----Punchline----
+ And then he walked right up the steps — you ever seen this video? — he took his mask off, saluted the helicopter, and then he walked right in the house, killed four more people.
+
+
+Similarity Score:0.38095238095238093
+Percent Error Setup:68.04457690812492%
+Percent Error Punchline:191.5755246822347%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:37.37710865227643%
+----Setup----
+That was cold, man.
+----Punchline----
+ Meanwhile, Chris Christie‘s fat ass is in the ICU, fighting for his life.
+
+
+Similarity Score:0.8888888888888888
+Percent Error Setup:95.26586324564815%
+Percent Error Punchline:13.390481820869049%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:82.10774532922184%
+----Setup----
+ I felt gross.
+ ‘Cause I’ve been walking around Texas just touching door knobs and shit, hands all moist.
+ Tipping niggas with cash.
+----Punchline----
+ “Here, take this to your family.”
+
+
+Similarity Score:0.4666666666666667
+Percent Error Setup:72.77871366247678%
+Percent Error Punchline:43.30475908956547%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:70.17957554870307%
+----Setup----
+I am guessing, but I bet you, he is gay.
+Yeah.
+[woman]
+ Oh my God.
+And he is not pride parade gay either, he is sad gay.
+ I feel bad for him.
+ He looks like one of them gays that prays about it.
+----Punchline----
+ Jesus, please take these dirty feelings out of my heart.
+
+
+Similarity Score:0.27450980392156865
+Percent Error Setup:52.65863245648136%
+Percent Error Punchline:10.907478569317176%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:49.305278432795205%
+----Setup----
+What if Martin Luther King had to integrate the glory hole? “I don’t care if it is Black lips back there or White lips back there a mouth is a mouth.
+ A warm wet mouth.”
+ I’m going all the way.
+ I got into a fight.
+ I almost got into a fight, it is complicated.
+ I was in a bar in Austin, with my wife and it was during Covid, and a woman came to our table and she was maskless, and this bitch came over, no mask, all “H” words.
+----Punchline----
+ “Hi, how are you?”
+
+
+Similarity Score:0.35789473684210527
+Percent Error Setup:6.518076972916935%
+Percent Error Punchline:59.50339934968962%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:5.568655904226368%
+----Setup----
+And the dude was shocked that I said it.
+ He said “Huh?”
+----Punchline----
+ And when he did like this, I’ve seen all his fingernails is painted and I realized like, “Oh-oh.”
+
+
+Similarity Score:0.9032258064516129
+Percent Error Setup:85.79758973694442%
+Percent Error Punchline:53.887082471179426%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:69.1855614003265%
+----Setup----
+They were like, “Who is he to tell us anything?”
+ I’ll tell you exactly who I am.
+----Punchline----
+ I’m the one that got off the bus and left $50 million on the bus and walked.
+
+
+Similarity Score:0.5142857142857142
+Percent Error Setup:79.87991879400458%
+Percent Error Punchline:45.78776234111735%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:65.20950480682023%
+----Setup----
+Tough time for the Whites.
+ And this was a holiday weekend.
+ You know what I mean? These motherfuckers were having a rootin’ tootin’ time.
+ They was in there partying, making all them noises.
+ “Ooh! Ow! Yeow!”
+----Punchline----
+ You know all them noises White people make before lynching? They was doing all that shit.
+
+
+Similarity Score:2.490566037735849
+Percent Error Setup:57.39276921083323%
+Percent Error Punchline:37.688442211055275%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:47.31725013604208%
+----Setup----
+ I couldn’t believe it.
+ I said “What is a trans person, doing in a place like this? This is very dangerous behavior.”
+ And she was with, two big, buff, gay Black dudes.
+ I didn’t know these dudes, but I know they was gay.
+----Punchline----
+ If they had a dick in their mouth, they wouldn’t look any gayer than they did just sitting there.
+
+
+Similarity Score:0.5
+Percent Error Setup:47.9244957021295%
+Percent Error Punchline:61.986402601241494%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:36.38309450389987%
+----Setup----
+ No, I didn’t know.
+ They act like we sit around like Grease.
+----Punchline----
+ ♪ Tell me more, tell me more Did she put up a fight? ♪ [hums melody]
+
+
+Similarity Score:0.26666666666666666
+Percent Error Setup:84.61405554835645%
+Percent Error Punchline:37.688442211055275%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:70.17957554870307%
+----Setup----
+And I feel bad.
+ But I just feel like this is all happening for a reason.
+ And, ladies, I want you to win this fight.
+ Ten years ago I might have been scared, but, you know, I got a daughter now.
+ So if you win, she wins.
+ So I’m rooting for you.
+ And I agree with you.
+ At least, ideologically, I do.
+ I don’t know if the– I don’t know if you’re doing it right, but I mean, who am I to say? I don’t think you’re wrong.
+ I just think that… You can’t make a lasting peace this way.
+ You got all the bad guys scared.
+ And that’s good, but the minute they’re not scared anymore, it will get worse than it was before.
+ Fear does not make lasting peace.
+ Ask black people.
+ And that’s what it is.
+ What this city really needs… Without irony, I’ll say this.
+ The cure for LA is in South Africa.
+ You motherfuckers need truth and reconciliation with one another.
+ Because the end of apartheid should have been a fucking bloodbath by any metric in human history, and it wasn’t.
+ The only reason it wasn’t is because Desmond Tutu and Mandela and all these guys figured out that if a system is corrupt, then the people who adhere to the system and are incentivized by that system are not criminals.
+ They are victims, and the system itself must be tried, but because of how systems work is so compartmentalized as far as information , the only way we can figure out what the system is is if everybody says what they did.
+ Tell him how you participated.
+ Because men want to help, they’re just scared.
+ Ben Affleck tried to help.
+ “What happened to these ladies is disgusting.”
+ “Oh, nigga, you grabbed a titty in ’95.”
+----Punchline----
+ “All right, fellas, I’m out.”
+
+
+Similarity Score:0.24104234527687296
+Percent Error Setup:256.24379076497775%
+Percent Error Punchline:51.404079219627555%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:205.16234355160532%
+----Setup----
+ “Fuck that, I ain’t helping.”
+I just want to help.
+ I want to be a good guy.
+ Like, I can’t even say the word “me too” anymore.
+ A nigga was like, “Dave, I’m going to the comedy club.”
+----Punchline----
+ I was like, “I am also going to the comedy club.”
+
+
+Similarity Score:0.64
+Percent Error Setup:55.0257008336573%
+Percent Error Punchline:2.8081584392551013%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:50.29929258117177%
+----Setup----
+I’m fucking around.
+ Yeah, man.
+ Well, you ladies were right.
+ Be honest with you, your lives look terrifying to me.
+ They do.
+ Man, I know nothing about being a woman, but I know fear.
+ Yo, I used to live in New York when I was 17.
+ I couldn’t even pay my bills.
+ You know what I did to make money? I used to do shows for drug dealers that wanted to clean their money up.
+ One time I did a real good set, and these motherfuckers called me in the back room.
+ They gave me $25,000 in cash.
+ I was probably 18, 19 years old.
+ I was scared.
+ I thanked them profusely, I put that money in my backpack, I jumped on the subway and started heading towards Brooklyn at one in the morning.
+ Never been that terrified in my life.
+ Because I’d never in my life had something that somebody else would want.
+ I thought to myself, “Jesus Christ, if these motherfuckers knew how much money I had in this backpack, they’d kill me for it.”
+ Then I thought, “Holy shit.
+----Punchline----
+ What if I had a pussy on me all the time?”
+
+
+Similarity Score:0.41237113402061853
+Percent Error Setup:115.40322232300979%
+Percent Error Punchline:2.8081584392551013%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:92.83874478505352%
+----Setup----
+ This is fantastic, man.
+----Punchline----
+ We had you all wrong.”
+
+
+Similarity Score:1.0909090909090908
+Percent Error Setup:94.08232905706016%
+Percent Error Punchline:51.404079219627555%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.06584436785779%
+----Setup----
+Oh, I didn’t know you would ever clap for that.
+ Well, all right.
+ That’s the first time that shit’s ever happened.
+ “Ohio?!”
+ Anyway… I live amongst the whites.
+ Small town in Ohio.
+ And it was wintertime, and it had snowed recently, so there’s huge snowdrifts on the street.
+ I was walking with my sister.
+ Now, my sister was dressed in all Muslim garb, as were her children, and I was dressed as Dave Chappelle.
+ And we were walking and just talking about something, and a car sped around the corner, and the window came down, and somebody threw a snowball and hit me right in my shoulder.
+ [thud]
+ I didn’t know what was going on.
+ Why was this happening? Because I’m black? Because she’s Muslim? Because I’m Dave Chappelle? I couldn’t tell.
+ But, again, I knew it was premeditated.
+ Because who the fuck has a snowball in a warm car? But he didn’t think it all the way through, lady.
+ Because he went around the corner and got stopped at a red light.
+ He was caught in the traffic.
+ So, I ran out into the street, and I just tapped on his window.
+ [thumping]
+ “My man, could I just talk to you guys for a second? Come on out for one second.
+ I just want to talk to you.”
+ There’s four young white dudes in the car.
+ They’re like, “Just chill, bro.”
+ I said, “Relax.
+ I just want to talk.”
+ Now, this is an old black trick.
+ Really, I didn’t want to talk.
+ I was gonna fuck ’em up.
+ So, if you’re ever caught in traffic, and a black guy starts saying he just wants to talk to you, don’t open the door.
+ Even if he’s me, smiling at you.
+And they were like, “Chill, bro.
+ Just chill.”
+ And the one guy in the back seat— I don’t know what, he was just cockier than his friends.
+ He was like, “Fuck it, man! I’ll get out the car!”
+ And I started yanking on his door.
+ “Let me help you, motherfucker.
+ Let me just help you out.”
+ And I didn’t notice his window was down.
+ And he threw a snowball, that shit hit me right in my chest.
+ Pow! He said, “Fuck you, you fucking nigger!”
+ And then the light turned green and they sped off.
+ And I smiled from ear to ear.
+ I looked at my sister, and she said, “I got the plates.”
+ And I was happy as shit because throwing a snowball at a motherfucker is a misdemeanor assault.
+ But if you call him a nigger when you do it, that’s a felony hate crime.
+ And me and my sister start dancing.
+ “We’re gonna send this motherfucker to jail!”
+I didn’t notice it, but while I was yelling at him, a crowd of all-white people had formed, ’cause it was an all-white town.
+ And I was like, “Uh-oh.”
+ I thought I was gonna get jumped.
+ Then one of them white guys stepped up and was like, “I didn’t like that at all.
+ This is not what this town represents.
+ I don’t want this goddamn stuff in my vicinity.”
+ And another white guy was like, “Yeah! I didn’t like it, either!”
+ And then an old white guy stepped out of the crowd and said, “Young man, if you’re going to fill out a police report, I would like to come with you and do the same.”
+ I said, “You guys would do that for me?”
+ And the whole crowd said, “Hooray!”
+ I said, “Come on, y’all!”
+ I looked like Malcolm X going to see Brother Johnson with a trail of white people.
+Unreal.
+ An hour later, we were all sitting in the police station, and the police came in.
+ They were like, “Well, Mr.
+ Chappelle… sixteen identical police reports.
+ We ran the tags.
+ Two young men that had their mother’s car.
+ We have all four suspects in holding, and the mother is here.
+ It’s up to you.
+ Whatever you want to do.
+ If you want to press charges, we’ll move forward.
+ Mr.
+ Chappelle, are you okay?”
+ “Huh? Sorry about that, Officer.
+ I’m a little flustered.
+ I’ve never been in a position where I could decide the fate of white children before.
+ But… it’s weighing heavy on me, sir.
+ And I really can’t decide.”
+And I saw a lady pacing back and forth in the hallway, and I said, “Is that—” He goes, “Yes, that’s their mother.”
+ “Can I speak to her before I make a decision?”
+  And when the mom came in and she saw it was me, she busted out crying.
+ “Oh, God.
+ Oh, no.
+ I don’t want him to go to jail.
+ I am so sorry.
+ I didn’t raise him to do this.
+ We love your comedy.
+ We love you at the house.”
+ I said, “Miss, please, just— All right, look.
+ I don’t necessarily want your son to go to jail, either.
+ But what he did was pretty fucked up.
+ So, is there something we can do, short of jail, just to let him know that he’s wrong?”
+ She said, “I don’t know.
+ What did you have in mind?”
+ “Miss, I’ve never been in this position before.
+ Oh, you know what we could do? I don’t know if I’m asking too much.
+ But maybe if you— if you could just… suck my dick a little bit.
+ Just a little bit.
+ I’m not gonna finish.
+ I just want you to do it enough so that I can tell him you did it.”
+ I’m kidding.
+ I’m kidding.
+ I wouldn’t do that to anybody’s mother.
+ Maybe my kid’s mom, but that’s it.
+Ebola was in Texas.
+ Ebola made a visit.
+ Killed that man in Dallas.
+ Five days, that man melted to death.
+ What happened to the brother in Dallas? “Where was the secret serum?”
+ is what we all said.
+ I remember in the beginning of Ebola, there were two American doctors that got sick in Africa.
+ They flew them in a private jet straight to Atlanta, to the CDC.
+ I didn’t even know CDC saw patients.
+ There it was said they administered what The New York Times called “a secret serum.”
+ I don’t know what’s in it.
+ It’s just like Colonel Sanders’ recipe.
+ But both of these motherfuckers survived.
+ These doctors, thank God, are healthy.
+ They are out there somewhere tonight at Whole Foods, touching vegetables, walking around.
+ Everything’s okay.
+ “Hey, Frank.
+ How are you?”
+ “You didn’t hear? I had Ebola last week.
+ But I’m doing all right now.
+ I was bleeding out of my eyes and anus, so I got concerned, but I’m okay.”
+What happened to the brother in Dallas? They just rubbed some Vicks on that nigga’s chest.
+ “Good luck, little buddy.”
+ I knew he wasn’t gonna make it.
+ I remember.
+Sad.
+ I saw in The New York Times— they said Ebola is the new AIDS.
+ Whew! Isn’t that something? Here I am, thinking that old AIDS was working just fine, and they already have a new AIDS out.
+ Isn’t that amazing how they do that? Isn’t it weird how there’s a disease that just starts in 1980, and it doesn’t kill anybody but niggas, fags and junkies? Isn’t that a fucking amazing coincidence that this disease hates everybody that old, white people hate? I think either God is white, or the government hid that shit in disco balls.
+ Only fun people get AIDS.
+Last month, on the front of The New York Times, the measles was the headline.
+ I had to check the date of the paper.
+ I was like, “Measles? Is this 1850? What the fuck is this? Why is measles in the news?”
+----Punchline----
+ It turns out they were trying to decide if mandatory vaccinations for children is the way we all want to go.
+
+
+Similarity Score:0.1293842556508184
+Percent Error Setup:1392.436611809425%
+Percent Error Punchline:78.18504286136564%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1175.3201523671323%

@@ -1,0 +1,587 @@
+----Setup----
+During the process of executing this warrant, this white woman did what Chris Dorner thought was excessive force.
+ I don’t know what she did.
+ She kicked the mother fucker that was handcuffed, or hit a guy that was handcuffed, or something.
+ Chris Dorner, the Black police officer that watched this white woman do this, reported this to his superior.
+ Made a formal complaint.
+ And was subsequently fired from the LA PD.
+He went through the system.
+He took every legal avenue he believed he had to get reinstated.
+And he was not reinstated.
+And when his last appeal was finished, this motherfucker… some wild shit.
+Wrote a manifesto, you know where this is going.
+And in that manifesto, he called me a genius.
+Me.
+ Dave Chappelle.
+Not just me, but me.
+----Punchline----
+He’s a Kevin Hart fan too.
+
+
+Similarity Score:0.5581395348837209
+Percent Error Setup:41.36685895459951%
+Percent Error Punchline:51.35135135135135%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:25.33129839189995%
+----Setup----
+ “No, you big dummy.
+----Punchline----
+ The guy from television is at the grocery store.”
+
+
+Similarity Score:0.5333333333333333
+Percent Error Setup:94.2533797172927%
+Percent Error Punchline:18.918918918918923%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:85.42659321024419%
+----Setup----
+A lot of people don’t like him, but I thought the guy was at least an optimist.
+----Punchline----
+ I am not as optimistic as he was.
+----Tagline(s)----
+ All right, just trying it out.
+
+
+Similarity Score:0.8235294117647058
+Percent Error Setup:80.46149103879519%
+Percent Error Punchline:27.027027027027028%
+Percent Error TagLine:123.07692307692308%
+Percent TagLine Number:73.2905982905983%
+Percent Error Total:66.96694460988684%
+----Setup----
+This guy’s running around like the outbreak monkey.
+----Punchline----
+ Looked like a 1970s penis, raw-dogging earth.
+
+
+Similarity Score:0.625
+Percent Error Setup:90.80540754766832%
+Percent Error Punchline:35.13513513513514%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.45503275759381%
+----Setup----
+This is my last special, because I have an objective tonight.
+ I came here tonight… because this body of work, that I’ve done on Netflix I’m going to complete.
+ All the questions you might have had about all these jokes I’d said in the last few years I hope to answer tonight.
+----Punchline----
+ And I would like to start by addressing the LBGTQ community, correct.
+----Tagline(s)----
+   And I want every member of the community to know that I’ve come here tonight in peace.
+ And I hope to negotiate the release of DaBaby.
+
+
+Similarity Score:0.4583333333333333
+Percent Error Setup:40.23514905984411%
+Percent Error Punchline:5.4054054054054%
+Percent Error TagLine:764.4230769230769%
+Percent TagLine Number:59.93589743589743%
+Percent Error Total:6.730196545562831%
+----Setup----
+I’m being very brutally honest, so we can solve this problem.
+ I’m telling you right now a Black gay person would have never done that to me.
+ ‘Cause a Black gay person knows, when the police shows up they’re not going to care who called ’em.
+----Punchline----
+ They don’t show up like, “Which one of you niggers is Clifford?”
+
+
+Similarity Score:0.3389830508474576
+Percent Error Setup:47.13109339909287%
+Percent Error Punchline:5.4054054054054%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:42.677933293627156%
+----Setup----
+ And then I looked deep in this nigga’s cheek bones.
+ And I said, “Oh my God, you are a woman.”
+ This is too much for me to even wrap my mind around but I tell you what, I un-balled my fist immediately and I softened my posture so that she would know, she is in no danger.
+ I even changed the tone of my voice.
+----Punchline----
+ I said softly, sweetly, like a pimp might say.
+----Tagline(s)----
+ “Bitch, I’m ’bout to slap the shit out of you.”
+
+
+Similarity Score:0.6136363636363636
+Percent Error Setup:24.14461226826368%
+Percent Error Punchline:18.918918918918923%
+Percent Error TagLine:234.6153846153846%
+Percent TagLine Number:73.2905982905983%
+Percent Error Total:14.502680166765927%
+----Setup----
+ You know what I mean? Bunch of hippies and shit like that.
+ And niggas always ask me like, “Dave, why do you live in that hippie town?”
+ And I’d be embarrassed to tell ’em the truth.
+ Well, you know why I live there? Because Yellow Springs, Ohio has the most beautiful women in the world.
+ And a lot of people might disagree with me but, you got to see them for yourself, they’re gorgeous.
+ But it all depends on what you’re into.
+----Punchline----
+ You know what I mean? I like White bitches with dirty feet.
+
+
+Similarity Score:2.5833333333333335
+Percent Error Setup:4.606103307058869%
+Percent Error Punchline:5.4054054054054%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:6.730196545562831%
+----Setup----
+And now, we’re right back to square one, aren’t we? And now we get to the core of the crisis.
+ What… what is a woman? What is that, in this day and time? Is there even such a thing as a woman or a man or anything? Hmm.
+ Hmm? Seems to be a question nowadays.
+----Punchline----
+ Now listen, women get mad at me gay people get mad at me, lesbians get mad at me, but I’m gonna tell you right now, and this is true… these transgenders… the niggas want me dead.
+
+
+Similarity Score:0.41304347826086957
+Percent Error Setup:36.78717689021973%
+Percent Error Punchline:199.99999999999997%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:10.616438356164378%
+----Setup----
+Before I even say anything about that community you must know and I hope you all feel the same way I am not indifferent to the suffering of someone else.
+ There’s laws, the mean laws in our country.
+ North Carolina passed a law once.
+ They said a person in North Carolina must use the restroom that corresponds with the gender they were assigned on their birth certificate.
+ No, no, no, no.
+ No, that is not a good law.
+ That is a mean law.
+----Punchline----
+ No American should have to present a birth certificate to take a shit at Walmart, in Greensboro, North Carolina where DaBaby shot and killed a motherfucker.
+
+
+Similarity Score:0.23636363636363636
+Percent Error Setup:4.606103307058869%
+Percent Error Punchline:118.9189189189189%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:6.87164979154259%
+----Setup----
+What do you think I am going to say? Thank God, she’s in here with me.
+ At least now I know my family is safe.
+ Mm-mm.
+ No, I’m not gonna feel that way at all, I’m gonna feel very uncomfortable.
+----Punchline----
+ I would feel better if it was a man with a vagina that backed up to the urinal next to me.
+----Tagline(s)----
+ I wouldn’t even think about that, I’d just be like, “That’s funny.”
+
+
+Similarity Score:0.5789473684210527
+Percent Error Setup:54.02703773834162%
+Percent Error Punchline:78.37837837837837%
+Percent Error TagLine:290.38461538461536%
+Percent TagLine Number:73.2905982905983%
+Percent Error Total:26.161405598570575%
+----Setup----
+Tough time for the Whites.
+ And this was a holiday weekend.
+ You know what I mean? These motherfuckers were having a rootin’ tootin’ time.
+ They was in there partying, making all them noises.
+ “Ooh! Ow! Yeow!”
+----Punchline----
+ You know all them noises White people make before lynching? They was doing all that shit.
+
+
+Similarity Score:2.339622641509434
+Percent Error Setup:58.62433396450746%
+Percent Error Punchline:37.83783783783783%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:48.507296009529476%
+----Setup----
+I’ve been arguing with the Whites my entire career.
+ Just when I thought I had you guys on the ropes you changed all the rules.
+ “Oh yeah?”
+ – Yeah, motherfucker! – “Well.”
+ I am a girl now, nigger.
+----Punchline----
+ You must treat me as such.
+
+
+Similarity Score:0.2222222222222222
+Percent Error Setup:56.325685851424545%
+Percent Error Punchline:43.24324324324324%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:56.27977963073258%
+----Setup----
+“Call me a girl, nigger.”
+ It’s annoying as fuck.
+ No, no, go back, go back tonight after the show, watch every special I did on Netflix.
+ Listen to everything I’ve ever said about that community.
+ I’ll go through ’em.
+ I said, “How much do I have to participate in your self image?”
+ I said, “You shouldn’t discuss this in front of Black people.”
+ I said, “I know niggas in Brooklyn that wear high heels just to feel safe.”
+----Punchline----
+ I asked you “Why is it easier for Bruce Jenner to change his gender than it is for Cassius Clay to change his name?”
+
+
+Similarity Score:0.3106796116504854
+Percent Error Setup:10.352723589766166%
+Percent Error Punchline:102.7027027027027%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:0.07072662298988026%
+----Setup----
+ I’m just calling, because I’m doing a show and I need an opening act.
+ And I was wondering if you’d open the show?”
+ And she was like, “Fuck, yeah.”
+ Now… I didn’t know this at the time but this woman had only done stand up comedy eight times in her life.
+----Punchline----
+ This was little to no experience and now she’s about to open a show for what many call the GOAT.
+
+
+Similarity Score:0.4931506849315068
+Percent Error Setup:40.23514905984411%
+Percent Error Punchline:70.27027027027026%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:29.076086956521735%
+----Setup----
+And the hardest thing for a person to do is go against their tribe if they disagree with their tribe, but Daphne did that for me.
+ She wrote a tweet that was very beautiful and what she said was and it is almost exactly what she said.
+ She said, “Punching down on someone, requires you to think less of them and I know him, and he doesn’t.
+ He doesn’t punch up, he doesn’t punch down he punches lines, and he is a master at his craft.”
+----Punchline----
+ That’s what she said.
+
+
+Similarity Score:0.3076923076923077
+Percent Error Setup:1.1581311374344903%
+Percent Error Punchline:59.45945945945946%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:11.587998808814765%
+----Setup----
+ It’s a lot of putting clues together, really is.
+----Punchline----
+ “Why am I not getting in the club? I got all the right shit on.”
+
+
+Similarity Score:0.9230769230769231
+Percent Error Setup:88.5067594345854%
+Percent Error Punchline:29.729729729729726%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:74.73942823108993%
+----Setup----
+If it was Brad Pitt doing that shit, you wouldn’t have heard a peep.
+----Punchline----
+ Girl would’ve just come back down like, “I got the part.”
+
+
+Similarity Score:0.8461538461538461
+Percent Error Setup:83.90946320841957%
+Percent Error Punchline:2.7027027027027075%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:74.73942823108993%
+----Setup----
+ Who was the kicker with a bunch of Hubba Bubba chewing niggas like… 
+[chewing]
+ “I’m having a good time, nigga.”
+----Punchline----
+ [chewing]
+
+
+Similarity Score:0.5217391304347826
+Percent Error Setup:75.86419481262935%
+Percent Error Punchline:83.78378378378379%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:77.6541095890411%
+----Setup----
+
+
+All jokes aside, Kevin Spacey shouldn’t have done that shit to that kid.
+ He was 14-years-old and was forced to carry a grown man’s secret.
+ For 30 years.
+ Jesus Christ, he must have been busting at the seams with that one.
+----Punchline----
+ The saddest part is, if he were able to carry that secret for six more months, I would get to know how House of Cards ends.
+----Tagline(s)----
+Yep, ladies and gentlemen, these are dark… 
+
+
+Similarity Score:0.2597402597402597
+Percent Error Setup:52.87771368180017%
+Percent Error Punchline:118.9189189189189%
+Percent Error TagLine:150.96153846153845%
+Percent TagLine Number:73.2905982905983%
+Percent Error Total:25.189845145920188%
+----Setup----
+ dark, dark times.
+----Punchline----
+ New York Times said that Louis CK jizzed on his own stomach.
+
+
+Similarity Score:0.23529411764705882
+Percent Error Setup:95.40270377383416%
+Percent Error Punchline:5.4054054054054%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:83.48347230494342%
+----Setup----
+But Louis was like the turning point.
+ I mean, you know, all these allegations are terrible.
+----Punchline----
+ Louis’s was the only– I shouldn’t say this but fuck it, his allegation was the only one that made me like laugh.
+----Tagline(s)----
+ Well, if you think about it… 
+
+
+Similarity Score:0.4583333333333333
+Percent Error Setup:81.61081509533665%
+Percent Error Punchline:86.48648648648648%
+Percent Error TagLine:150.96153846153845%
+Percent TagLine Number:73.2905982905983%
+Percent Error Total:53.36509827278142%
+----Setup----
+I’m fucking around.
+ Yeah, man.
+ Well, you ladies were right.
+ Be honest with you, your lives look terrifying to me.
+ They do.
+ Man, I know nothing about being a woman, but I know fear.
+ Yo, I used to live in New York when I was 17.
+ I couldn’t even pay my bills.
+ You know what I did to make money? I used to do shows for drug dealers that wanted to clean their money up.
+ One time I did a real good set, and these motherfuckers called me in the back room.
+ They gave me $25,000 in cash.
+ I was probably 18, 19 years old.
+ I was scared.
+ I thanked them profusely, I put that money in my backpack, I jumped on the subway and started heading towards Brooklyn at one in the morning.
+ Never been that terrified in my life.
+ Because I’d never in my life had something that somebody else would want.
+ I thought to myself, “Jesus Christ, if these motherfuckers knew how much money I had in this backpack, they’d kill me for it.”
+ Then I thought, “Holy shit.
+----Punchline----
+ What if I had a pussy on me all the time?”
+
+
+Similarity Score:0.41237113402061853
+Percent Error Setup:109.17697829054562%
+Percent Error Punchline:2.7027027027027075%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:88.4827278141751%
+----Setup----
+   I empathize, man, you know.
+ Everybody gets mad because I say these jokes, but you gotta understand that this is the best time to say them.
+ More now than ever, and I know there’s some comedians in the back.
+ Motherfucker, you have a responsibility to speak recklessly.
+ Otherwise my kids may never know what reckless talk sounds like.
+ The joys of being wrong.
+ I didn’t come here to be right, I just came here to fuck around.
+ It’s hot in here suddenly, isn’t it? Wonder where that heat came from.
+ [exhales]
+----Punchline----
+ I wonder what happened to me.
+
+
+Similarity Score:0.5148514851485149
+Percent Error Setup:8.036461314897185%
+Percent Error Punchline:43.24324324324324%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1.8723942823108943%
+----Setup----
+ He’s just walking through his house.
+ “This is my cotton candy machine.
+ It makes three tons of cotton candy a day.
+----Punchline----
+ You can have all the cotton candy you want.
+----Tagline(s)----
+ This closet is filled with nothing but custom-made karate slippers.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:74.71487075608789%
+Percent Error Punchline:18.918918918918923%
+Percent Error TagLine:234.6153846153846%
+Percent TagLine Number:73.2905982905983%
+Percent Error Total:57.25134008338296%
+----Setup----
+ Nobody trying to suck your dick, nigga.
+----Punchline----
+ I was trying to show you a better life.
+
+
+Similarity Score:1.1111111111111112
+Percent Error Setup:90.80540754766832%
+Percent Error Punchline:18.918918918918923%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:82.51191185229303%
+----Setup----
+ He had to let her go.
+ It was hard to let a bottom bitch go, and he wasn’t ready to let her go because his organization couldn’t handle losing her.
+ But she didn’t know that.
+ She didn’t know how important she was.
+ So what he did was, he called her to ignite her.
+ He said, “Look, bitch, you and I got to part ways.”
+ She said, “Fine, motherfucker, I don’t need you anyway, because I know somebody at Ringling Brothers.”
+----Punchline----
+ He was like, “All right, whatever.
+
+
+Similarity Score:0.36363636363636365
+Percent Error Setup:6.904751420141787%
+Percent Error Punchline:43.24324324324324%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:14.502680166765927%
+----Setup----
+ And the bag of money… was Iceberg’s money in the first place.
+ The money he got from all those women.
+ That’s a cold game.
+ That’s the motherfucking capitalist manifesto, and that’s why I went to South Africa.
+----Punchline----
+ So now we got us a little secret, bitch.
+
+
+
+Similarity Score:0.5416666666666666
+Percent Error Setup:56.325685851424545%
+Percent Error Punchline:18.918918918918923%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:53.36509827278142%
+----Setup----
+ I said, “Someone’s gonna fuck you in the butt in the holding cell.
+ You know that, right? You can’t just be throwing banana peels at Dave Chappelle.
+ They’re not gonna let you get away with this.”
+And the press called me up like, “Do you have a statement?”
+ “A statement?! For a fucking banana peel? No! I don’t have anything to say.”
+ This guy was fucking famous for throwing a banana peel at me.
+ Twenty years from now, he’ll be tucking his kids into bed, and the kids will be like, “Daddy, tell me about the day you threw that banana peel at that nigger in Santa Fe.”
+ “Boy, I tell you what.
+ That black motherfucker had it coming.
+ I saw his name up on the marquee about a week before.
+ I said, ‘Man, if I could just get close enough to meet him… I’d throw a banana on that nigger and show him how—'” Fucking Bananagate.
+ I didn’t even like— I didn’t even want to press charges.
+This has happened to me before.
+ No, seriously.
+ Not a banana.
+----Punchline----
+ I live in Ohio, right? So, this was a few winters ago.
+
+
+Similarity Score:0.2617801047120419
+Percent Error Setup:104.57968206437978%
+Percent Error Punchline:5.4054054054054%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:85.56804645622395%
+----Setup----
+   You say yes? I’m sorry, ladies and gentlemen.
+ I just— I don’t know.
+ I don’t know about this one.
+ First of all, black people generally don’t trust doctors.
+ After the Tuskegee experiments and all that shit.
+ More importantly, don’t forget Michael Jackson was killed by a doctor.
+ Granted, he was doing drugs.
+ But if I was a heroin addict and I had a licensed physician injecting heroin in me, I should survive that.
+ I’d just be like, “I’m good, right? I’m good? It’s not too much, is it?”
+ Dr.
+ Butterfingers killed Michael Jackson.
+ After that, I was like, “Fuck going to the doctor.”
+Why the fuck am I getting my kids vaccinated for an old-ass disease like measles? You might as well give them a diarrhea shot if you’re so worried.
+ Diarrhea has a bigger body count than the measles do.
+ You know, diarrhea is funny today, but… a hundred years ago, if your ass had diarrhea, you were a goner.
+ There was a zero chance of surviving.
+ You get that first squirt.
+ Pfft! Uh-oh.
+ “Better start getting my affairs in order.
+ I don’t have much time.
+ It’s diarrhea.
+ It’s very serious.”
+ You just watch your buddy slowly die in a pool of his own shit.
+ Pfft! “Oh.
+ Oh.
+ I give up, diarrhea.”
+ Pfffft! “You’re too strong.”
+ Pfft! Nowadays, your buddy would be like, “You got diarrhea? Just eat a banana, nigga.
+ Drink some water.
+ Let’s get to the club.
+ We can still make last call.”
+Tough time for the blacks.
+ These are not good times for the blacks.
+ You know what I’m talking about, right? Police are killing us again.
+ It’s a very unfortunate set of circumstances, because we were doing very well.
+ You know, America has a racial hot seat.
+ I think we can all agree that’s the truth.
+ And we can also agree that that hot seat is traditionally occupied by African-Americans in general, African-American men in particular.
+ Although, I can see that, in recent years, that seat has been occupied by Mexicans… and I daresay Arabs.
+ And we, the black Americans, would like to thank you both for your sacrifice and your struggle.
+ We needed a break.
+ We needed a goddamn break.
+ We all go through something, but at least I can leave my backpack someplace.
+ If you’re Arab and forget a backpack, you got about 20 minutes before they send that robot to blow your shit up.
+ You can kiss all that Engineering homework good-bye, Fouhad.
+Now ISIS is number one on the terrorist charts.
+ And ISIS is fucking scary.
+ ‘Cause if ISIS catches you, they’re going to cut your head off.
+ That’s what they do.
+ I’ve seen them do it on YouTube.
+ It was fucking awful.
+ He looked right into the camera and said, “Obama, I am back.”
+ [swish]
+ I saw that shit, I said, “Oh, my God.
+ Don’t like.”
+ How is this guy cutting people’s heads off on YouTube? I can’t even post a dick pic, and this motherfucker is decapitating people.
+ I’m gonna have to change my settings.
+You know, everyone has it hard.
+ But I think, harder than black people and harder than Arabs and Mexicans, you know who has it the worst? Fat black people.
+ It’s hard for white people to understand, but what I’m saying is very true.
+ Fat black people have a really rough road, because all manner of things kill white people.
+ But you know what kills more black people than anything, more than police and terrorism? Salt, nigga.
+ Regular-ass table salt.
+ Here, white people are getting Ebola cures and shit, and meanwhile, I’m dying from fucking flavoring.
+Look, honestly, I’ll stop talking about it.
+ Let me say this, though.
+ Let me just say this.
+ Can we all just say that we’ve seen it coming? Were you surprised? It’s like when that guy threw that banana at me.
+ Do you think I was surprised? Hell no.
+ I’ve been in show business 30 years.
+ I was expecting this banana.
+ I knew one of these nights— I was like, “Somebody’s gonna throw a banana at me one of these nights.”
+‘Cause that’s how it starts, with the name-calling.
+ Like that Paula Deen.
+ Remember Paula Deen got fired from the Food Network? If you know anything about show business, it is really hard to get fired from the fucking Food Network.
+ And they dropped that bitch like a hot potato.
+ All because she called somebody an N-word 30 years before she had a show.
+ I don’t know who she said it to, but whoever it was was just looking at her like, “I’m gonna get you for this, bitch.”
+ That shit came back 30 years later like a Bill Cosby rape and sunk her battleship.
+ And every black person was mad, but we weren’t that mad.
+ It was more confusing than it was infuriating.
+ I was just like, “Well, how is this bitch gonna call me a nigger when she taught me how to fry chicken? That’s not fair.”
+I think Donald Sterling‘s shit was more serious.
+ Remember Donald Sterling? He used to own the Clippers, and then he got caught on a secretly recorded tape saying some very unsavory things about African-Americans.
+ And there’s a lesson in that for all of us.
+ The lesson is if you are old and white and racist in this great country, whatever you do… don’t tell your black girlfriend about that shit.
+ Because… that’s who made the tape.
+ She recorded all that shit.
+ And the tape was terrible.
+ He was like, “Stop bringing black guys to my games.”
+ At first, we were all confused.
+ “How the fuck are you gonna have a game without us?”
+But it turned out that the black guy he was speaking of was none other than Magic Johnson, the billionaire! Unbelievable.
+ Never even mentioned the fact that he had AIDS, which is the first thing I would’ve said to my girlfriend.
+ This guy must be really racist if AIDS is the footnote.
+ “You gotta be careful, baby.
+----Punchline----
+ He got the old Ebola.”
+
+
+Similarity Score:0.09
+Percent Error Setup:1042.4281122022107%
+Percent Error Punchline:51.35135135135135%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:871.5604526503872%

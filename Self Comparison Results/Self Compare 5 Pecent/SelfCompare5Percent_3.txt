@@ -1,0 +1,390 @@
+----Setup----
+A lot of people don’t like him, but I thought the guy was at least an optimist.
+----Punchline----
+ I am not as optimistic as he was.
+----Tagline(s)----
+ All right, just trying it out.
+
+
+Similarity Score:0.8235294117647058
+Percent Error Setup:79.5011927998265%
+Percent Error Punchline:27.625108475556836%
+Percent Error TagLine:122.62262262262263%
+Percent TagLine Number:73.37337337337337%
+Percent Error Total:65.64283377558068%
+----Setup----
+I am guessing, but I bet you, he is gay.
+Yeah.
+[woman]
+ Oh my God.
+And he is not pride parade gay either, he is sad gay.
+ I feel bad for him.
+ He looks like one of them gays that prays about it.
+----Punchline----
+ Jesus, please take these dirty feelings out of my heart.
+
+
+Similarity Score:0.27450980392156865
+Percent Error Setup:51.76751247018%
+Percent Error Punchline:11.541799247902802%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:48.46425066337101%
+----Setup----
+ “This fellow is gay.”
+ Yeah, you know how I talk.
+ I call everybody a bitch-ass nigga.
+ You know what I mean? But that is not a right thing to do if they’re gay.
+ You know what I mean? And now I was in trouble and not only that, the motherfucker was huge.
+ He stood up, he was towering over me.
+ He must have been 6′ 5″, a big White corn-fed Texas homosexual, this nigga was ready to fight.
+ And he started barking on me, but I stood my ground, I wasn’t scared.
+ How could I be scared? This motherfucker’s shirt was tied up in a knot like this.
+ Oh, fuck this guy.
+ Let’s go, nigga, let’s go.
+ I thought we were going to come to blows.
+ I was ready and then right when you think we would fight, guess what he did? He picked up his phone and he called the police.
+ And this, this thing I am describing is a major issue that I have with that community.
+----Punchline----
+ Gay people are minorities, until they need to be White again.
+----Tagline(s)----
+
+
+Similarity Score:0.7103825136612022
+Percent Error Setup:104.98807200173499%
+Percent Error Punchline:3.5001446340757845%
+Percent Error TagLine:72.17217217217217%
+Percent TagLine Number:86.68668668668668%
+Percent Error Total:84.92239467849224%
+----Setup----
+There is a problem in that feminist movement, isn’t there? From its inception in America there has always been a racial component.
+ When Susan B. Anthony was having that meeting and Sojourner Truth’s Black ass showed up.
+ Read your history books.
+ All the White women asked Sojourner Truth not to speak.
+ They didn’t conflate the issues of women’s rights and slavery.
+----Punchline----
+ But you know how Black bitches are, so Sojourner Truth went up there anyway.
+
+
+Similarity Score:0.34210526315789475
+Percent Error Setup:26.445456517024503%
+Percent Error Punchline:20.62481920740527%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:23.201628439533277%
+----Setup----
+What do you think I am going to say? Thank God, she’s in here with me.
+ At least now I know my family is safe.
+ Mm-mm.
+ No, I’m not gonna feel that way at all, I’m gonna feel very uncomfortable.
+----Punchline----
+ I would feel better if it was a man with a vagina that backed up to the urinal next to me.
+----Tagline(s)----
+ I wouldn’t even think about that, I’d just be like, “That’s funny.”
+
+
+Similarity Score:0.47368421052631576
+Percent Error Setup:51.76751247018%
+Percent Error Punchline:76.9164015041944%
+Percent Error TagLine:289.5895895895896%
+Percent TagLine Number:73.37337337337337%
+Percent Error Total:23.201628439533277%
+----Setup----
+ I was drunk.
+ I looked over my shoulder, I thought I was trippin’.
+----Punchline----
+ Guess who was in the bar? I thought I was seeing things, I looked across the room and I saw… the trans-bitch from the picture.
+
+
+Similarity Score:0.7
+Percent Error Setup:83.118629364563%
+Percent Error Punchline:109.08301995950247%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:59.57980444185962%
+----Setup----
+ “Well, then shoot me.
+ I would rather die of a bullet than dehydration.
+ Nigga, I am thirsty.
+----Punchline----
+ I need some water.”
+
+
+Similarity Score:0.5217391304347826
+Percent Error Setup:78.295380611581%
+Percent Error Punchline:59.79172693086491%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.75838755406929%
+----Setup----
+
+
+All jokes aside, Kevin Spacey shouldn’t have done that shit to that kid.
+ He was 14-years-old and was forced to carry a grown man’s secret.
+ For 30 years.
+ Jesus Christ, he must have been busting at the seams with that one.
+----Punchline----
+ The saddest part is, if he were able to carry that secret for six more months, I would get to know how House of Cards ends.
+----Tagline(s)----
+Yep, ladies and gentlemen, these are dark… 
+
+
+Similarity Score:0.2597402597402597
+Percent Error Setup:50.5617002819345%
+Percent Error Punchline:117.12467457332949%
+Percent Error TagLine:150.45045045045043%
+Percent TagLine Number:73.37337337337337%
+Percent Error Total:22.191123550579768%
+----Setup----
+ dark, dark times.
+----Punchline----
+ New York Times said that Louis CK jizzed on his own stomach.
+
+
+Similarity Score:0.23529411764705882
+Percent Error Setup:95.176751247018%
+Percent Error Punchline:4.5415099797512335%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:82.82141688779033%
+----Setup----
+ That’s not what happens.
+ It was cold out there.
+ For real, I had to watch it all go down without me.
+ I had to watch all those people do my show.
+ Key & Peele and Amy Schumer and… Mind of Mencia.
+ I’m not gonna say they were doing my show.
+ I’m just saying they were awfully similar.
+ I was mad.
+ People would come up to me on the street, “Yo, nigga.”
+ Most people thought I was crazy, but sometimes people come, “Yo, nigga, you did the right thing, man.
+ You my hero.”
+ Nigga, I don’t want to be your hero.
+----Punchline----
+ I want to be rich.
+
+
+Similarity Score:0.5420560747663551
+Percent Error Setup:21.7870310127955%
+Percent Error Punchline:51.75007231703789%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:8.12402311802552%
+----Setup----
+ Everybody be comfortable and relax.
+ Oh, my gosh.
+ Good to be back in Austin, Texas.
+----Punchline----
+ It’s good to know that plaid is back in.
+
+
+Similarity Score:0.46153846153846156
+Percent Error Setup:80.707004988072%
+Percent Error Punchline:19.583453861729822%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:73.72687288720876%
+----Setup----
+ You can say what you want about that girl, but I’m gonna tell you right now she is a goddamn hero.
+ You might’ve thought these things were happening before, but now you can see it all in front of you without a shadow of a doubt.
+ That shit actually went down.
+ She sucked that old guy’s dick.
+ She really took one for the team on that one.
+ That’s really gross.
+ His dick is, like, 80 years old.
+ It’s like tasting history.
+ Like, five wars on it, the Civil Rights Movement, the Great Depression.
+ This guy’s been fucking from 40 years before Bill Cosby‘s first rape.
+ It’s a very old man.
+ A very old penis.
+But all that shit is still just name-calling.
+ Like, name-calling does not break the modern black man.
+ That’s not gonna do the trick.
+ I don’t give a fuck about that.
+ If I went to Kentucky Fried Chicken, and for some reason, everyone behind the counter had a Ku Klux Klan hood on top of their head, what do you think I’m gonna do in this day and age? Run out of Kentucky Fried Chicken? Not if I’m hungry.
+ I’ll go straight to the front.
+ “Hey, man.
+ Let me get a two-piece.”
+ I don’t give a fuck what he says.
+ “You want a biscuit with that, nigger?”
+ “I thought it came with a biscuit.
+ What’s all this attitude? I want a two-piece.
+ Chop, chop.
+ You know what it is.”
+ But I’m not gonna be mad.
+ Why would I be mad? He’s the one that’s gotta work at Kentucky Fried Chicken, not me.
+How about this? What if I lived in Austin and I had a white girlfriend? It’s possible in Austin.
+ As a matter of fact, some people say it’s necessary.
+ But that’s not the point.
+ And me and my white girlfriend are at home one night, and we’re just doing what lovers do.
+ Maybe she’s butt-naked and she’s down on one knee, giving me a hand-job.
+ I love a good hand-job.
+ And she’s really jerking me off.
+ You know, getting her obliques nice and tight.
+ I got a huge dick, so she’s like… 
+[grunting]
+ And I’m like, “Wow, this really feels wonderful.
+ I think I’m gonna come.”
+ And then she looks up at me and goes, “Come in my face… nigger.”
+ I know, that’s a tough one.
+ Well, what do you think I’m gonna do? “Hey!”
+ That’s no time for integrity, ladies and gentlemen.
+ I’m busting that nut in her face.
+ I’ll sort through the ethics later.
+ But I’m what they call a man of his word.
+ If I say I’m coming, I’m coming.
+ I don’t give a fuck what happens.
+ God forbid, somebody could shoot me.
+ If I say I’m coming, there’s still that— [imitates gunshot]
+ It doesn’t mean I like getting shot.
+Oh, boy.
+ Yeah, a tough time for the blacks.
+ I’m not gonna say nothing about the police.
+ I’ll leave that for Chris Rock.
+The other big sports story was, fucking, Ray Rice’s tape.
+ Anyone see that Ray Rice tape? I can’t stop watching it.
+ It’s fucking awful.
+ It’s the most violent thing I’ve seen happen to a woman that was shot in color.
+ Really fucking bad.
+ If I could’ve froze time at that moment and gave Ray Rice some advice, I don’t think there’s any way possible I’d be like… “You should punch her in the face.”
+ That’s a fucking terrible idea.
+ At the same time, I also believe she shouldn’t have rushed him.
+ What the fuck? You can’t beat him.
+ Don’t rush a motherfucker that’s trained to stiff-arm people in the clutch.
+ He’s gonna get the upper hand.
+The only reason I bring him up is because he’s about to play football again.
+ You didn’t know that? The NFL was told by a federal judge they had to reinstate Ray Rice because he was transparent with their investigation.
+ He told them exactly what he did.
+ And they can’t just change their ruling just because the tape came out.
+ I get it.
+ That’s like if I’m hanging out with my buddies, and I’m like, “Hey, guys, guess what I did last night? I fucked this big, fat girl I met at the club.”
+ And they’re all like, “Oh, shit, Dave.
+ That’s crazy.”
+ And then they see a tape of me doing it, and they’re like… “We can’t hang out with you anymore, Dave.
+ That’s not what this crew is all about.”
+ I’d be like, “What? I told y’all what I did.”
+What’s really fucked up is the tape was made before they were married.
+ Isn’t that weird? I don’t know why she’d do that.
+ I don’t even know why he would do that.
+ As a guy, would you want to live with a woman that you had once punched in the face with all your strength? That’s some very bold Color Purple-type shit.
+ “Celie! Come out here and shave me!”
+ Are you out of your fucking mind?I had to ask an older friend of mine, just to get some perspective, this older black dude.
+ Actually the fairest person I’ve ever met.
+ And I asked him.
+ I just said, “Hey, man, did you see that Ray Rice video?”
+ And instantly, he was like, “David, that shit was disgusting.”
+ And then a moment later, he goes… “I wonder what she said to him.”
+ I don’t think that matters.
+ I think the idea is you’re not supposed to punch her in the face.
+ Because my wife says terrible shit to me.
+ My wife once called me a pussy… in front of dinner guests.
+ I know.
+ I started to get mad, but then I was like, “Fuck it.
+ She’s probably right.”
+ I am a pussy.
+ I admit it.
+ I’m soft and warm and persuasive, like a real pussy.
+ That’s right.
+ Then I told her, “If you don’t take care of me properly, I might stink, like your pussy.”
+[crowd]
+ Ohh!Oh, we fight dirty at the Chappelle household.
+ It’s not a big deal.
+No, no.
+ If you want to get to the bottom of a matter of the heart, what you’re supposed to do is ask a woman.
+ Now, actually, there’s two women that I know— they’re both college professors in this little area I live in, and I meet them twice a week at Starbucks for coffee.
+ We talk about important shit.
+ And I asked the girls— we was in a coffee klatch.
+ I said, “Yo, why do y’all think that this woman stayed with Ray Rice after he punched her in the face with all his strength?”
+ And one of my girlfriends said, “David, you need to wake the fuck up.
+ She’s staying for the money.”
+ Now, wait a minute, ’cause my other girlfriend was like, “I disagree.
+ I think that she actually loves him.”
+ And I said, “Wait a minute, ladies.
+ You know what? I think that you’re both right.”
+ And what I was doing when I said that was preserving the possibility of a threesome with these bitches.
+ I’d been chipping away at this pussy one cup of coffee at a time for, like, four years.
+ I wasn’t gonna throw that hard work away with some Ray Rice shit.
+ I don’t care that much.
+ I’m just being real.
+It’s fucked up, man.
+ It’s a tough time for the blacks.
+[man]
+ I love you, Dave!I love you, too.
+ And then here comes the banana peel.
+ I’m waiting on it any second.
+ You know that’s how it starts.
+ I saw in the paper today that the guy that threw the banana at me got arrested again ’cause he threw a banana at another motherfucker in a bar in Santa Fe.
+ Look it up online after the show.
+ He actually did that.
+ And that guy was black, too.
+ I’m just saying.
+ And you know why the guy said he did it that night? He said, “I did it ’cause Dave Chappelle is racist.”
+ So, nigga? That’s not the best way to handle that if I am racist.
+ What if Martin Luther King just went around throwing tuna casserole on white people? Would that work?[woman shouting]
+Huh?   Come on, Dave!Your girl’s bubbling.
+ She’s drunk as hell, buddy.
+ Listen, sir, I don’t know what she’s saying, but just take my advice.
+ Get some water in her, or you’re gonna have some dry pussy when you get home.
+ His dick’s gonna be chafed the fuck up tomorrow.
+Santa Maria.
+ Who got a cigarette in here? Anyone got a cigarette I can borrow? Yeah.
+ You, fella.
+ Yeah, please.
+[crowd]
+ Ohh!Let me see.
+ This is a Marlboro menthol.
+ This could’ve been anybody.
+ If it was a Newport, I’d be like, “A black dude threw that up.”
+ But a Marlboro menthol, that’s one of them riddles.
+----Punchline----
+ Oh.
+
+
+Similarity Score:0.1590594744121715
+Percent Error Setup:1641.1927998265019%
+Percent Error Punchline:83.91669077234596%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1361.1900694267747%
+----Setup----
+Is the word “pussy” offensive?[crowd]
+ No!All right, just checking, just checking.
+ I asked that crowd when we was in Denver, “Is the word ‘pussy’ offensive?”
+ And the whole crowd said no, except for two people.
+ One was a woman in the front, older than me, maybe around my age.
+ Definitely a feminist.
+ You know what I mean.
+ Short haircut, plaid shirt.
+ You know what I’m saying.
+ And she didn’t say it offended her.
+ What she said is, she said, “I am uncomfortable with that word.”
+ And I was like, “Really? You?”
+ And before I could ask her why, there was one guy in the balcony— I don’t think he was saying this to me, but he said this.
+ Everybody heard him say it.
+ He goes, “It’s delicious.”
+ I was like, “What?”
+ I don’t think I’ve ever heard pussy called delicious before in my life.
+ Now, this is not to say that it’s bad.
+ But it’s definitely an acquired taste.
+ I don’t think any of us tasted pussy our first time like… 
+[smacking lips]
+ “Mmm! It’s good!”
+ It needs something.
+You know, it’s illegal for a gynecologist to say the word “pussy.”
+ They can only say “vagina,” or they can name individual parts medically, but they can never say shorthand, even if the gynecologist is a woman.
+ I feel like if it was a woman gynecologist, it’s cool.
+ Like, “Am I all right?”
+ She’s like, “Girl, that pussy is…” [clicks tongue]
+ She’d be like, “Yeah.”
+I don’t think men should be allowed to be gynecologists.
+ That shit is a conflict of interest.
+----Punchline----
+ Even when my wife was pregnant, we used to go to a gynecologist… 
+
+
+Similarity Score:0.6204379562043796
+Percent Error Setup:212.3053567555845%
+Percent Error Punchline:20.62481920740527%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:176.87833957326163%

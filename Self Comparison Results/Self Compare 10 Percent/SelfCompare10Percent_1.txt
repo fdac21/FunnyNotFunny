@@ -1,0 +1,685 @@
+----Setup----
+Do you guys remember what life was like before Covid? I do.
+ There was a mass shooting every week.
+----Punchline----
+ Anyone remember that? Thank god for Covid.
+----Tagline(s)----
+ Someone had to lock these murderous whites up, keep them in the house.
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:77.29915312428474%
+Percent Error Punchline:36.127256041602934%
+Percent Error TagLine:302.7777777777778%
+Percent TagLine Number:73.66255144032921%
+Percent Error Total:57.977459173503036%
+----Setup----
+ Stimulus checks, the heroin.
+----Punchline----
+ And the rest of the country is trying to move forward, and these white niggas keep holding us back.
+
+
+Similarity Score:0.8
+Percent Error Setup:94.02609292744334%
+Percent Error Punchline:59.68185989599266%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:74.98658284137085%
+----Setup----
+ I don’t know what it is.
+----Punchline----
+ Half, maybe 70%, whatever it is, it’s too much.
+
+
+Similarity Score:3.0588235294117645
+Percent Error Setup:91.63653009842069%
+Percent Error Punchline:20.15907005200367%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:82.99087633213217%
+----Setup----
+This guy’s running around like the outbreak monkey.
+----Punchline----
+ Looked like a 1970s penis, raw-dogging earth.
+
+
+Similarity Score:0.625
+Percent Error Setup:90.44174868390937%
+Percent Error Punchline:36.127256041602934%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:83.99141301847735%
+----Setup----
+ Some cold stuff, man.
+ That’s some cold stuff.
+----Punchline----
+ That would be like me going to the homeless shelter with a bag full of hamburgers and saying, “These is mines.”
+
+
+Similarity Score:0.5806451612903226
+Percent Error Setup:89.24696726939803%
+Percent Error Punchline:75.65004588559194%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:68.98336272329986%
+----Setup----
+ I’m going all the way.
+ I kept my cool, I was nice.
+ I said, “Hello, miss.”
+ And she didn’t say anything back, all she said was “I watch your comedy.”
+ I said “Oh-oh.”
+ And then she says, this is true, she goes, “Sounds to me… like you, hate women.”
+ I said, “Well, you know what, miss? It’s art.”
+ You are free to interpret this art however you like but I can tell you as the maker of this art that I don’t believe that I feel that way.
+----Punchline----
+ And she said, “Well, I think…” And I said, “Shut up, bitch! Shut the fuck up!”
+
+
+Similarity Score:0.7169811320754716
+Percent Error Setup:6.335545891508361%
+Percent Error Punchline:35.729580911593764%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:6.056888752587594%
+----Setup----
+“Before I kill you and put you in the trunk.
+----Punchline----
+ Ain’t nobody around here.”
+
+
+Similarity Score:1.0666666666666667
+Percent Error Setup:88.0521858548867%
+Percent Error Punchline:60.07953502600183%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.99194970482252%
+----Setup----
+I agreed with these women.
+ I just didn’t agree with what they were doing about it.
+ Right.
+ Right.
+ No, it was annoying as fuck… because if these women were serious, you know what they would have done? They all would have fired their agents.
+ And they would have went to the mailroom of one of these big agencies and found a woman that was bustin’ her hump in there and said, “If you want to talk to us then you have to talk to her.”
+ And if they did that, then she would be big, and they would be big and nobody would get fed to Harvey Weinstein.
+ But did they do that?[audience]
+ No!No.
+Was that their idea? No.
+ Surprisingly it was mine.
+----Punchline----
+ What I think, the feminist movement needs to be very successful… is a male leader.
+
+
+Similarity Score:0.36231884057971014
+Percent Error Setup:45.763332570382246%
+Percent Error Punchline:27.745487916794133%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:38.074062715632905%
+----Setup----
+Before I even say anything about that community you must know and I hope you all feel the same way I am not indifferent to the suffering of someone else.
+ There’s laws, the mean laws in our country.
+ North Carolina passed a law once.
+ They said a person in North Carolina must use the restroom that corresponds with the gender they were assigned on their birth certificate.
+ No, no, no, no.
+ No, that is not a good law.
+ That is a mean law.
+----Punchline----
+ No American should have to present a birth certificate to take a shit at Walmart, in Greensboro, North Carolina where DaBaby shot and killed a motherfucker.
+
+
+Similarity Score:0.23636363636363636
+Percent Error Setup:0.8331425955596179%
+Percent Error Punchline:115.57051085959009%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:10.059035497968258%
+----Setup----
+ This is where the poor Whites drink.
+ The Tiki torch Whites.
+ You know what I mean? Them White people, they believe in “Q” and they love Trump.
+----Punchline----
+ You know what I mean? Like Michigan White people.
+
+
+Similarity Score:6.368421052631579
+Percent Error Setup:66.54612039368276%
+Percent Error Punchline:20.15907005200367%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:61.97960591888369%
+----Setup----
+Tough time for the Whites.
+ And this was a holiday weekend.
+ You know what I mean? These motherfuckers were having a rootin’ tootin’ time.
+ They was in there partying, making all them noises.
+ “Ooh! Ow! Yeow!”
+----Punchline----
+ You know all them noises White people make before lynching? They was doing all that shit.
+
+
+Similarity Score:2.490566037735849
+Percent Error Setup:56.98786907759212%
+Percent Error Punchline:35.729580911593764%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:46.9715556237062%
+----Setup----
+ I was drunk.
+ I looked over my shoulder, I thought I was trippin’.
+----Punchline----
+ Guess who was in the bar? I thought I was seeing things, I looked across the room and I saw… the trans-bitch from the picture.
+
+
+Similarity Score:0.7
+Percent Error Setup:83.27306019684139%
+Percent Error Punchline:107.58641786479046%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:59.978532546193364%
+----Setup----
+ Gender is a fact, this is a fact.
+ Every human being in this room, every human being on Earth had to pass through the legs of a woman to be on Earth.
+----Punchline----
+ That is a fact.
+----Tagline(s)----
+ Now… I am not saying that to say, that trans women aren’t women.
+
+
+Similarity Score:0.6037735849056604
+Percent Error Setup:60.572213321126114%
+Percent Error Punchline:60.07953502600183%
+Percent Error TagLine:302.7777777777778%
+Percent TagLine Number:73.66255144032921%
+Percent Error Total:46.9715556237062%
+----Setup----
+ And I saw her show.
+----Punchline----
+ Something bad happened to her.
+
+
+Similarity Score:2.0
+Percent Error Setup:92.83131151293202%
+Percent Error Punchline:52.0954420312022%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:87.993559763858%
+----Setup----
+ …he said, “Does the carpet match the drapes?”
+ It was fucked up.
+ The whole crowd kind of groaned, ’cause it was so like, mean.
+ Everybody groaned, except for Daphne.
+ She kind of laughed, which was weird.
+ And she didn’t even look all the way back.
+ She said, “Sir, I don’t have carpets I have hardwood floors.”
+----Punchline----
+ Just like that.
+----Tagline(s)----
+ Just like that.
+
+
+Similarity Score:0.3939393939393939
+Percent Error Setup:31.897459372854197%
+Percent Error Punchline:68.06362802080147%
+Percent Error TagLine:34.25925925925926%
+Percent TagLine Number:73.66255144032921%
+Percent Error Total:33.96457870121905%
+----Setup----
+Because she didn’t say anything about pronouns.
+ She didn’t say anything about me being in trouble.
+ She said, “Just believe I’m a person and I’m going through it.”
+----Punchline----
+ I know I believe you, because it takes one to know one.
+----Tagline(s)----
+Then I told the crowd “Good night.”
+
+
+Similarity Score:0.4489795918367347
+Percent Error Setup:66.54612039368276%
+Percent Error Punchline:3.793208932395232%
+Percent Error TagLine:114.81481481481484%
+Percent TagLine Number:73.66255144032921%
+Percent Error Total:50.97370236908687%
+----Setup----
+ We didn’t know what it was.
+ Because we were young boys just trying to figure out who we were.
+ And we didn’t realize these gay dudes were fighting to be who they knew they already were.
+ Some impressive shit.
+ They were fearless, the gay kids.
+ Fucking fearless.
+ I’ve never seen a scared gay dude in my life.
+ What kind of man has no fear? You could be tied up in a hostage situation with a gay dude, and them niggas still be like, “I’m thirsty.”
+ “Shh.
+----Punchline----
+ Shh!”
+
+
+Similarity Score:0.33707865168539325
+Percent Error Setup:3.9459830624857015%
+Percent Error Punchline:84.03181401040072%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:10.952234915280227%
+----Setup----
+ “Well, then shoot me.
+ I would rather die of a bullet than dehydration.
+ Nigga, I am thirsty.
+----Punchline----
+ I need some water.”
+
+
+Similarity Score:0.5217391304347826
+Percent Error Setup:78.49393453879607%
+Percent Error Punchline:60.07953502600183%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.98765621406119%
+----Setup----
+ Come on, man.
+----Punchline----
+ That’s a brittle spirit.
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:95.22087434195467%
+Percent Error Punchline:60.07953502600183%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:90.9951698228935%
+----Setup----
+ That is a brittle-ass spirit.
+ That shit is too much.
+ This is a grown-ass woman.
+ You know what this shit is like?It’s like COINTELPRO.
+ You know what that is? It’s the programming the FBI had on J.
+ Edgar Hoover.
+ In this program, one of the many things they did was they would track the sexual habits of anyone they considered an enemy of the state.
+ It’s a loop button.
+ That’s why they’ve got all these fucking sex tapes with Martin Luther King fucking bitches.
+----Punchline----
+ But lucky for us, he actually had a dream.
+
+
+Similarity Score:0.5531914893617021
+Percent Error Setup:0.36163881895171196%
+Percent Error Punchline:20.15907005200367%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:5.949551483554397%
+----Setup----
+ “And what are you gonna bring me?”
+ “Your gun and your groundskeeper uniform.”
+----Punchline----
+ “That’s right.”
+----Tagline(s)----
+ “I’ll go outside and see what they want.”
+
+
+Similarity Score:0.37037037037037035
+Percent Error Setup:83.27306019684139%
+Percent Error Punchline:76.0477210156011%
+Percent Error TagLine:168.51851851851853%
+Percent TagLine Number:73.66255144032921%
+Percent Error Total:72.98550946868052%
+----Setup----
+   I empathize, man, you know.
+ Everybody gets mad because I say these jokes, but you gotta understand that this is the best time to say them.
+ More now than ever, and I know there’s some comedians in the back.
+ Motherfucker, you have a responsibility to speak recklessly.
+ Otherwise my kids may never know what reckless talk sounds like.
+ The joys of being wrong.
+ I didn’t come here to be right, I just came here to fuck around.
+ It’s hot in here suddenly, isn’t it? Wonder where that heat came from.
+ [exhales]
+----Punchline----
+ I wonder what happened to me.
+
+
+Similarity Score:0.5148514851485149
+Percent Error Setup:12.309452964065011%
+Percent Error Punchline:44.11134903640257%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1.0542053208617645%
+----Setup----
+ Maybe there’s something else going on.
+ Maybe these rapes aren’t even the worst of it.
+----Punchline----
+ Wouldn’t that be something? Wouldn’t that be something? You can go to the bathroom, Brooklyn, you don’t need to hear this shit.
+
+
+Similarity Score:0.358974358974359
+Percent Error Setup:80.88349736781872%
+Percent Error Punchline:83.63413888039156%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:60.97906923253853%
+----Setup----
+ You see that motherfucker right there? He’s under an enormous amount of pressure.
+ He is.
+----Punchline----
+ Just being big and black with that hairdo, nigga, these motherfuckers are a suspect for everything.
+----Tagline(s)----
+ Except white collar crime.
+
+
+Similarity Score:0.3076923076923077
+Percent Error Setup:80.88349736781872%
+Percent Error Punchline:35.729580911593764%
+Percent Error TagLine:61.111111111111114%
+Percent TagLine Number:73.66255144032921%
+Percent Error Total:60.97906923253853%
+----Setup----
+ Scary being a white dude now, isn’t it? A little bit, no? Well, you’re not going to get “me too-ed.”
+ You know what I mean.
+ It’s funny for a black dude to see white people go through this because this is how it always is for us.
+----Punchline----
+ All my heroes were either murdered by the government or… are registered sex offenders.
+
+
+Similarity Score:1.9365079365079365
+Percent Error Setup:42.650492103456166%
+Percent Error Punchline:19.761394921994498%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:36.96618876025454%
+----Setup----
+ Didn’t look like he’s trying to fuck kids, looked like he’s trying to impress ’em.
+----Punchline----
+ Like, this nigga’s Jay-Z for kids.
+
+
+Similarity Score:0.34782608695652173
+Percent Error Setup:80.88349736781872%
+Percent Error Punchline:44.11134903640257%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.98765621406119%
+----Setup----
+ Never choose to be a hero, ’cause heroes die uncomfortable deaths.
+ All I wanted to be was Paul Revere.
+ I just needed one heroic moment, you understand? “Paul Revere’s Ride” was only one night.
+ And then 40 years of him being like, “Hey, y’all, remember that time everybody was asleep, and I was up, and the British was coming? Boy, it’s a good thing I was awake, nigga, everybody be dead.
+----Punchline----
+ Psh.”
+
+
+Similarity Score:0.5675675675675675
+Percent Error Setup:13.975738155184247%
+Percent Error Punchline:84.03181401040072%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:25.960285210457716%
+----Setup----
+ And yet, he took a knee during that anthem for us.
+ Thought about us when things were going good, when his belly was full, when he was– He didn’t think about his livelihood or any of that, and they took his livelihood away from him.
+ Like, man, that shouldn’t be the way it is.
+Every fucking person that takes a stand for somebody else always gets beat down.
+ And we watch.
+ Over and over and over again, we watch it.
+ We should pay those motherfuckers for blowing the whistle, because they make our lives better, and we could change the narrative.
+ We could make one motherfucker have a good outcome for doing the right thing and that would make another motherfucker brave enough to do the right thing.
+ And if you did that, the niggas like Harvey Weinstein wouldn’t rape for 40 years because a bitch want a stupid ass part.
+We should take care of each other.
+----Punchline----
+ Wouldn’t it be nice to be like, “Remember that time he was gonna kill Jesus but then he got all that money?”
+
+
+Similarity Score:0.14444444444444443
+Percent Error Setup:87.5806820782788%
+Percent Error Punchline:83.63413888039156%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:80.09660354212987%
+----Setup----
+Oh, I didn’t know you would ever clap for that.
+ Well, all right.
+ That’s the first time that shit’s ever happened.
+ “Ohio?!”
+ Anyway… I live amongst the whites.
+ Small town in Ohio.
+ And it was wintertime, and it had snowed recently, so there’s huge snowdrifts on the street.
+ I was walking with my sister.
+ Now, my sister was dressed in all Muslim garb, as were her children, and I was dressed as Dave Chappelle.
+ And we were walking and just talking about something, and a car sped around the corner, and the window came down, and somebody threw a snowball and hit me right in my shoulder.
+ [thud]
+ I didn’t know what was going on.
+ Why was this happening? Because I’m black? Because she’s Muslim? Because I’m Dave Chappelle? I couldn’t tell.
+ But, again, I knew it was premeditated.
+ Because who the fuck has a snowball in a warm car? But he didn’t think it all the way through, lady.
+ Because he went around the corner and got stopped at a red light.
+ He was caught in the traffic.
+ So, I ran out into the street, and I just tapped on his window.
+ [thumping]
+ “My man, could I just talk to you guys for a second? Come on out for one second.
+ I just want to talk to you.”
+ There’s four young white dudes in the car.
+ They’re like, “Just chill, bro.”
+ I said, “Relax.
+ I just want to talk.”
+ Now, this is an old black trick.
+ Really, I didn’t want to talk.
+ I was gonna fuck ’em up.
+ So, if you’re ever caught in traffic, and a black guy starts saying he just wants to talk to you, don’t open the door.
+ Even if he’s me, smiling at you.
+And they were like, “Chill, bro.
+ Just chill.”
+ And the one guy in the back seat— I don’t know what, he was just cockier than his friends.
+ He was like, “Fuck it, man! I’ll get out the car!”
+ And I started yanking on his door.
+ “Let me help you, motherfucker.
+ Let me just help you out.”
+ And I didn’t notice his window was down.
+ And he threw a snowball, that shit hit me right in my chest.
+ Pow! He said, “Fuck you, you fucking nigger!”
+ And then the light turned green and they sped off.
+ And I smiled from ear to ear.
+ I looked at my sister, and she said, “I got the plates.”
+ And I was happy as shit because throwing a snowball at a motherfucker is a misdemeanor assault.
+ But if you call him a nigger when you do it, that’s a felony hate crime.
+ And me and my sister start dancing.
+ “We’re gonna send this motherfucker to jail!”
+I didn’t notice it, but while I was yelling at him, a crowd of all-white people had formed, ’cause it was an all-white town.
+ And I was like, “Uh-oh.”
+ I thought I was gonna get jumped.
+ Then one of them white guys stepped up and was like, “I didn’t like that at all.
+ This is not what this town represents.
+ I don’t want this goddamn stuff in my vicinity.”
+ And another white guy was like, “Yeah! I didn’t like it, either!”
+ And then an old white guy stepped out of the crowd and said, “Young man, if you’re going to fill out a police report, I would like to come with you and do the same.”
+ I said, “You guys would do that for me?”
+ And the whole crowd said, “Hooray!”
+ I said, “Come on, y’all!”
+ I looked like Malcolm X going to see Brother Johnson with a trail of white people.
+Unreal.
+ An hour later, we were all sitting in the police station, and the police came in.
+ They were like, “Well, Mr.
+ Chappelle… sixteen identical police reports.
+ We ran the tags.
+ Two young men that had their mother’s car.
+ We have all four suspects in holding, and the mother is here.
+ It’s up to you.
+ Whatever you want to do.
+ If you want to press charges, we’ll move forward.
+ Mr.
+ Chappelle, are you okay?”
+ “Huh? Sorry about that, Officer.
+ I’m a little flustered.
+ I’ve never been in a position where I could decide the fate of white children before.
+ But… it’s weighing heavy on me, sir.
+ And I really can’t decide.”
+And I saw a lady pacing back and forth in the hallway, and I said, “Is that—” He goes, “Yes, that’s their mother.”
+ “Can I speak to her before I make a decision?”
+  And when the mom came in and she saw it was me, she busted out crying.
+ “Oh, God.
+ Oh, no.
+ I don’t want him to go to jail.
+ I am so sorry.
+ I didn’t raise him to do this.
+ We love your comedy.
+ We love you at the house.”
+ I said, “Miss, please, just— All right, look.
+ I don’t necessarily want your son to go to jail, either.
+ But what he did was pretty fucked up.
+ So, is there something we can do, short of jail, just to let him know that he’s wrong?”
+ She said, “I don’t know.
+ What did you have in mind?”
+ “Miss, I’ve never been in this position before.
+ Oh, you know what we could do? I don’t know if I’m asking too much.
+ But maybe if you— if you could just… suck my dick a little bit.
+ Just a little bit.
+ I’m not gonna finish.
+ I just want you to do it enough so that I can tell him you did it.”
+ I’m kidding.
+ I’m kidding.
+ I wouldn’t do that to anybody’s mother.
+ Maybe my kid’s mom, but that’s it.
+Ebola was in Texas.
+ Ebola made a visit.
+ Killed that man in Dallas.
+ Five days, that man melted to death.
+ What happened to the brother in Dallas? “Where was the secret serum?”
+ is what we all said.
+ I remember in the beginning of Ebola, there were two American doctors that got sick in Africa.
+ They flew them in a private jet straight to Atlanta, to the CDC.
+ I didn’t even know CDC saw patients.
+ There it was said they administered what The New York Times called “a secret serum.”
+ I don’t know what’s in it.
+ It’s just like Colonel Sanders’ recipe.
+ But both of these motherfuckers survived.
+ These doctors, thank God, are healthy.
+ They are out there somewhere tonight at Whole Foods, touching vegetables, walking around.
+ Everything’s okay.
+ “Hey, Frank.
+ How are you?”
+ “You didn’t hear? I had Ebola last week.
+ But I’m doing all right now.
+ I was bleeding out of my eyes and anus, so I got concerned, but I’m okay.”
+What happened to the brother in Dallas? They just rubbed some Vicks on that nigga’s chest.
+ “Good luck, little buddy.”
+ I knew he wasn’t gonna make it.
+ I remember.
+Sad.
+ I saw in The New York Times— they said Ebola is the new AIDS.
+ Whew! Isn’t that something? Here I am, thinking that old AIDS was working just fine, and they already have a new AIDS out.
+ Isn’t that amazing how they do that? Isn’t it weird how there’s a disease that just starts in 1980, and it doesn’t kill anybody but niggas, fags and junkies? Isn’t that a fucking amazing coincidence that this disease hates everybody that old, white people hate? I think either God is white, or the government hid that shit in disco balls.
+ Only fun people get AIDS.
+Last month, on the front of The New York Times, the measles was the headline.
+ I had to check the date of the paper.
+ I was like, “Measles? Is this 1850? What the fuck is this? Why is measles in the news?”
+----Punchline----
+ It turns out they were trying to decide if mandatory vaccinations for children is the way we all want to go.
+
+
+Similarity Score:0.1293842556508184
+Percent Error Setup:1406.6193636987869%
+Percent Error Punchline:75.65004588559194%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1183.6885685808481%
+----Setup----
+   You say yes? I’m sorry, ladies and gentlemen.
+ I just— I don’t know.
+ I don’t know about this one.
+ First of all, black people generally don’t trust doctors.
+ After the Tuskegee experiments and all that shit.
+ More importantly, don’t forget Michael Jackson was killed by a doctor.
+ Granted, he was doing drugs.
+ But if I was a heroin addict and I had a licensed physician injecting heroin in me, I should survive that.
+ I’d just be like, “I’m good, right? I’m good? It’s not too much, is it?”
+ Dr.
+ Butterfingers killed Michael Jackson.
+ After that, I was like, “Fuck going to the doctor.”
+Why the fuck am I getting my kids vaccinated for an old-ass disease like measles? You might as well give them a diarrhea shot if you’re so worried.
+ Diarrhea has a bigger body count than the measles do.
+ You know, diarrhea is funny today, but… a hundred years ago, if your ass had diarrhea, you were a goner.
+ There was a zero chance of surviving.
+ You get that first squirt.
+ Pfft! Uh-oh.
+ “Better start getting my affairs in order.
+ I don’t have much time.
+ It’s diarrhea.
+ It’s very serious.”
+ You just watch your buddy slowly die in a pool of his own shit.
+ Pfft! “Oh.
+ Oh.
+ I give up, diarrhea.”
+ Pfffft! “You’re too strong.”
+ Pfft! Nowadays, your buddy would be like, “You got diarrhea? Just eat a banana, nigga.
+ Drink some water.
+ Let’s get to the club.
+ We can still make last call.”
+Tough time for the blacks.
+ These are not good times for the blacks.
+ You know what I’m talking about, right? Police are killing us again.
+ It’s a very unfortunate set of circumstances, because we were doing very well.
+ You know, America has a racial hot seat.
+ I think we can all agree that’s the truth.
+ And we can also agree that that hot seat is traditionally occupied by African-Americans in general, African-American men in particular.
+ Although, I can see that, in recent years, that seat has been occupied by Mexicans… and I daresay Arabs.
+ And we, the black Americans, would like to thank you both for your sacrifice and your struggle.
+ We needed a break.
+ We needed a goddamn break.
+ We all go through something, but at least I can leave my backpack someplace.
+ If you’re Arab and forget a backpack, you got about 20 minutes before they send that robot to blow your shit up.
+ You can kiss all that Engineering homework good-bye, Fouhad.
+Now ISIS is number one on the terrorist charts.
+ And ISIS is fucking scary.
+ ‘Cause if ISIS catches you, they’re going to cut your head off.
+ That’s what they do.
+ I’ve seen them do it on YouTube.
+ It was fucking awful.
+ He looked right into the camera and said, “Obama, I am back.”
+ [swish]
+ I saw that shit, I said, “Oh, my God.
+ Don’t like.”
+ How is this guy cutting people’s heads off on YouTube? I can’t even post a dick pic, and this motherfucker is decapitating people.
+ I’m gonna have to change my settings.
+You know, everyone has it hard.
+ But I think, harder than black people and harder than Arabs and Mexicans, you know who has it the worst? Fat black people.
+ It’s hard for white people to understand, but what I’m saying is very true.
+ Fat black people have a really rough road, because all manner of things kill white people.
+ But you know what kills more black people than anything, more than police and terrorism? Salt, nigga.
+ Regular-ass table salt.
+ Here, white people are getting Ebola cures and shit, and meanwhile, I’m dying from fucking flavoring.
+Look, honestly, I’ll stop talking about it.
+ Let me say this, though.
+ Let me just say this.
+ Can we all just say that we’ve seen it coming? Were you surprised? It’s like when that guy threw that banana at me.
+ Do you think I was surprised? Hell no.
+ I’ve been in show business 30 years.
+ I was expecting this banana.
+ I knew one of these nights— I was like, “Somebody’s gonna throw a banana at me one of these nights.”
+‘Cause that’s how it starts, with the name-calling.
+ Like that Paula Deen.
+ Remember Paula Deen got fired from the Food Network? If you know anything about show business, it is really hard to get fired from the fucking Food Network.
+ And they dropped that bitch like a hot potato.
+ All because she called somebody an N-word 30 years before she had a show.
+ I don’t know who she said it to, but whoever it was was just looking at her like, “I’m gonna get you for this, bitch.”
+ That shit came back 30 years later like a Bill Cosby rape and sunk her battleship.
+ And every black person was mad, but we weren’t that mad.
+ It was more confusing than it was infuriating.
+ I was just like, “Well, how is this bitch gonna call me a nigger when she taught me how to fry chicken? That’s not fair.”
+I think Donald Sterling‘s shit was more serious.
+ Remember Donald Sterling? He used to own the Clippers, and then he got caught on a secretly recorded tape saying some very unsavory things about African-Americans.
+ And there’s a lesson in that for all of us.
+ The lesson is if you are old and white and racist in this great country, whatever you do… don’t tell your black girlfriend about that shit.
+ Because… that’s who made the tape.
+ She recorded all that shit.
+ And the tape was terrible.
+ He was like, “Stop bringing black guys to my games.”
+ At first, we were all confused.
+ “How the fuck are you gonna have a game without us?”
+But it turned out that the black guy he was speaking of was none other than Magic Johnson, the billionaire! Unbelievable.
+ Never even mentioned the fact that he had AIDS, which is the first thing I would’ve said to my girlfriend.
+ This guy must be really racist if AIDS is the footnote.
+ “You gotta be careful, baby.
+----Punchline----
+ He got the old Ebola.”
+
+
+Similarity Score:0.09
+Percent Error Setup:1087.612726024262%
+Percent Error Punchline:52.0954420312022%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:900.5366863451659%

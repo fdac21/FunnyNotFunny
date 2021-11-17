@@ -1,0 +1,283 @@
+----Setup----
+Hit the streets.
+ You got them marching.
+ Dylann Roof.
+ Dylann Roof killed eight people in a church in Charleston, South Carolina.
+ He prayed with them first, and then he shot them at point-blank range.
+It goes on and on.
+ And in one weekend a law abiding citizen right here in Beaver Creek is murdered.
+ The cop that murdered John Crawford pulled me over the night before and let me off with a warning.
+ And the next day, kills a kid.
+ He says, drop the weapon, bang bang bang.
+This kid didn’t even have enough time to register that he was the one being spoken to.
+This is our home town.
+ It happened right here.
+ I was very proud to be your neighbor, I love the way you guys hit those streets.
+ We said his name and we tried to make sure everyone remembered him but he got lost in the sauce.
+ And this guy John Crawford was a saint.
+ He was there buying shit so him and his kids could make s’mores.
+Michael Brown got shot the same week, and Michael Brown became the story.
+And then, am I boring you?Well then, right back in Minneapolis was Philando Castile.
+ Law abiding citizen, was a registered gun carrier, was trying to show police the paperwork for his registered weapon and was murdered in front of his wife and his child and then right in Baton Rouge, Louisiana, just two days later it happens again.
+ And what do you think is going to happen? Three days later nine cops get murdered in Dallas at a Black Lives Matter rally.
+Wow, I’ll never forget it.
+ It was the first time I ever thought, I gotta get my family the fuck out of this place.
+ These niggas will never understand.
+ I’m tired of explaining to these people something that’s so goddamn obvious.
+The guy that killed those nine cops, just like Chris Dorner before him, was from our military.
+And then right after he did it, another four cops were shot dead in Baton Rouge, Louisiana.
+Again, a Black man, that served in our military.
+ What are they doing? Why would our guys do that?Black people from the military? Because they believe, just like they did when they were joining the fucking military, that they were fighting acts of terror.
+   These are our people.
+ These are our countrymen.
+If I were white, and saw one of these men get murdered and I was in the NRA why wouldn’t I stand up for them.
+ A card carrying legal gun owner that gets murdered in cold blood?Because he’s Black.
+That’s why they don’t give a fuck.
+There’s only one time the NRA ever supported an assault weapon ban.
+----Punchline----
+You know when it was? It was when the Black Panthers stormed the state capital with assault rifles in California.
+
+
+Similarity Score:0.1341991341991342
+Percent Error Setup:406.65337652628955%
+Percent Error Punchline:60.65192083818395%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:347.0184049079755%
+----Setup----
+Slavery is a really wild concept.
+Uh, it’s some weird shit.
+The night that those nine police officers were killed felt like the end of the world.
+The only reason it wasn’t the end of the world, in my opinion, was because at the very same time that was happening, Kobe Bryant was playing his last game as an LA Laker.
+ And as scary as all that shit was, I kept flipping back to see if Kobe would drop sixty, and he did.
+ Oh, and he did.
+And vaguely in the back of my mind I remember the idiot ass bitch telling somebody to shut up and dribble, and I watched this nigga dribbling and saving this goddamn country from itself.
+ I loved Kobe Bryant.
+ He died the night, the day I won a GRAMMY, he died.
+That’s why I didn’t show up at the GRAMMYs.
+ Because Kobe died.
+ They had both of his fucking jersey numbers hanging up.
+ 8, 24.
+ Well, that’s my birthday.
+I cried like a baby.
+[sighs]
+So, here’s what I said on Saturday Night Live that I got completely wrong:At the end of my set I talked about how few Black people were invited to the White House.
+How Frederick Douglass was the first.
+ And that it didn’t happen again until Roosevelt.
+But that was wrong.
+ It happened one other time before that.
+ Woodrow Wilson.
+ Woodrow Wilson received delegation of African Americans at the White House.
+ They were from South Carolina.
+ There was a man who was lynched for a $30 dispute at a grain elevator and they killed him because the nigga was rich, and they hated him for being more welathy then they were, and they murdered him.
+ And the people in South Carolina said, fuck that, and they went via the governor of South Carolina, it was a Black delegation that was facilitated to meet with Woodrow Wilson.
+ That delegation was lead by the AME Bishop William David Chappelle.
+That’s where I get my name.
+----Punchline----
+ It was my great- grandfather, who was a slave when he was born.
+
+
+Similarity Score:0.15476190476190477
+Percent Error Setup:269.10042362322446%
+Percent Error Punchline:12.45634458672876%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:225.10429447852763%
+----Setup----
+Do you guys remember what life was like before Covid? I do.
+ There was a mass shooting every week.
+----Punchline----
+ Anyone remember that? Thank god for Covid.
+----Tagline(s)----
+ Someone had to lock these murderous whites up, keep them in the house.
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:78.2207824570147%
+Percent Error Punchline:35.739231664726425%
+Percent Error TagLine:309.49554896142433%
+Percent TagLine Number:73.09594460929773%
+Percent Error Total:59.36196319018404%
+----Setup----
+ Too noisy in a cornfield.
+ I had to have a whole town meeting about how noisy I was being in the cornfield.
+----Punchline----
+ It was so embarrassing.
+
+
+Similarity Score:1.0
+Percent Error Setup:73.63568402691253%
+Percent Error Punchline:59.837019790454015%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:72.9079754601227%
+----Setup----
+ Space Jews.
+[man]
+ We loved it!Alright.
+----Punchline----
+ It’s going to get worse than that, hang in there.
+
+
+Similarity Score:0.47058823529411764
+Percent Error Setup:93.12235235484675%
+Percent Error Punchline:11.641443538998832%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:83.5512708150745%
+----Setup----
+These new gays don’t even know what the glory hole is.
+----Punchline----
+ It’s a hole in the wall, that gay contractors build.
+
+
+Similarity Score:0.8181818181818182
+Percent Error Setup:87.39097931721903%
+Percent Error Punchline:11.641443538998832%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.71340929009641%
+----Setup----
+I agreed with these women.
+ I just didn’t agree with what they were doing about it.
+ Right.
+ Right.
+ No, it was annoying as fuck… because if these women were serious, you know what they would have done? They all would have fired their agents.
+ And they would have went to the mailroom of one of these big agencies and found a woman that was bustin’ her hump in there and said, “If you want to talk to us then you have to talk to her.”
+ And if they did that, then she would be big, and they would be big and nobody would get fed to Harvey Weinstein.
+ But did they do that?[audience]
+ No!No.
+Was that their idea? No.
+ Surprisingly it was mine.
+----Punchline----
+ What I think, the feminist movement needs to be very successful… is a male leader.
+
+
+Similarity Score:0.36231884057971014
+Percent Error Setup:39.84550211811612%
+Percent Error Punchline:28.521536670547153%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:33.524978089395276%
+----Setup----
+If you listen to what I’m saying, I’m not even talking about them, I’m talking about us and “they don’t listen.”
+ It’s very annoying.
+ And they have canceled people, more powerful than me.
+ They canceled J.K.Rowling, my God.
+ J.K.Rowling wrote all the Harry Potter books by herself.
+----Punchline----
+ She sold so many books, the Bible worries about her.
+
+
+Similarity Score:0.1724137931034483
+Percent Error Setup:46.12509344629952%
+Percent Error Punchline:11.641443538998832%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:43.88080631025416%
+----Setup----
+ …he said, “Does the carpet match the drapes?”
+ It was fucked up.
+ The whole crowd kind of groaned, ’cause it was so like, mean.
+ Everybody groaned, except for Daphne.
+ She kind of laughed, which was weird.
+ And she didn’t even look all the way back.
+ She said, “Sir, I don’t have carpets I have hardwood floors.”
+----Punchline----
+ Just like that.
+----Tagline(s)----
+ Just like that.
+
+
+Similarity Score:0.3939393939393939
+Percent Error Setup:34.662347371044106%
+Percent Error Punchline:67.86961583236321%
+Percent Error TagLine:36.49851632047478%
+Percent TagLine Number:73.09594460929773%
+Percent Error Total:36.140227870289216%
+----Setup----
+ I’m not sure this motherfucker has a choice.
+ Not a handsome man.
+ A lot of meat and extra skin on his face.
+ Yeah, he’s ugly.
+ You know, the sad part is he’s done so well in life, he probably doesn’t know he’s ugly.
+ You know, when you’re good-looking, everybody will tell you.
+ “Oh, you look wonderful, you’re so great looking.”
+ But when you’re ugly.
+----Punchline----
+ You gotta figure that shit out for yourself.
+
+
+Similarity Score:0.43243243243243246
+Percent Error Setup:25.49215051083977%
+Percent Error Punchline:27.706635622817227%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:28.399649430324274%
+----Setup----
+ “Hurry up, nigga.
+----Punchline----
+ I have other meetings, you know.”
+
+
+Similarity Score:0.9090909090909091
+Percent Error Setup:95.41490156989784%
+Percent Error Punchline:43.77182770663562%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.3567046450482%
+----Setup----
+Wow.
+----Punchline----
+ I mean, it is really bad out here, isn’t it? Kevin Spacey is out here, grabbing men by the pussy.
+
+
+Similarity Score:0.6363636363636364
+Percent Error Setup:98.85372539247446%
+Percent Error Punchline:68.68451688009314%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.71340929009641%
+----Setup----
+ Brittle spirit.
+ I could kill every white person in America at one time.
+ Know how I’d do it? I would just wait for the Super Bowl.
+----Punchline----
+ Right when they sang the national anthem, I’d have OJ Simpson walk to the 50-yard line with them bad knees.
+
+
+Similarity Score:0.25
+Percent Error Setup:69.05058559681036%
+Percent Error Punchline:68.68451688009314%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:53.556529360210334%
+----Setup----
+ Maybe there’s something else going on.
+ Maybe these rapes aren’t even the worst of it.
+----Punchline----
+ Wouldn’t that be something? Wouldn’t that be something? You can go to the bathroom, Brooklyn, you don’t need to hear this shit.
+
+
+Similarity Score:0.358974358974359
+Percent Error Setup:81.65960627959133%
+Percent Error Punchline:84.74970896391153%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:62.264680105170896%
+----Setup----
+ Hey, guys, let’s watch a movie.
+ What movie do you want to see? Home Alone? No, don’t touch the DVD player.
+ Macaulay Culkin’s here, he can act it out.
+ Come on, Macaulay.
+ Act out Home Alone for my guest.
+----Punchline----
+ ” And the kids were like, “Man, you are all right, mister.
+
+
+Similarity Score:0.37735849056603776
+Percent Error Setup:54.14901569897832%
+Percent Error Punchline:4.4237485448195635%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:48.718667835232246%

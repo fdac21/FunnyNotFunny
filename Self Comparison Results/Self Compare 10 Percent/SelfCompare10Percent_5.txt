@@ -1,0 +1,410 @@
+----Setup----
+ You know, you know what I was thinking about all day today? This is really weird.
+ First of all, I’m nervous.
+ I should tell you that.
+ You can’t tell, but, all inside.
+ I was thinking about a person I never actually met, but I heard about all my life.
+ I was thinking about my great grandfather, who apparently, by all accounts, was a very great man.
+ He was born a slave in South Carolina.
+ Was a slave for ten years of his life.
+ And when the northerners came down, they started educating some of the newly freed black children, and he learned how to read.
+ Got enamored with education and dedicated his life to three things: Education, freedom of black people, Jesus Christ.
+ Became a juggernaut in the AME Church.
+ It was a pretty amazing story my great grandfather had, and I thought about him all day today because I wish I could see him now.
+ And I wish he could see me, because I wonder what he would say.
+ This week I flew to New York on a private jet to host the Saturday Night Live.
+ Netflix started streaming a show that bears his name, The Chappelle Show.
+ And HBO Max is streaming it.
+----Punchline----
+ And I didn’t get paid for any of it.
+----Tagline(s)----
+ Yeah, if he could see me now he’d probably be like, “this nigga got bought and sold more than I have.”
+
+
+Similarity Score:0.4602510460251046
+Percent Error Setup:135.87786259541986%
+Percent Error Punchline:18.65019584212112%
+Percent Error TagLine:575.7344940152338%
+Percent TagLine Number:72.79651795429815%
+Percent Error Total:131.97210439283919%
+----Setup----
+All summer long, you know what I’ve been doing? I’ve been doing shows in Ohio.
+ I live in a small town in Ohio.
+ And a lot of these small towns in America was dying.
+ My town was dying.
+----Punchline----
+ So what I did is I did shows in my neighbor’s cornfield, and these shows were very successful and may have even helped save the town.
+----Tagline(s)----
+And the local farmers, my neighbors, started to complain that my shows were too noisy.
+
+
+Similarity Score:0.6419753086419753
+Percent Error Setup:56.488549618320604%
+Percent Error Punchline:119.64447122627297%
+Percent Error TagLine:370.07616974972797%
+Percent TagLine Number:72.79651795429815%
+Percent Error Total:21.38183909698756%
+----Setup----
+ I resented it.
+ I resented that these country farmers could decide a guy like me’s fate.
+ People don’t deserve to do that.
+ They haven’t seen enough, they don’t know anything.
+----Punchline----
+ They probably watch me right now, they are probably at home like, “HONEY, COME QUICK, COME QUICK, THE GUY FROM THE GROCERY STORE IS ON TELEVISION!”
+
+
+Similarity Score:0.3793103448275862
+Percent Error Setup:64.50381679389314%
+Percent Error Punchline:119.64447122627297%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:43.70551441512689%
+----Setup----
+ It’s wrong when you say it.
+Saw him on a press conference one time, Donald Trump’s a wild guy, you ever see this? He was on a press conference, tried to guess the cure of the coronavirus in front of the whole world.
+ It’s a wild thing to do.
+ “What about a very powerful light? Directly in the body?”
+ I say, what? Did this man just suggest that I put sunshine directly in my body? Well, that’s insane! He went further.
+ “What about some bleach? Some bleach directly in your body.”
+ I said, oh, boy.
+ Secret service is gonna have to childproof the White House now, he’s gonna try to drink the bleach! “Mr.President, don’t touch that stove, it’s hot.
+----Punchline----
+ Turn those scissors around if you’re going to run around the house like this, Mr.President.”
+
+
+Similarity Score:0.3088235294117647
+Percent Error Setup:37.40458015267176%
+Percent Error Punchline:30.159686652606204%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:32.00086275073694%
+----Setup----
+But if you’re a good white, and you actually want to help, then join me.
+ I’m not even joking.
+ This is my plan.
+ It’s called the kindness conspiracy.
+ Random acts of kindness for black people.
+ Do something nice for a black person — just because they’re black.
+----Punchline----
+ And you got to make sure they don’t deserve it.
+
+
+Similarity Score:0.3793103448275862
+Percent Error Setup:46.18320610687023%
+Percent Error Punchline:10.515215426333233%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:43.70551441512689%
+----Setup----
+Thank you.
+ I need you guys to know something.
+ And I’m gonna tell you the truth, and don’t get freaked out.
+ This is going to be my last special for a minute.
+[audience screams]
+It is all good.
+ Listen to me.
+----Punchline----
+ I did it in Detroit for that reason.
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:55.343511450381676%
+Percent Error Punchline:26.78517625790901%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:53.411460205622255%
+----Setup----
+It is going to get way worse than that.
+ Then I thought of an idea for a children’s book.
+ I actually wrote it.
+ It is coming out soon.
+ The book is designed to help parents, teach their children about racism which, if you’re a parent you know is an impossible concept to teach to a child.
+ But I’m doing it.
+ The book is about a big, strong beautiful Black man with a benign, regular-ass White name… and he has a White speaking voice.
+----Punchline----
+ So whenever this motherfucker calls to get a reservation at a restaurant, oh, he gets the reservation.
+
+
+Similarity Score:0.27722772277227725
+Percent Error Setup:4.961832061068697%
+Percent Error Punchline:46.42964748418198%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1.969947515996832%
+----Setup----
+ Funny.
+ You guys are confusing your emotions.
+ You think I hate gay people and what you’re really seeing is that I’m jealous of gay people.
+ I’m jealous, I’m not the only Black person, that feels this way.
+----Punchline----
+ We Blacks, we look at the gay community and we go “God damn it! Look how well that movement is going.”
+----Tagline(s)----
+“Look how well you are doing.”
+
+
+Similarity Score:0.29850746268656714
+Percent Error Setup:56.488549618320604%
+Percent Error Punchline:78.96956914733353%
+Percent Error TagLine:105.65832426550597%
+Percent TagLine Number:72.79651795429815%
+Percent Error Total:34.97016320368107%
+----Setup----
+ You want to know why they put that hole in the wall? I’ll tell you, there is no nice way to say it.
+ ‘Cause when they want to have some fun they will put their penises in that hole and hope for the best.
+ I respect that shit.
+----Punchline----
+ It’s a lot of courage on both sides of that hole nigga.
+----Tagline(s)----
+ I’m not even gay and I want to try that glory hole out.
+
+
+Similarity Score:0.5194805194805194
+Percent Error Setup:43.89312977099236%
+Percent Error Punchline:5.7547454052425415%
+Percent Error TagLine:340.69640914036995%
+Percent TagLine Number:72.79651795429815%
+Percent Error Total:25.2642174131857%
+----Setup----
+Before I even say anything about that community you must know and I hope you all feel the same way I am not indifferent to the suffering of someone else.
+ There’s laws, the mean laws in our country.
+ North Carolina passed a law once.
+ They said a person in North Carolina must use the restroom that corresponds with the gender they were assigned on their birth certificate.
+ No, no, no, no.
+ No, that is not a good law.
+ That is a mean law.
+----Punchline----
+ No American should have to present a birth certificate to take a shit at Walmart, in Greensboro, North Carolina where DaBaby shot and killed a motherfucker.
+
+
+Similarity Score:0.23636363636363636
+Percent Error Setup:4.961832061068697%
+Percent Error Punchline:119.64447122627297%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:6.7654036954489944%
+----Setup----
+You have to ask yourself, if you’re thinking about it, who are these laws designed to protect? Like let’s say they designed this law to protect me, my interests, transphobic comedian, Dave Chappelle.
+ Let’s say I’m in Walmart, doing a little shopping with my family.
+----Punchline----
+ Now I should tell you if that ever happens in real life, you should know my dreams didn’t work out.
+----Tagline(s)----
+Well let’s say something goes horribly wrong and there I’m in Walmart with the poor Whites rummaging around for mediocre goods and services.
+
+
+Similarity Score:0.26666666666666666
+Percent Error Setup:48.473282442748086%
+Percent Error Punchline:70.83458873154565%
+Percent Error TagLine:605.1142546245918%
+Percent TagLine Number:72.79651795429815%
+Percent Error Total:12.646487885541733%
+----Setup----
+And then I got to go to the restroom.
+ So, I excuse myself from my family.
+ I go to the men’s room.
+ Now I’m standing at the urinal, taking a leak.
+ And this is what this law is gonna do.
+ And suddenly a woman walks into the men’s room.
+ I’m like, that’s strange.
+----Punchline----
+ And then she stands shoulder to shoulder with me at the urinal, I’m gonna be like, “Bitch, what’s going on with you?”
+
+
+Similarity Score:0.4473684210526316
+Percent Error Setup:39.31297709923664%
+Percent Error Punchline:87.10454956312142%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:26.23481199223524%
+----Setup----
+   Juneteenth is a strange holiday, isn’t it?[audience]
+ Yes.
+It commemorates when Black people in Texarkana area of the country first found out that they were free.
+ But remember, they were free when they found out.
+ They just didn’t know it yet.
+ Very interesting holiday.
+ You know, I learned something This is a wild story.
+ I learned this past Juneteenth of a story, this is true.
+ And it’s that there was a Black man who was in South Carolina during slavery who somehow got granted his freedom by his so-called master.
+ And when his master granted him the freedom he also gave him a plot of land.
+ Now it turns out, this brother was brilliant.
+ He had a good eye, good knack for farming.
+ And he farmed this plot of land very successfully and made a lot of money, and this is where the story gets crazy.
+----Punchline----
+ When he got all that money… this nigga brought some slaves.
+
+
+Similarity Score:0.3375
+Percent Error Setup:69.46564885496184%
+Percent Error Punchline:2.3802350105453463%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:55.29513264792582%
+----Setup----
+He was a wild dude, but he did it just because that’s what successful people did at the time.
+ He just wanted to be down, what a fuckin’ tragedy.
+ How can a person that went through slavery perpetuate the same evil on a person that looks just like him.
+ It’s mind blowing.
+ And shockingly, they’re making a movie about him.
+----Punchline----
+ Ironically… it is called Space Jews.
+----Tagline(s)----
+Space Jews.
+
+
+Similarity Score:0.34285714285714286
+Percent Error Setup:31.29770992366412%
+Percent Error Punchline:43.05513708948479%
+Percent Error TagLine:11.860718171926012%
+Percent TagLine Number:72.79651795429815%
+Percent Error Total:32.05837946653246%
+----Setup----
+ The point of that story is this person was invested in a construct.
+ That was the construct of successful people and he just followed the roadmap of successful people.
+ He followed what they called “an incentive.”
+ Now, everyone struggles but I’m very invested in the gender construct, personally.
+----Punchline----
+ ‘Cause I’m a man with kids, and a wife, and I like that warm, wet soft pussy that my wife has.
+
+
+Similarity Score:0.4507042253521127
+Percent Error Setup:43.89312977099236%
+Percent Error Punchline:78.96956914733353%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:31.087784887482922%
+----Setup----
+And she was very gracious.
+ She said “Thank you so much”, and we shook hands and as she was shaking my hand, her face turned mean, like her mom’s.
+ And she said, “Do you mind, not punching down on my people?”
+ Oh, I don’t like that.
+----Punchline----
+ Normally, I would’ve let it go, but I was drunk.
+----Tagline(s)----
+I said, “What might you mean, bitch?”
+I was careful to call her a bitch, ’cause I didn’t want to blow her cover.
+
+
+Similarity Score:0.37037037037037035
+Percent Error Setup:47.32824427480916%
+Percent Error Punchline:10.515215426333233%
+Percent Error TagLine:605.1142546245918%
+Percent TagLine Number:59.19477693144722%
+Percent Error Total:21.38183909698756%
+----Setup----
+ I’m not sure this motherfucker has a choice.
+ Not a handsome man.
+ A lot of meat and extra skin on his face.
+ Yeah, he’s ugly.
+ You know, the sad part is he’s done so well in life, he probably doesn’t know he’s ugly.
+ You know, when you’re good-looking, everybody will tell you.
+ “Oh, you look wonderful, you’re so great looking.”
+ But when you’re ugly.
+----Punchline----
+ You gotta figure that shit out for yourself.
+
+
+Similarity Score:0.43243243243243246
+Percent Error Setup:25.572519083969464%
+Percent Error Punchline:26.78517625790901%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:28.17600115033431%
+----Setup----
+ Now, I’ve busted a lot of nuts in my day.
+----Punchline----
+ None of them were newsworthy.
+
+
+Similarity Score:0.9411764705882353
+Percent Error Setup:87.40458015267176%
+Percent Error Punchline:51.19011750527267%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:83.49989215615788%
+----Setup----
+ How the fuck are you going to survive in show business if this is an actual obstacle to your dreams? I know Louis is wrong, man.
+ I’m just saying, I’m held to a higher standard of accountability than these women are.
+
+
+Don’t forget who I am.
+ Don’t forget what I am.
+ I am a black dude.
+ And don’t ever forget how I got here.
+ My ancestors were kidnapped.
+ I don’t even know where the fuck I’m from.
+ They were put on the bottom of boats.
+ They sailed them across the Atlantic.
+ Many of them died.
+ Only the strongest survived.
+ And once they got here, they beat the humanity out of my people.
+ They turned us into beasts of burdens.
+ They made us do their work, and the irony is, hundreds of years later they’re calling us lazy.
+ We fought in the Civil War.
+ We damn near freed ourselves.
+ Then, with Reconstruction, black people did great.
+ My great-grandfather was a very wealthy man.
+ But then the Black Codes came, Jim Crow came, and it was a hundred years of unspeakable oppression again.
+ Lynchings, all kinds of terroristic acts to keep us in the margins of society.
+ Yet, we still fought.
+ And Dr. King was born.
+ And then, things got better.
+ Twenty years after Dr. King was assassinated, Michael Jackson was moonwalking on television.
+ Something, something, something.
+----Punchline----
+ Barack Obama.
+
+
+Similarity Score:0.21929824561403508
+Percent Error Setup:157.63358778625957%
+Percent Error Punchline:75.59505875263633%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:121.29556402329429%
+----Setup----
+ And I didn’t even know it was happening, but I guess I became like a feminist in the last three weeks because I can’t watch porn the same.
+ Like, I watch it sometimes, but I can’t– I can’t click on these motherfucking thumbnails, not with those titles.
+ “Guy crams young girl in the ass with hard rod.”
+ I can’t click on that.
+ Come on, nigga.
+ Give me something I can click on.
+ “Dude gets sucked off by a midget.”
+ “Little person!”
+----Punchline----
+ I say to myself.
+
+
+Similarity Score:0.6206896551724138
+Percent Error Setup:6.106870229007629%
+Percent Error Punchline:59.32509792106057%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:15.55827162269034%
+----Setup----
+I’m fucking around.
+ Yeah, man.
+ Well, you ladies were right.
+ Be honest with you, your lives look terrifying to me.
+ They do.
+ Man, I know nothing about being a woman, but I know fear.
+ Yo, I used to live in New York when I was 17.
+ I couldn’t even pay my bills.
+ You know what I did to make money? I used to do shows for drug dealers that wanted to clean their money up.
+ One time I did a real good set, and these motherfuckers called me in the back room.
+ They gave me $25,000 in cash.
+ I was probably 18, 19 years old.
+ I was scared.
+ I thanked them profusely, I put that money in my backpack, I jumped on the subway and started heading towards Brooklyn at one in the morning.
+ Never been that terrified in my life.
+ Because I’d never in my life had something that somebody else would want.
+ I thought to myself, “Jesus Christ, if these motherfuckers knew how much money I had in this backpack, they’d kill me for it.”
+ Then I thought, “Holy shit.
+----Punchline----
+ What if I had a pussy on me all the time?”
+
+
+Similarity Score:0.41237113402061853
+Percent Error Setup:108.3969465648855%
+Percent Error Punchline:2.3802350105453463%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:88.29534833561004%

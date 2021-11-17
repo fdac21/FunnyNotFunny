@@ -1,0 +1,227 @@
+----Setup----
+I trust you guys.
+I love you guys.
+We’ll keep this space open.
+----Punchline----
+This is the last stronghold for civil discourse.
+
+
+Similarity Score:0.7368421052631579
+Percent Error Setup:87.75559588626739%
+Percent Error Punchline:36.0%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:82.0644366919762%
+----Setup----
+Scariest part about that — one of the leading virologists in the world was sitting as close as you are to me, and she just watched him say it.
+ It was crazy.
+----Punchline----
+ Her face was looking like, “He might be right.”
+
+
+Similarity Score:0.8095238095238095
+Percent Error Setup:64.37991530550514%
+Percent Error Punchline:20.0%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:60.35296531910528%
+----Setup----
+ Space Jews.
+[man]
+ We loved it!Alright.
+----Punchline----
+ It’s going to get worse than that, hang in there.
+
+
+Similarity Score:0.47058823529411764
+Percent Error Setup:93.32123411978222%
+Percent Error Punchline:12.0%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:83.95239072439975%
+----Setup----
+And then I drove off.
+ And now I got to tell you and this is gonna surprise some people here, but not everybody.
+ People say things to me all the time but what you don’t know, is it does affect me.
+ I think about it.
+ And that one bothered me a lot, I was driving home, couldn’t stop thinking about what this woman said because she is not the first woman that said that to me.
+ It’s puzzling.
+----Punchline----
+ You know what I mean? Like, what could I possibly be saying… that would make these bitches think, I hate women.
+
+
+Similarity Score:3.3
+Percent Error Setup:13.176043557168779%
+Percent Error Punchline:76.0%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:5.602298378822084%
+----Setup----
+I really resented that trap because that trap doesn’t let me be honest.
+ If I was honest, I wouldn’t have fallen for it.
+ I’d have just looked at the picture like, “Look at that big chiseled jawline, that big thick Joe Rogan neck.
+ Is that a dude? Is your daughter a man?”
+ Can’t say that shit.
+ It’s really annoying.
+ Fast forward, now it’s a couple of days later.
+ It’s the Wednesday… before the Thursday that’s Thanksgiving, and I’m in a totally different bar and this bar, trust me, is not a nice place.
+----Punchline----
+ It’s foul, it’s one of those bars where the top shelf should be under the sink.
+
+
+Similarity Score:0.2727272727272727
+Percent Error Setup:3.520871143375686%
+Percent Error Punchline:36.0%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:3.8374717832957073%
+----Setup----
+And she was very gracious.
+ She said “Thank you so much”, and we shook hands and as she was shaking my hand, her face turned mean, like her mom’s.
+ And she said, “Do you mind, not punching down on my people?”
+ Oh, I don’t like that.
+----Punchline----
+ Normally, I would’ve let it go, but I was drunk.
+----Tagline(s)----
+I said, “What might you mean, bitch?”
+I was careful to call her a bitch, ’cause I didn’t want to blow her cover.
+
+
+Similarity Score:0.37037037037037035
+Percent Error Setup:48.79612825166364%
+Percent Error Punchline:12.0%
+Percent Error TagLine:567.0694864048338%
+Percent TagLine Number:59.818731117824775%
+Percent Error Total:23.537861686845886%
+----Setup----
+ Turns out she wasn’t hiding.
+ She was loud, she was proud.
+ She let me have it in front of everybody.
+ Screaming at me, all the talking points from that article.
+ You transphobic, this and that.
+ Kept clapping her hands in my face.
+ “Let me tell you somethin’.”
+ I said, “Where did you learn this from, Black bitches?”
+ She kept going, “Let me tell you something, honey.”
+ So annoying.
+ She kept calling transgenders, her people.
+ Ain’t that weird? “My people this, my people that.”
+----Punchline----
+ I said, “What do you mean, your people?”
+
+
+Similarity Score:0.3225806451612903
+Percent Error Setup:6.497277676950993%
+Percent Error Punchline:28.000000000000004%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:12.210137492304538%
+----Setup----
+I’ve been arguing with the Whites my entire career.
+ Just when I thought I had you guys on the ropes you changed all the rules.
+ “Oh yeah?”
+ – Yeah, motherfucker! – “Well.”
+ I am a girl now, nigger.
+----Punchline----
+ You must treat me as such.
+
+
+Similarity Score:0.2222222222222222
+Percent Error Setup:57.701149425287355%
+Percent Error Punchline:44.0%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:57.52103427046994%
+----Setup----
+ I’m looking around, I’m like, “Oh my God, she is funny.”
+ I pulled her aside, I said, “You’re hilarious.
+----Punchline----
+ I didn’t know that when you were onstage.”
+
+
+Similarity Score:0.6896551724137931
+Percent Error Setup:77.73744706594071%
+Percent Error Punchline:28.000000000000004%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:72.6246665298584%
+----Setup----
+Phew.
+ Well, it’s the last show.
+ Here we are.
+ Los Angeles.
+----Punchline----
+ The world capital of… rape and dick breath.
+
+
+Similarity Score:0.4
+Percent Error Setup:87.75559588626739%
+Percent Error Punchline:28.000000000000004%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:81.12045967576441%
+----Setup----
+ “Hurry up, nigga.
+----Punchline----
+ I have other meetings, you know.”
+
+
+Similarity Score:0.9090909090909091
+Percent Error Setup:95.54748941318815%
+Percent Error Punchline:44.0%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.61625282167043%
+----Setup----
+Wow.
+----Punchline----
+ I mean, it is really bad out here, isn’t it? Kevin Spacey is out here, grabbing men by the pussy.
+
+
+Similarity Score:0.6363636363636364
+Percent Error Setup:98.88687235329704%
+Percent Error Punchline:68.0%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:79.23250564334086%
+----Setup----
+ Sorry, I don’t know the choreography, but you get the point.
+----Punchline----
+ You get the point.
+----Tagline(s)----
+ Shit was intense.
+
+
+Similarity Score:1.0
+Percent Error Setup:86.64246823956444%
+Percent Error Punchline:60.0%
+Percent Error TagLine:38.97280966767371%
+Percent TagLine Number:73.21248741188319%
+Percent Error Total:79.23250564334086%
+----Setup----
+But Louis was like the turning point.
+ I mean, you know, all these allegations are terrible.
+----Punchline----
+ Louis’s was the only– I shouldn’t say this but fuck it, his allegation was the only one that made me like laugh.
+----Tagline(s)----
+ Well, if you think about it… 
+
+
+Similarity Score:0.4583333333333333
+Percent Error Setup:82.18995765275257%
+Percent Error Punchline:84.0%
+Percent Error TagLine:150.1510574018127%
+Percent TagLine Number:73.21248741188319%
+Percent Error Total:54.6891032218346%
+----Setup----
+ Does anybody remember when I was missing from show business for 12 years? Remember when I had this really popular show and I quit? I remember I walked away from $50 million.
+----Punchline----
+ A lot harder than walking away from Louis’ freckled dick.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:63.26678765880217%
+Percent Error Punchline:12.0%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:58.465011286681715%

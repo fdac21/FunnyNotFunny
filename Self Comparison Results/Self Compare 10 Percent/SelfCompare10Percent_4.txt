@@ -1,0 +1,530 @@
+----Setup----
+I gotta tell you, this is actually, like, the first concert in North America since all this shit happened, so, like it or not, it’s history.
+----Punchline----
+ It’s going to be in the books.
+
+
+Similarity Score:0.8235294117647058
+Percent Error Setup:70.11886033910156%
+Percent Error Punchline:34.188301532686886%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:66.90966954076157%
+----Setup----
+Got murdered by one police officer while five of his fellow officers watched him do it.
+[no audio]
+Not one of them said, “Frank, Frank take it easy.”
+ None of that shit.
+ Because they were being recorded.
+ Because they were afraid if I correct my fellow officer on this camera it’s going to open us up for some kind of liability.
+ And the guy killed the person that they were, uh, what do you call it? Apprehending? The guy was selling loose cigarettes.
+There goes Eric Garner.
+[sigh]
+ And then we have one after the other.
+Trayvon Martin gets murdered by just a regular nigga that… George Zimmerman is nobody.
+George Zimmerman is an awful human being.
+ He threatened Beyonce’s life, he threatened Jay-Z’s life, he signed Skittle bags because Trayvon Martin had Skittles on him when he was murdered by George Zimmerman.
+ Boy, how do we feel?How do we feel right now? This kid was 15 years old being followed by a grown man with a gun and whooped his monkey ass.
+ He beat the shit out of George Zimmerman and George Zimmerman murdered him, I’m very upset.
+ This kid looked eerily like the president, he looked like my own children.
+ I hate George Zimmerman.
+ As an idea.
+ Not as a guy, I’ve never met him.
+----Punchline----
+ I’m sure I would though.
+
+
+Similarity Score:0.16589861751152074
+Percent Error Setup:142.49694109421432%
+Percent Error Punchline:50.64122614951517%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:111.19416793102172%
+----Setup----
+Hit the streets.
+ You got them marching.
+ Dylann Roof.
+ Dylann Roof killed eight people in a church in Charleston, South Carolina.
+ He prayed with them first, and then he shot them at point-blank range.
+It goes on and on.
+ And in one weekend a law abiding citizen right here in Beaver Creek is murdered.
+ The cop that murdered John Crawford pulled me over the night before and let me off with a warning.
+ And the next day, kills a kid.
+ He says, drop the weapon, bang bang bang.
+This kid didn’t even have enough time to register that he was the one being spoken to.
+This is our home town.
+ It happened right here.
+ I was very proud to be your neighbor, I love the way you guys hit those streets.
+ We said his name and we tried to make sure everyone remembered him but he got lost in the sauce.
+ And this guy John Crawford was a saint.
+ He was there buying shit so him and his kids could make s’mores.
+Michael Brown got shot the same week, and Michael Brown became the story.
+And then, am I boring you?Well then, right back in Minneapolis was Philando Castile.
+ Law abiding citizen, was a registered gun carrier, was trying to show police the paperwork for his registered weapon and was murdered in front of his wife and his child and then right in Baton Rouge, Louisiana, just two days later it happens again.
+ And what do you think is going to happen? Three days later nine cops get murdered in Dallas at a Black Lives Matter rally.
+Wow, I’ll never forget it.
+ It was the first time I ever thought, I gotta get my family the fuck out of this place.
+ These niggas will never understand.
+ I’m tired of explaining to these people something that’s so goddamn obvious.
+The guy that killed those nine cops, just like Chris Dorner before him, was from our military.
+And then right after he did it, another four cops were shot dead in Baton Rouge, Louisiana.
+Again, a Black man, that served in our military.
+ What are they doing? Why would our guys do that?Black people from the military? Because they believe, just like they did when they were joining the fucking military, that they were fighting acts of terror.
+   These are our people.
+ These are our countrymen.
+If I were white, and saw one of these men get murdered and I was in the NRA why wouldn’t I stand up for them.
+ A card carrying legal gun owner that gets murdered in cold blood?Because he’s Black.
+That’s why they don’t give a fuck.
+There’s only one time the NRA ever supported an assault weapon ban.
+----Punchline----
+You know when it was? It was when the Black Panthers stormed the state capital with assault rifles in California.
+
+
+Similarity Score:0.15151515151515152
+Percent Error Setup:407.9793742352736%
+Percent Error Punchline:64.52924616828277%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:349.63919624023976%
+----Setup----
+This morning after the results came in, got a text from a friend of mine in London.
+ And she said, “The world feels like a safer place now that America has a new president.”
+----Punchline----
+ And I said, “That’s great, but America doesn’t.
+
+
+Similarity Score:0.6511627906976745
+Percent Error Setup:60.92466352036357%
+Percent Error Punchline:25.961839224272754%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:58.15046441919846%
+----Setup----
+ I don’t know why poor white people don’t like wearing masks.
+----Punchline----
+ What is the problem? You wear masks at the Klan rally, wear it to the Walmart too.
+----Tagline(s)----
+ Wear your Klan hood at Walmart so we can all feel safe.
+
+
+Similarity Score:0.7272727272727273
+Percent Error Setup:86.20870477189303%
+Percent Error Punchline:48.0763215514545%
+Percent Error TagLine:290.8704883227176%
+Percent TagLine Number:72.82377919320594%
+Percent Error Total:57.177219405691446%
+----Setup----
+ You need us.
+----Punchline----
+ You need our eyes to save you from yourselves.
+----Tagline(s)----
+ This is what they look like at the back! You need some black eyes to look at you like — “Uh-uh! Hmmm, stop doin that.”
+Now Trump is gone.
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:95.402901590631%
+Percent Error Punchline:17.735376915858613%
+Percent Error TagLine:765.4989384288747%
+Percent TagLine Number:59.23566878980891%
+Percent Error Total:56.20397439218443%
+----Setup----
+ I saw that, I said, “Oh, that’s why — that’s why.
+----Punchline----
+ That’s why women make half.”
+
+
+Similarity Score:0.7777777777777778
+Percent Error Setup:86.20870477189303%
+Percent Error Punchline:50.64122614951517%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:82.48158975687377%
+----Setup----
+This guy’s running around like the outbreak monkey.
+----Punchline----
+ Looked like a 1970s penis, raw-dogging earth.
+
+
+Similarity Score:0.625
+Percent Error Setup:90.80580318126201%
+Percent Error Punchline:34.188301532686886%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.4280797838878%
+----Setup----
+ Helicopter took him to Walter Reed hospital.
+ You know, I’m from D.C.
+----Punchline----
+ and I got to tell you, Walter Reed is not close to the White House, but you can walk.
+
+
+Similarity Score:2.606060606060606
+Percent Error Setup:85.05943016955078%
+Percent Error Punchline:64.52924616828277%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:67.88291455426858%
+----Setup----
+ Chris Christie got all the fixins.
+ Everything coronavirus likes to eat, that’s what’s in Chris Christie’s body.
+ Fat, check.
+ Asthma, check.
+ Diabetes, check.
+ Coronavirus like, mmm-mmm! Herman Cain‘s black ass has been dead for two weeks! Where’s his secret serum? That’s your leader! Think about that.
+ For four years.
+ That’s your leader.
+----Punchline----
+ What kind of man does that? What kind of man makes sure he’s okay while his friends fight for their lives and die? A white man.
+
+
+Similarity Score:0.225
+Percent Error Setup:39.08844607586086%
+Percent Error Punchline:122.11448232718173%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:22.14039891943899%
+----Setup----
+That’s right.
+ You wanna know why? ‘Cause I talked so much shit about Detroit in the first special I figured, I might as well, do the last special here.
+----Punchline----
+ Sorry about that, by the way.
+----Tagline(s)----
+First of all, before I even start, I’m gonna say that “I’m rich and famous.”
+
+
+Similarity Score:0.38461538461538464
+Percent Error Setup:66.67103653207481%
+Percent Error Punchline:42.41476384110103%
+Percent Error TagLine:346.70912951167725%
+Percent TagLine Number:72.82377919320594%
+Percent Error Total:49.391259297635344%
+----Setup----
+ I must have killed thousands of people.
+----Punchline----
+ Just trying to get tonight’s show together so I hope you appreciate it ’cause a lot of niggas died for me to get this one off.
+
+
+Similarity Score:0.8
+Percent Error Setup:90.80580318126201%
+Percent Error Punchline:122.11448232718173%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:65.93642452725456%
+----Setup----
+ Not a cough, not a booger, not a fever, nothing.
+----Punchline----
+ Look at me I am the Magic Johnson of coronavirus.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:87.35797937423527%
+Percent Error Punchline:9.508914607444472%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.58860970284573%
+----Setup----
+It is going to get way worse than that.
+ Then I thought of an idea for a children’s book.
+ I actually wrote it.
+ It is coming out soon.
+ The book is designed to help parents, teach their children about racism which, if you’re a parent you know is an impossible concept to teach to a child.
+ But I’m doing it.
+ The book is about a big, strong beautiful Black man with a benign, regular-ass White name… and he has a White speaking voice.
+----Punchline----
+ So whenever this motherfucker calls to get a reservation at a restaurant, oh, he gets the reservation.
+
+
+Similarity Score:0.27722772277227725
+Percent Error Setup:4.610208005593424%
+Percent Error Punchline:48.0763215514545%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1.7022536357917264%
+----Setup----
+So I hit Anj up, I hit her on the text and all I did, I texted.
+ I said, “Anj, are you going to the women’s march?”
+----Punchline----
+ And she texted me back, and this is a real text, she said… she said, “I hope those White bitches get tear gassed.”
+
+
+Similarity Score:0.8235294117647058
+Percent Error Setup:68.96958573675931%
+Percent Error Punchline:97.43509540193934%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:50.364504311142355%
+----Setup----
+I kept it moving.
+ And then she went to the press.
+ The next day one of the gay papers wrote all of the same things she had said to me, about me in the paper.
+ Misquoted the jokes, and was calling me transphobic you know, these words, I had never heard them before but every time that I talked with anybody from the community since they always repeat the talking points from that article.
+ My least favorite of which being, I hate this phrase they say, “I was punching down on them.”
+ “Punching down”, what the fuck does that mean? Now fast forward.
+ It is 2019.
+ And I am in a restaurant in Ohio, very nice restaurant.
+ It’s Thanksgiving week.
+----Punchline----
+ And to be honest, it is not a very nice restaurant, but it is a nice restaurant, if you’re a White person from Ohio that has never been anywhere before.
+----Tagline(s)----
+ Picture Chili’s.
+
+
+Similarity Score:0.3870967741935484
+Percent Error Setup:37.91295228106975%
+Percent Error Punchline:155.0203315608383%
+Percent Error TagLine:11.677282377919314%
+Percent TagLine Number:72.82377919320594%
+Percent Error Total:50.85297709358696%
+----Setup----
+I’m sitting in the bar, I’m having a drink by myself and the only other person in the bar is a woman, a couple of stools down.
+ And she was alone, and she was older, and that made me feel sad, ’cause it was the holidays.
+ So, I told the bartender, “Send that woman a drink on me.”
+ Just trying to spread the cheer, and I wish I didn’t.
+ This woman wanted to talk.
+ She wasn’t mean, she was nice, but she just wanted to talk about shit that you know, I mean a nigga just trying to get drunk don’t want to hear about this bitch remodeling in her bathroom.
+ And I’m sitting there, trying to be polite.
+ Oh, subway tiles? Word.
+ But then she hits a lick.
+ Piqued my interest.
+ She says, “My daughter is coming home for the holidays.”
+ Like, “Oh, that is great news, I’m glad you’re not going to be alone.”
+ And then she goes on and on about how great her daughter is.
+ I guess her daughter got a new agent and she is out in Hollywood, she’s in movies and on television and all this stuff and as she’s telling me this, I’m thinking, this woman is so sweet.
+ She probably doesn’t even know who I am.
+----Punchline----
+ Or what I do for a living because I know what your daughter’s is out in Hollywood doing.
+
+
+Similarity Score:0.26609442060085836
+Percent Error Setup:145.94476490124103%
+Percent Error Punchline:56.30278385986863%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:126.76608814713394%
+----Setup----
+And I am thinking, “Man these motherfuckers are in a lot of trouble.”
+ So what I do is I stand up and everybody in the bar likes me, so I make a big show of it to make sure that everyone can hear me.
+ Now, I walk right up to her, and I go “Hey! I just met your mother the other night and she told me all the great things you’re doing in Hollywood.
+ And I cannot believe that someone from a podunk place like this can achieve all that, I’m so proud of you.
+ Welcome home.”
+ And the whole bar said “Hurrah!”
+ And I said “Phew.”
+ “That ought to buy her some time.”
+----Punchline----
+ You know what I mean? A couple of more drinks and these fellows are gonna start asking her for some pussy, she might not have.
+
+
+Similarity Score:1.872340425531915
+Percent Error Setup:32.16657926935851%
+Percent Error Punchline:113.8880200187676%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:37.227546904488776%
+----Setup----
+And she was very gracious.
+ She said “Thank you so much”, and we shook hands and as she was shaking my hand, her face turned mean, like her mom’s.
+ And she said, “Do you mind, not punching down on my people?”
+ Oh, I don’t like that.
+----Punchline----
+ Normally, I would’ve let it go, but I was drunk.
+----Tagline(s)----
+I said, “What might you mean, bitch?”
+I was careful to call her a bitch, ’cause I didn’t want to blow her cover.
+
+
+Similarity Score:0.37037037037037035
+Percent Error Setup:47.13336829225659%
+Percent Error Punchline:9.508914607444472%
+Percent Error TagLine:570.063694267516%
+Percent TagLine Number:59.23566878980891%
+Percent Error Total:21.16715390593198%
+----Setup----
+Kevin Hart dreamt his entire life of hosting the Oscars and when he finally got the job they just took it! It’s not fair.
+ They didn’t kill him, Kevin is a strong guy.
+ But I’m sure it broke old Clifford’s heart.
+ It’s over.
+----Punchline----
+ LBGTQ, L-M-N-O-P-Q-Y-Z, it is over.
+
+
+Similarity Score:0.2857142857142857
+Percent Error Setup:50.58119209928334%
+Percent Error Punchline:50.64122614951517%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:52.31099433815638%
+----Setup----
+ No, I didn’t know.
+ They act like we sit around like Grease.
+----Punchline----
+ ♪ Tell me more, tell me more Did she put up a fight? ♪ [hums melody]
+
+
+Similarity Score:0.26666666666666666
+Percent Error Setup:85.05943016955078%
+Percent Error Punchline:39.849859243040356%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:70.80264959478963%
+----Setup----
+ I remember that shit.
+ You don’t remember that, when I quit my shit? On the way out the door I said, “Something’s wrong in Hollywood.”
+ I believe they said I smoked crack.
+ That’s what I remember.
+ I remember they called me crazy.
+ So really, you know, you’re right, ladies.
+ Congratulations.
+ Enjoy it.
+----Punchline----
+ And they’re coming for you, bitches.
+
+
+Similarity Score:0.43333333333333335
+Percent Error Setup:39.08844607586086%
+Percent Error Punchline:42.41476384110103%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:41.60529918957924%
+----Setup----
+I’m fucking around.
+ Yeah, man.
+ Well, you ladies were right.
+ Be honest with you, your lives look terrifying to me.
+ They do.
+ Man, I know nothing about being a woman, but I know fear.
+ Yo, I used to live in New York when I was 17.
+ I couldn’t even pay my bills.
+ You know what I did to make money? I used to do shows for drug dealers that wanted to clean their money up.
+ One time I did a real good set, and these motherfuckers called me in the back room.
+ They gave me $25,000 in cash.
+ I was probably 18, 19 years old.
+ I was scared.
+ I thanked them profusely, I put that money in my backpack, I jumped on the subway and started heading towards Brooklyn at one in the morning.
+ Never been that terrified in my life.
+ Because I’d never in my life had something that somebody else would want.
+ I thought to myself, “Jesus Christ, if these motherfuckers knew how much money I had in this backpack, they’d kill me for it.”
+ Then I thought, “Holy shit.
+----Punchline----
+ What if I had a pussy on me all the time?”
+
+
+Similarity Score:0.3917525773195876
+Percent Error Setup:109.16797762628912%
+Percent Error Punchline:1.2824522990303346%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:88.80953262036044%
+----Setup----
+ Scary being a white dude now, isn’t it? A little bit, no? Well, you’re not going to get “me too-ed.”
+ You know what I mean.
+ It’s funny for a black dude to see white people go through this because this is how it always is for us.
+----Punchline----
+ All my heroes were either murdered by the government or… are registered sex offenders.
+
+
+Similarity Score:1.873015873015873
+Percent Error Setup:44.8348190875721%
+Percent Error Punchline:23.396934626212083%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:38.6855641490582%
+----Setup----
+ Never choose to be a hero, ’cause heroes die uncomfortable deaths.
+ All I wanted to be was Paul Revere.
+ I just needed one heroic moment, you understand? “Paul Revere’s Ride” was only one night.
+ And then 40 years of him being like, “Hey, y’all, remember that time everybody was asleep, and I was up, and the British was coming? Boy, it’s a good thing I was awake, nigga, everybody be dead.
+----Punchline----
+ Psh.”
+
+
+Similarity Score:0.5675675675675675
+Percent Error Setup:17.25222863135815%
+Percent Error Punchline:83.54707538317172%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:27.979869000481067%
+----Setup----
+ And yet, he took a knee during that anthem for us.
+ Thought about us when things were going good, when his belly was full, when he was– He didn’t think about his livelihood or any of that, and they took his livelihood away from him.
+ Like, man, that shouldn’t be the way it is.
+Every fucking person that takes a stand for somebody else always gets beat down.
+ And we watch.
+ Over and over and over again, we watch it.
+ We should pay those motherfuckers for blowing the whistle, because they make our lives better, and we could change the narrative.
+ We could make one motherfucker have a good outcome for doing the right thing and that would make another motherfucker brave enough to do the right thing.
+ And if you did that, the niggas like Harvey Weinstein wouldn’t rape for 40 years because a bitch want a stupid ass part.
+We should take care of each other.
+----Punchline----
+ Wouldn’t it be nice to be like, “Remember that time he was gonna kill Jesus but then he got all that money?”
+
+
+Similarity Score:0.14444444444444443
+Percent Error Setup:80.43611256773292%
+Percent Error Punchline:89.2086330935252%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:75.18410243126226%
+----Setup----
+You know, that’s a huge omission from this narrative.
+ This wouldn’t have gone this far if some women weren’t willing to do it.
+ You can’t ask every woman to hold the line.
+ Some women can carry things heavier than others.
+ So we should fight for one another.
+ We should forgive the ones of us that are weaker and support the ones of us that are stronger.
+ And then we can beat the thing.
+ If you guys keep going after individuals, the system is going to stay intact.
+ You have to have men on your side.
+ And I’m telling you right now, you’re gonna have a lot of imperfect allies.
+I’ll tell you what happened, but I can’t say it directly.
+ There’s a book to me that encapsulates my entire experience.
+ Before I left the show.
+ And the book is called Pimp.
+ It’s written by a guy named Iceberg Slim.
+ Yeah, bring it up here.
+ This is Matthew.
+ Matthew’s from France.
+ He’s white.
+ And yet, he has an original copy of this book written by a black American who was a pimp in the ’40s.
+ Iceberg Slim.
+ His real name was Robert Beck.
+ He got the name Iceberg because he was in a bar in Chicago, and there was a shootout in the bar, and a bullet went through this nigga’s hat, and he still finished his drink.
+ Pimps love shit like that.
+ They said, “Man, you’re ice cold.”
+ And he said, “I like that.”
+ And it stuck.
+----Punchline----
+This book is so heavy in the front and has a glossary of pimp terms, because the ideas are so foreign to the American ears.
+
+
+Similarity Score:0.22140221402214022
+Percent Error Setup:182.721552176193%
+Percent Error Punchline:105.66155771035346%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:163.7493986604004%
+----Setup----
+Pretty damn good.
+ I was in Santa Fe the other night, and a motherfucker threw a banana peel at me.
+ Yeah, that didn’t feel so good.
+ Of course, it was a white person.
+ Not to indict the whites.
+ I’m just saying.
+ Not to profile.
+ And then, not only did he throw a banana peel at me, but… it was premeditated.
+ You could tell.
+ You could tell.
+ The peel was too brown.
+ You know what I mean? You didn’t eat that banana recently, motherfucker.
+ You had that shit waiting on me.
+ And the whole crowd was white, so it just got instantly creepy, and everyone looked like they were looking at 12 Years a Slave.
+----Punchline----
+ They were all just like… Who the fuck does that? And then they arrested the guy, which was… 
+
+
+Similarity Score:1.0895522388059702
+Percent Error Setup:31.01730466701626%
+Percent Error Punchline:64.52924616828277%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:30.41483180993969%

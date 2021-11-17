@@ -1,0 +1,1122 @@
+----Setup----
+At least we tried.
+----Punchline----
+There’s other comedians that would– Well this is not the first show but the other shows were like in drive-ins and if people liked the nigga’s jokes they’d honk the horn.
+----Tagline(s)----
+So what’s you guys? You a black and white friend hanging out, do you guys know each other?[inadubile]
+I’m just kidding, enjoy your riots.
+
+
+Similarity Score:0.36666666666666664
+Percent Error Setup:94.9682940660927%
+Percent Error Punchline:155.79979709164692%
+Percent Error TagLine:712.2503328894808%
+Percent TagLine Number:55.65912117177098%
+Percent Error Total:36.637091538628006%
+----Setup----
+He told the police he couldn’t breathe.
+One of the hardest parts of the tape to listen to.
+He said, “Please!”
+I can’t tell you, as a man, watching another man go through something like that, what it makes you feel like.
+ I didn’t watch the tape for a week.
+ I didn’t watch it.
+ I knew.
+ I saw a still picture, I said, I don’t want to see this, because I can’t unsee it.
+ But when I finally watched it, I understood, nobody’s going home.
+ Anyone who sees this, well they’re going to be furious.
+So the other night, I’m in my little clubhouse.
+ And I’m watching Don Lemon, that hotbed of reality.
+He says, “Where are all these celebrities? Why aren’t you talking?”
+----Punchline----
+This nigga said everybody.
+----Tagline(s)----
+I dare you!Has anyone ever listened to me do comedy?Have I not ever said anything about these things before?So, now, all the sudden, this nigga expects me to step in front of the streets and talk over the work these people are doing? As a celebrity? Answer me, do you want to see a celebrity right now? Do we give a fuck what Ja Rule thinks? Does it matter about celebrity? No! This is the streets talking for themselves.
+
+
+Similarity Score:0.2660098522167488
+Percent Error Setup:49.69325153374232%
+Percent Error Punchline:66.99357456881975%
+Percent Error TagLine:2499.201065246338%
+Percent TagLine Number:70.43941411451398%
+Percent Error Total:114.3778402943086%
+----Setup----
+I kept my mouth shut.
+And I’ll still keep my mouth shut.
+But don’t think that my silence is complicit of all the shit these niggas are saying.
+ Trying to get everyone to sing these fucking songs.
+ I know all these songs.
+I was raised on these songs.
+Why would anyone care what their favorite comedian thinks after they saw a police officer kneel on a man’s neck for eight minutes and forty-six seconds? I can’t get that number out of my head because it was my time of birth on my birth certificate.
+ I was born at 8:46 in the morning.
+ And they killed this nigga.
+ And eight minutes and forty-six seconds.
+I watched everything everybody says.
+ I see Candace Owens trying to convince white America, don’t worry about it, he’s a criminal anyway!I don’t give a fuck what this nigga did.
+ I don’t care what this nigga did.
+ I don’t care if he personally kicked Candace Owens in her stanky pussy.
+----Punchline----
+ I don’t know if it stinks but I imagine it does.
+
+
+Similarity Score:21.96470588235294
+Percent Error Setup:98.75238438933854%
+Percent Error Punchline:0.980723706459248%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:79.528240640554%
+----Setup----
+Candace Owens, that rotten bitch.
+She’s the worst.
+ I can’t think of a worse way to make money.
+The most articulate idiot I’ve ever seen in my fucking life.
+ She’s so articulate she’ll tell you how fucking stupid she is precisely.
+And she told George Floyd’s wrap record…On the internet.
+ “Oh, he was the this, he did that, and he was, he’s a drug addict.
+ And he was not a hero.
+ And why does the Black community make him a hero? Why do you chose him as a hero?”
+ We didn’t chose him, you did! They killed him, and that wasn’t right, so he’s the guy.
+We’re not desperate for heroes in the Black community.
+----Punchline----
+ Any nigga that survives this nightmare is my goddamn hero.
+----Tagline(s)----
+This is not funny at all.
+
+
+Similarity Score:0.29457364341085274
+Percent Error Setup:39.62983966592771%
+Percent Error Punchline:9.232330064254311%
+Percent Error TagLine:127.4300932090546%
+Percent TagLine Number:70.43941411451398%
+Percent Error Total:36.2302531919498%
+----Setup----
+Slavery is a really wild concept.
+Uh, it’s some weird shit.
+The night that those nine police officers were killed felt like the end of the world.
+The only reason it wasn’t the end of the world, in my opinion, was because at the very same time that was happening, Kobe Bryant was playing his last game as an LA Laker.
+ And as scary as all that shit was, I kept flipping back to see if Kobe would drop sixty, and he did.
+ Oh, and he did.
+And vaguely in the back of my mind I remember the idiot ass bitch telling somebody to shut up and dribble, and I watched this nigga dribbling and saving this goddamn country from itself.
+ I loved Kobe Bryant.
+ He died the night, the day I won a GRAMMY, he died.
+That’s why I didn’t show up at the GRAMMYs.
+ Because Kobe died.
+ They had both of his fucking jersey numbers hanging up.
+ 8, 24.
+ Well, that’s my birthday.
+I cried like a baby.
+[sighs]
+So, here’s what I said on Saturday Night Live that I got completely wrong:At the end of my set I talked about how few Black people were invited to the White House.
+How Frederick Douglass was the first.
+ And that it didn’t happen again until Roosevelt.
+But that was wrong.
+ It happened one other time before that.
+ Woodrow Wilson.
+ Woodrow Wilson received delegation of African Americans at the White House.
+ They were from South Carolina.
+ There was a man who was lynched for a $30 dispute at a grain elevator and they killed him because the nigga was rich, and they hated him for being more welathy then they were, and they murdered him.
+ And the people in South Carolina said, fuck that, and they went via the governor of South Carolina, it was a Black delegation that was facilitated to meet with Woodrow Wilson.
+ That delegation was lead by the AME Bishop William David Chappelle.
+That’s where I get my name.
+----Punchline----
+ It was my great- grandfather, who was a slave when he was born.
+
+
+Similarity Score:0.15476190476190477
+Percent Error Setup:305.05232767953805%
+Percent Error Punchline:15.522489009130878%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:254.8322873836832%
+----Setup----
+ Too noisy in a cornfield.
+ I had to have a whole town meeting about how noisy I was being in the cornfield.
+----Punchline----
+ It was so embarrassing.
+
+
+Similarity Score:1.0
+Percent Error Setup:71.067690880033%
+Percent Error Punchline:58.741968211024684%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:70.4306427180264%
+----Setup----
+ I resented it.
+ I resented that these country farmers could decide a guy like me’s fate.
+ People don’t deserve to do that.
+ They haven’t seen enough, they don’t know anything.
+----Punchline----
+ They probably watch me right now, they are probably at home like, “HONEY, COME QUICK, COME QUICK, THE GUY FROM THE GROCERY STORE IS ON TELEVISION!”
+
+
+Similarity Score:0.3793103448275862
+Percent Error Setup:61.00427901221839%
+Percent Error Punchline:122.79337166046669%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:38.749188487340405%
+----Setup----
+ You need us.
+----Punchline----
+ You need our eyes to save you from yourselves.
+----Tagline(s)----
+ This is what they look like at the back! You need some black eyes to look at you like — “Uh-uh! Hmmm, stop doin that.”
+Now Trump is gone.
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:94.9682940660927%
+Percent Error Punchline:17.483936422049375%
+Percent Error TagLine:907.1904127829561%
+Percent TagLine Number:55.65912117177098%
+Percent Error Total:52.477818653971%
+----Setup----
+ Called the coronavirus the kung flu.
+----Punchline----
+ I said, you racist — hilarious son of a bitch.
+
+
+Similarity Score:1.1111111111111112
+Percent Error Setup:91.19451461566221%
+Percent Error Punchline:9.232330064254311%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:80.99112746158839%
+----Setup----
+ I saw that, I said, “Oh, that’s why — that’s why.
+----Punchline----
+ That’s why women make half.”
+
+
+Similarity Score:0.7777777777777778
+Percent Error Setup:84.90488219827809%
+Percent Error Punchline:50.49036185322963%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:80.99112746158839%
+----Setup----
+I hadn’t felt that dirty in a long time.
+ Last time I can remember, feeling dirty like that, man, I must have been a little boy.
+----Punchline----
+ I was being molested by a preacher.
+----Tagline(s)----
+ But don’t feel bad for me, I liked it.
+ I used to get a kick out of cumming in that fellows face.
+
+
+Similarity Score:0.4745762711864407
+Percent Error Setup:67.29391142960252%
+Percent Error Punchline:33.9871491376395%
+Percent Error TagLine:712.2503328894808%
+Percent TagLine Number:55.65912117177098%
+Percent Error Total:37.6931400129842%
+----Setup----
+ Not a cough, not a booger, not a fever, nothing.
+----Punchline----
+ Look at me I am the Magic Johnson of coronavirus.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:86.16280868175491%
+Percent Error Punchline:9.232330064254311%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.7669335641636%
+----Setup----
+ That name and that voice, who could resist him? Now I should tell you, this Black man is literally an actual giant.
+ And he is a strong dude.
+ And when he shows up to them restaurants they see that big giant Black dude they say “You can’t come in here.”
+ And they call the police.
+----Punchline----
+ And then every installment of the book the police come, and they always shoot him.
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:29.556116925297733%
+Percent Error Punchline:32.025701724721%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:23.9645098463536%
+----Setup----
+   If I had a strip club in Yellow Springs, I would have called that shit “Strippies.”
+ All naked hippies, all the time.
+ And I would only hire girls with long titties and long vagina head that looks like they slept on it.
+ And I would keep a pile of dirt, right next to the stage.
+ I’d come up like, “Bitch get your feet in that dirt and get up there and give those people what they came to see.”
+ “Chalk up, bitch.”
+ Couple of years ago I was in Ohio, at a shopping mall.
+ An old White lady… This is true, she was following me around the mall.
+ Which sounds paranoid, but I’m sure she was following me.
+ Mean lady too.
+ You ever see a woman with lines on her face? That just tell you like… even if she’s smiling, it would look like it would hurt the muscles in her face.
+ I knew she was following me, ’cause she was at places that had nothing to do with her I’d be looking around like, “What is this old bitch doing in Gamestop and Footlocker and all the places I like to go?”
+ Every time I see her, she’d just be looking mean on me.
+ And eventually I forgot about it.
+ So, then after, I am shopping I go all the way to the back of the parking lot, I’m parked all the way in the back and as soon as I open my car door I hear a voice go, “David Chappelle.”
+ Just like that.
+ I didn’t even have to look, I knew it was her.
+ And I looked back and sure enough there she was, that face.
+ To be honest with you, she probably wasn’t even that old.
+ She’s probably around my age.
+----Punchline----
+ But she was a White woman, this bitch looked terrible.
+
+
+Similarity Score:0.18770226537216828
+Percent Error Setup:274.86209207609426%
+Percent Error Punchline:9.232330064254311%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:226.3189785760658%
+----Setup----
+“Before I kill you and put you in the trunk.
+----Punchline----
+ Ain’t nobody around here.”
+
+
+Similarity Score:1.0666666666666667
+Percent Error Setup:87.42073516523173%
+Percent Error Punchline:58.741968211024684%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.159272884657%
+----Setup----
+So I hit Anj up, I hit her on the text and all I did, I texted.
+ I said, “Anj, are you going to the women’s march?”
+----Punchline----
+ And she texted me back, and this is a real text, she said… she said, “I hope those White bitches get tear gassed.”
+
+
+Similarity Score:0.9019607843137255
+Percent Error Setup:66.0359849461257%
+Percent Error Punchline:98.03855258708151%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:46.141527807833796%
+----Setup----
+ It was, it was White, it was like… they were doing shit, like going to the Golden Globes and all of them would be like “Let’s all go to the Golden Globes and wear black dresses.
+ And give these men a piece of our minds.”
+ Bitch, that is not gonna work.
+----Punchline----
+ You think Martin Luther King is gonna be like, “I want everybody to keep riding the bus, but wear matching outfits.”
+
+
+Similarity Score:0.4594594594594595
+Percent Error Setup:34.58782285920503%
+Percent Error Punchline:81.53533987149137%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:21.852412897641198%
+----Setup----
+And now, we’re right back to square one, aren’t we? And now we get to the core of the crisis.
+ What… what is a woman? What is that, in this day and time? Is there even such a thing as a woman or a man or anything? Hmm.
+ Hmm? Seems to be a question nowadays.
+----Punchline----
+ Now listen, women get mad at me gay people get mad at me, lesbians get mad at me, but I’m gonna tell you right now, and this is true… these transgenders… the niggas want me dead.
+
+
+Similarity Score:0.3695652173913043
+Percent Error Setup:30.814043408774555%
+Percent Error Punchline:205.3094352384173%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:2.8435403592296002%
+----Setup----
+You have to ask yourself, if you’re thinking about it, who are these laws designed to protect? Like let’s say they designed this law to protect me, my interests, transphobic comedian, Dave Chappelle.
+ Let’s say I’m in Walmart, doing a little shopping with my family.
+----Punchline----
+ Now I should tell you if that ever happens in real life, you should know my dreams didn’t work out.
+----Tagline(s)----
+Well let’s say something goes horribly wrong and there I’m in Walmart with the poor Whites rummaging around for mediocre goods and services.
+
+
+Similarity Score:0.26666666666666666
+Percent Error Setup:43.39330824354282%
+Percent Error Punchline:73.28373351369632%
+Percent Error TagLine:679.7603195739015%
+Percent TagLine Number:70.43941411451398%
+Percent Error Total:4.955637307942%
+----Setup----
+ I couldn’t believe it.
+ I said “What is a trans person, doing in a place like this? This is very dangerous behavior.”
+ And she was with, two big, buff, gay Black dudes.
+ I didn’t know these dudes, but I know they was gay.
+----Punchline----
+ If they had a dick in their mouth, they wouldn’t look any gayer than they did just sitting there.
+
+
+Similarity Score:0.5
+Percent Error Setup:44.65123472701965%
+Percent Error Punchline:65.03212715590125%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:32.412897641203195%
+----Setup----
+And I am thinking, “Man these motherfuckers are in a lot of trouble.”
+ So what I do is I stand up and everybody in the bar likes me, so I make a big show of it to make sure that everyone can hear me.
+ Now, I walk right up to her, and I go “Hey! I just met your mother the other night and she told me all the great things you’re doing in Hollywood.
+ And I cannot believe that someone from a podunk place like this can achieve all that, I’m so proud of you.
+ Welcome home.”
+ And the whole bar said “Hurrah!”
+ And I said “Phew.”
+ “That ought to buy her some time.”
+----Punchline----
+ You know what I mean? A couple of more drinks and these fellows are gonna start asking her for some pussy, she might not have.
+
+
+Similarity Score:1.900709219858156
+Percent Error Setup:44.661545599835016%
+Percent Error Punchline:114.54176530267164%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:48.9028348842242%
+----Setup----
+ Turns out she wasn’t hiding.
+ She was loud, she was proud.
+ She let me have it in front of everybody.
+ Screaming at me, all the talking points from that article.
+ You transphobic, this and that.
+ Kept clapping her hands in my face.
+ “Let me tell you somethin’.”
+ I said, “Where did you learn this from, Black bitches?”
+ She kept going, “Let me tell you something, honey.”
+ So annoying.
+ She kept calling transgenders, her people.
+ Ain’t that weird? “My people this, my people that.”
+----Punchline----
+ I said, “What do you mean, your people?”
+
+
+Similarity Score:0.40860215053763443
+Percent Error Setup:5.665824612053402%
+Percent Error Punchline:25.735542779844433%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1.7874918848734003%
+----Setup----
+I am exaggerating, she is actually a very nice person and I’m cool with her now, but boy, that shit got on my nerves.
+ And it got on my nerves because, whenever someone says that to me I know they have never seen me for themselves, they just repeat what they’ve heard.
+ Any of you, who have ever watched me know that I’ve never had a problem with transgender people.
+----Punchline----
+ If you listen to what I’m saying, clearly my problem has always been with White people.
+
+
+Similarity Score:0.22988505747126436
+Percent Error Setup:11.945146156622165%
+Percent Error Punchline:40.277308082516065%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:8.1237827310106%
+----Setup----
+“Call me a girl, nigger.”
+ It’s annoying as fuck.
+ No, no, go back, go back tonight after the show, watch every special I did on Netflix.
+ Listen to everything I’ve ever said about that community.
+ I’ll go through ’em.
+ I said, “How much do I have to participate in your self image?”
+ I said, “You shouldn’t discuss this in front of Black people.”
+ I said, “I know niggas in Brooklyn that wear high heels just to feel safe.”
+----Punchline----
+ I asked you “Why is it easier for Bruce Jenner to change his gender than it is for Cassius Clay to change his name?”
+
+
+Similarity Score:0.3106796116504854
+Percent Error Setup:1.8817342888075548%
+Percent Error Punchline:106.29015894487657%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:8.7729928586886%
+----Setup----
+And I’m not exaggerating, young man.
+ That show was terrible.
+ Stunk.
+ Stunk.
+ And then she brings me on, and you know, I was like a glass of water after a handful of salt.
+ The crowd was happy to see me.
+ I was killing it.
+ But here is what impressed me.
+ Any other comedian I’ve ever seen, if they had bombed as bad as she did, would have snuck out of the back of the theatre and went home and cried or something, but she didn’t do that.
+ Not only did she not leave, she found a seat, right up in front.
+----Punchline----
+ You know, when a new comedian watches an experienced comedian in comedy we call this “taking class.”
+
+
+Similarity Score:0.5210084033613446
+Percent Error Setup:27.050574831159444%
+Percent Error Punchline:48.52891444031113%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:25.6697684483878%
+----Setup----
+ I said, “You’re doing some things wrong but I can help you.”
+ I said, “Anytime I’m in San Francisco why don’t you open the show for me and I’ll just try to give you some pointers and see if you can work this thing out.”
+ She said, “Are you serious?”
+ I was like, “Yeah.”
+ And she grabbed me real tight, hugged me, squeezed me.
+ And I pushed her off violently, ’cause I’m transphobic.
+----Punchline----
+ I said “Boundaries, bitch!”
+
+
+Similarity Score:0.6075949367088608
+Percent Error Setup:6.91344022271486%
+Percent Error Punchline:58.741968211024684%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:16.5721705258602%
+----Setup----
+Beautiful tweet, beautiful friend, it took a lot of heart to defend me like that, and when she did that the trans community dragged that bitch all over Twitter.
+ For days, they was going in on her, and she was holding her own ’cause she’s funny.
+ But six days after that wonderful night I described to you my friend Daphne killed herself.
+ Oh yeah, this is a true story, my heart was broken.
+ Yeah, it wasn’t the jokes.
+ I don’t know if was them dragging or I don’t know what was going on in her life but I bet dragging her didn’t help.
+ I was very angry at them, I was very angry at her.
+ I felt like Daphne lied to me.
+ She always said, she identified as a woman.
+ And then one day she goes up to the roof of her building and jumps off and kills herself.
+ Clearly… only a man would do some gangster shit like that.
+ Hear me out.
+ As hard as it is to hear a joke like that I’m telling you right now, Daphne would have loved that joke.
+----Punchline----
+ That is why she was my friend.
+
+
+Similarity Score:0.5906735751295337
+Percent Error Setup:132.71639944321285%
+Percent Error Punchline:33.9871491376395%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:103.8173555507466%
+----Setup----
+ He said, “It’s Anderson Cooper.”
+ Oh, I said, “Anderson, look I need to find her family.”
+ And he texted me right back with all the phone numbers and all this information.
+ I say this to say, if you ever want to know about anything gay call Anderson Cooper from CNN.
+----Punchline----
+ This nigga is faster than Google.
+----Tagline(s)----
+ What I did is, I got in touch with her family and I started a trust fund for her daughter ’cause I know that is all she ever really cared about.
+
+
+Similarity Score:0.37362637362637363
+Percent Error Setup:35.84574934268186%
+Percent Error Punchline:42.23875549543456%
+Percent Error TagLine:972.1704394141145%
+Percent TagLine Number:70.43941411451398%
+Percent Error Total:3.8995888335858%
+----Setup----
+ Sometimes, the funniest thing to say is mean.
+ You know what I mean? It’s a tough position to be in.
+ So I say a lot of mean things, but you guys got to remember.
+ I’m not saying it to be mean.
+----Punchline----
+ I’m saying it because it’s funny.
+----Tagline(s)----
+And everything’s funny till it happens to you.
+
+
+Similarity Score:2.2413793103448274
+Percent Error Setup:47.1670876939733%
+Percent Error Punchline:42.23875549543456%
+Percent Error TagLine:192.41011984021307%
+Percent TagLine Number:70.43941411451398%
+Percent Error Total:38.749188487340405%
+----Setup----
+ I’m not sure this motherfucker has a choice.
+ Not a handsome man.
+ A lot of meat and extra skin on his face.
+ Yeah, he’s ugly.
+ You know, the sad part is he’s done so well in life, he probably doesn’t know he’s ugly.
+ You know, when you’re good-looking, everybody will tell you.
+ “Oh, you look wonderful, you’re so great looking.”
+ But when you’re ugly.
+----Punchline----
+ You gotta figure that shit out for yourself.
+
+
+Similarity Score:0.43243243243243246
+Percent Error Setup:18.234778574006295%
+Percent Error Punchline:25.735542779844433%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:21.852412897641198%
+----Setup----
+ [grunts]
+----Punchline----
+ “I’ll put you in all three Lord of the Rings.
+
+
+Similarity Score:0.7692307692307693
+Percent Error Setup:97.48414703304634%
+Percent Error Punchline:9.232330064254311%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:86.2713698333694%
+----Setup----
+Wow.
+----Punchline----
+ I mean, it is really bad out here, isn’t it? Kevin Spacey is out here, grabbing men by the pussy.
+
+
+Similarity Score:0.6363636363636364
+Percent Error Setup:98.74207351652318%
+Percent Error Punchline:73.28373351369632%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.7669335641636%
+----Setup----
+ Donald Trump and… Now here we all are.
+ 400-year nightmare.
+----Punchline----
+Took us 400 years to figure out as a people that white people’s weakness the whole time was kneeling during the national anthem.
+
+
+Similarity Score:0.4117647058823529
+Percent Error Setup:86.16280868175491%
+Percent Error Punchline:89.78694622928644%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:64.0943518718892%
+----Setup----
+ Does anybody remember when I was missing from show business for 12 years? Remember when I had this really popular show and I quit? I remember I walked away from $50 million.
+----Punchline----
+ A lot harder than walking away from Louis’ freckled dick.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:58.48842604526473%
+Percent Error Punchline:9.232330064254311%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:53.533867128327195%
+----Setup----
+ Takes me hours to find one clip.
+ “What the hell is this? Marginally groomed feminist enjoys consensual sex with… vaguely homosexual guy whose penis is the same color as mine.”
+----Punchline----
+ Click.
+
+
+Similarity Score:0.30303030303030304
+Percent Error Setup:61.00427901221839%
+Percent Error Punchline:83.49678728440988%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:65.15040034624539%
+----Setup----
+ It’s real talk.
+----Punchline----
+ If them same drug dealers gave me a pussy and said, “Put this in your backpack and take it to Brooklyn,” I’d be like, “Nigga, I can’t accept this.”
+
+
+Similarity Score:0.5294117647058824
+Percent Error Setup:94.9682940660927%
+Percent Error Punchline:147.54819073385187%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:64.0943518718892%
+----Setup----
+ You see that motherfucker right there? He’s under an enormous amount of pressure.
+ He is.
+----Punchline----
+ Just being big and black with that hairdo, nigga, these motherfuckers are a suspect for everything.
+----Tagline(s)----
+ Except white collar crime.
+
+
+Similarity Score:0.3076923076923077
+Percent Error Setup:79.87317626437078%
+Percent Error Punchline:40.277308082516065%
+Percent Error TagLine:94.94007989347537%
+Percent TagLine Number:70.43941411451398%
+Percent Error Total:58.8141095001082%
+----Setup----
+ Scary being a white dude now, isn’t it? A little bit, no? Well, you’re not going to get “me too-ed.”
+ You know what I mean.
+ It’s funny for a black dude to see white people go through this because this is how it always is for us.
+----Punchline----
+ All my heroes were either murdered by the government or… are registered sex offenders.
+
+
+Similarity Score:1.9365079365079365
+Percent Error Setup:39.61952879311234%
+Percent Error Punchline:23.77409536692594%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:33.4689461155594%
+----Setup----
+ And I saw the whole thing.
+ Exotic animals and Ferris wheels and merry-go-rounds and shit.
+ And the more they showed it, the more certain I was that… I don’t think Michael Jackson did any of those things they said he did.
+ His house didn’t look sexual.
+----Punchline----
+ It looked like… he was flossing with those motherfuckers.
+
+
+Similarity Score:0.8070175438596491
+Percent Error Setup:40.87745527658917%
+Percent Error Punchline:17.483936422049375%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:39.8052369616966%
+----Setup----
+ He’s just walking through his house.
+ “This is my cotton candy machine.
+ It makes three tons of cotton candy a day.
+----Punchline----
+ You can have all the cotton candy you want.
+----Tagline(s)----
+ This closet is filled with nothing but custom-made karate slippers.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:72.32561736350982%
+Percent Error Punchline:17.483936422049375%
+Percent Error TagLine:289.88015978695074%
+Percent TagLine Number:70.43941411451398%
+Percent Error Total:53.533867128327195%
+----Setup----
+ Bubbles.
+ Get these kids the fuck out of my house.
+ You’re just like everyone else.”
+ Hollywood is no place for moral absolutism.
+ You know what I mean? We must never forget that R.
+----Punchline----
+ Kelly peed on a 15-year-old girl.
+----Tagline(s)----
+ And he also wrote “I Believe I Can Fly.”
+ Same guy, same lifetime.
+
+
+Similarity Score:2.175438596491228
+Percent Error Setup:57.23049956178791%
+Percent Error Punchline:42.23875549543456%
+Percent Error TagLine:419.8402130492677%
+Percent TagLine Number:55.65912117177098%
+Percent Error Total:39.8052369616966%
+----Setup----
+ If I showed you that video of him peeing on that girl, and scored it to “I Believe I Can Fly,” you’d be torn.
+----Punchline----
+ ♪ I used to think that I could not go on ♪ You wouldn’t know how to feel.
+----Tagline(s)----
+ It’s okay, my career ended many years ago.
+ Order.
+
+
+Similarity Score:0.2857142857142857
+Percent Error Setup:68.55183791307935%
+Percent Error Punchline:56.780520798106195%
+Percent Error TagLine:289.88015978695074%
+Percent TagLine Number:55.65912117177098%
+Percent Error Total:40.8612854360528%
+----Setup----
+ And yet, he took a knee during that anthem for us.
+ Thought about us when things were going good, when his belly was full, when he was– He didn’t think about his livelihood or any of that, and they took his livelihood away from him.
+ Like, man, that shouldn’t be the way it is.
+Every fucking person that takes a stand for somebody else always gets beat down.
+ And we watch.
+ Over and over and over again, we watch it.
+ We should pay those motherfuckers for blowing the whistle, because they make our lives better, and we could change the narrative.
+ We could make one motherfucker have a good outcome for doing the right thing and that would make another motherfucker brave enough to do the right thing.
+ And if you did that, the niggas like Harvey Weinstein wouldn’t rape for 40 years because a bitch want a stupid ass part.
+We should take care of each other.
+----Punchline----
+ Wouldn’t it be nice to be like, “Remember that time he was gonna kill Jesus but then he got all that money?”
+
+
+Similarity Score:0.16666666666666666
+Percent Error Setup:97.49445790586172%
+Percent Error Punchline:89.78694622928644%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:90.088725384116%
+----Setup----
+ Real talk, man.
+ It’s not a racial thing.
+ It’s about us making our society better.
+ It’s about like even these women that are coming forward, and everyone says they’re brave, and many of them are.
+----Punchline----
+ And a few of them– a few of them sucked the dick and got buyer’s remorse.
+
+
+Similarity Score:0.33962264150943394
+Percent Error Setup:54.71464659483426%
+Percent Error Punchline:40.277308082516065%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:44.0294308591214%
+----Setup----
+Iceberg Slim was the one that broke down what a bottom bitch was.
+ Does anyone know what a bottom bitch is? Anyone? What’s a bottom bitch, sir? It’s your, uh– it’s your prostitute that’s the best out of all of ’em, that bring in the most money.
+ That’s right.
+----Punchline----
+ That’s exactly right.
+
+
+Similarity Score:0.4528301886792453
+Percent Error Setup:38.361602309635515%
+Percent Error Punchline:66.99357456881975%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:44.0294308591214%
+----Setup----
+Is the word “pussy” offensive?[crowd]
+ No!All right, just checking, just checking.
+ I asked that crowd when we was in Denver, “Is the word ‘pussy’ offensive?”
+ And the whole crowd said no, except for two people.
+ One was a woman in the front, older than me, maybe around my age.
+ Definitely a feminist.
+ You know what I mean.
+ Short haircut, plaid shirt.
+ You know what I’m saying.
+ And she didn’t say it offended her.
+ What she said is, she said, “I am uncomfortable with that word.”
+ And I was like, “Really? You?”
+ And before I could ask her why, there was one guy in the balcony— I don’t think he was saying this to me, but he said this.
+ Everybody heard him say it.
+ He goes, “It’s delicious.”
+ I was like, “What?”
+ I don’t think I’ve ever heard pussy called delicious before in my life.
+ Now, this is not to say that it’s bad.
+ But it’s definitely an acquired taste.
+ I don’t think any of us tasted pussy our first time like… 
+[smacking lips]
+ “Mmm! It’s good!”
+ It needs something.
+You know, it’s illegal for a gynecologist to say the word “pussy.”
+ They can only say “vagina,” or they can name individual parts medically, but they can never say shorthand, even if the gynecologist is a woman.
+ I feel like if it was a woman gynecologist, it’s cool.
+ Like, “Am I all right?”
+ She’s like, “Girl, that pussy is…” [clicks tongue]
+ She’d be like, “Yeah.”
+I don’t think men should be allowed to be gynecologists.
+ That shit is a conflict of interest.
+----Punchline----
+ Even when my wife was pregnant, we used to go to a gynecologist… 
+
+
+Similarity Score:0.6496350364963503
+Percent Error Setup:225.80295922049802%
+Percent Error Punchline:23.77409536692594%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:189.3572819735988%
+----Setup----
+ As a matter of fact, she eats and spends this shit.
+ No, I told him, I said, “You know what you should do, man? First of all, you shouldn’t do it.”
+ I’m talking about being legally married.
+ It’s not that you’re gay as much as just legal marriage is a fucking diabolical leverage game in the United States.
+ I’m just being honest.
+ Devoid of religious significance or the idea of love, marriage is nothing but an awful contract that you shouldn’t sign.
+ I’m just being real.
+ Because you start out loving each other.
+ Then two years later, you’re just building a case against one another… for a hypothetical court date that may or may not ever happen.
+ You throw being gay on top of that, that shit is explosive.
+It’s that Ray Rice shit.
+ Right after Ray Rice went through all that shit, I was at a party and I met this kid Michael Sam.
+ You know Michael Sam? Very nice guy.
+ He’s the first openly gay NFL player.
+ And Michael’s a very nice guy, a very brave guy, but when I met him, I couldn’t help but think, “What’s gonna happen when Michael Sam beats his wife up in the elevator? Is that domestic violence, or is that just two niggas working shit out in an elevator?”
+ You know what I mean?Anyway… I give all married men the same advice, gay or straight.
+ Get a dog.
+ Because a dog will love you all the time, but she’s not going to.
+ It was real talk.
+ I didn’t even know about dogs, and my kids got the dog.
+ They brought him home from the shelter.
+ I didn’t even want him.
+ They were like, “Can we keep him?”
+ I said, “Nope.”
+ I said, “Where did you get this dog?”
+ They’re like, “From the shelter.”
+ I was like, “Ugh.
+ Probably something wrong with him.
+ Can’t keep him.”
+ And then my kids started crying and screaming like the dog had gambling debts.
+ “Please, Dad! If you don’t let us keep him, they’re gonna kill him!”
+ I was like, “Oh— All right, you can keep him.”
+   And this dog was a menace.
+ I hated his guts.
+ One night, I’d smoked a bunch of weed, and I was eating a sandwich, and Baba came over— Baba is the dog.
+ He came over and was staring at me.
+ This will make you very uncomfortable, if he’s just looking at you eating.
+ I had to give him a piece of my sandwich so he’d go away, and that’s how we became friends.
+ Now, if you see me walking down the street with Baba, I ain’t got no leash or nothing.
+ He walks right next to me.
+ If I stop, he’ll stop.
+ And if I go, he’ll go.
+ And all my friends are like, “Yo, Dave, that shit is dope.
+ How’d you train Baba to do that shit?”
+ “I’ve never trained Baba.
+ I’m just a messy eater.”
+ If I drop food and Baba’s not around, all I gotta do is call him.
+ “Baba!”
+ He’s a black dude’s dog, so he doesn’t come right away.
+ He peeks first to see what’s going on.
+ I gotta tap my foot so he can see the food.
+ “Over here, little buddy.”
+ He’s like, “Thanks, Dave,” and he’ll come get it and run off.
+ But he knows all my habits.
+ If he smells weed in the house, he’ll be like… 
+[sniffing]
+ “Oh, this motherfucker’s about to eat.”
+ And he’ll just come running.
+Baba got me through a very difficult time in my marriage.
+ We spend the most time together.
+ It’s not that me and my wife don’t spend time together, but we’ve been married so long, we don’t talk like— I don’t know if anyone’s married here, but after ten years, all that chatty shit goes away.
+ You’ve said it all.
+ You know what I mean.
+ Yeah.
+ We’re just in the zone.
+ She says the same shit to me every night before she goes to bed.
+ I’ll be the last one up.
+ She’s like, “I’m gonna get some sleep, Dave.
+ Good night.”
+ “All right, babe.
+ I’m gonna stay up and watch television.
+ Good night.”
+ Then she’ll walk halfway up the steps.
+ “David?”
+ “Hmm?”
+ “Don’t eat the kids’ lunch.”
+ And then she walks away.
+ Well, the crazy shit is, I don’t even eat their lunch anymore.
+ Back in the day, I used to eat that shit.
+ You know how that goes.
+ Now I might smoke some weed in the middle of the night, and she’ll leave neatly-wrapped sandwiches all over the kitchen.
+ I’m gonna eat it.
+ What’s the big deal? Why can’t she just make another one in the morning? I mean, I got sons anyway.
+ And sons love everything their dads do.
+ My kids will be at school the next day like, “Oh, Dad bit my sandwich.
+ Oh, shit!”
+ Their dad is Dave Chappelle, man.
+ You could trade that sandwich for something better.
+ What I’m doing is adding value to their lunch.
+ But she doesn’t understand these types of things.
+Anyway, she gets mad at me.
+ She’s mad at me now ’cause I got myself in trouble.
+ I got myself extorted, which happens in this business.
+ I come home from the road.
+ There was a FedEx sitting on the kitchen table, and it was addressed to me, so I opened it.
+ I don’t know who delivered it.
+ And there was a videocassette inside with a note written on it that said, “Gotcha.”
+ Oh, my God.
+ Can you imagine? I freaked out.
+ I tore the whole house apart, trying to find a VCR.
+ I hadn’t seen a tape in over a decade.
+ And I watched the tape, and it was awful.
+ They got me.
+ It was a tape of me— I was fucking a girl, okay? But it was from before I was married.
+ But it was not a good look.
+ And I felt sick to my stomach, and I looked up at the clock, and then I saw my wife was coming home in ten minutes, and I just panicked.
+ I jerked off to the tape real fast, and then— and then I called the FBI.
+ Who, by the way, made me feel much better.
+ They didn’t say they were gonna catch ’em for sure, but they had the demeanor of some confident people that would catch ’em.
+ So, I didn’t worry about it too much.
+ And then, not even a week later, five days later, I come home, and there’s another videocassette sitting on my porch.
+ As soon as I saw it, I just called the police.
+ “They’ve done it again.
+ You should probably look for a guy with bell-bottoms on, because I don’t know who the fuck is sending tapes!”
+ And that second tape was the worst shit I’d ever seen in my life.
+ It was awful.
+ Career-ending bad.
+ It was a tape of me… jerking off to the tape a week earlier.
+ I don’t even know how they’d even get such a thing.
+ I had to explain all of this to my wife.
+ She was very mad.
+No thing in this world is as cold as a woman’s cold shoulder, ’cause she was mad, but she wouldn’t talk to me about it.
+ She would just punish me in little ways, make me do shit that I hate to do.
+ Like pick the kids up from school.
+ That’s one thing she made me do.
+ That’s a hardship for me.
+ I got one son that goes to a public school.
+ And… his little brother goes to a private school.
+ It’s an experiment.
+ I just want to see what’s gonna happen to them.
+ But what’s weird is, my little son in private school, he’s, like, my thuggy son, you know what I mean? I don’t know where he gets that from.
+ He’s not getting it from me.
+ And he’s definitely not getting it from that school.
+ That school is very— It’s a liberal school.
+ It’s the kind of school— there might be, like, 12 black students in the entire school, and I’m the only black parent.
+ And none of the parents like me, either.
+ Not ’cause I’m black, but they don’t like how I roll.
+ I’ll be showing up late all the time, and I’m, like, in a Porsche, and I’m blasting music that they don’t like.
+ ♪ I beat the pussy up ♪ Then I pull into the parking lot.
+ I might be smoking a cigarette with the kids in the car.
+ Then I pull into that handicapped space.
+ And when I get out of the handicapped space, they always want to say some passive-aggressive shit.
+ “Morning, Dave.
+ Don’t know if you noticed, but you actually parked in the handicapped space.”
+ “Yeah, you know, Frank, I did notice.
+ But who is this handicapped guy we’re all waiting on that never shows up?”
+So, I hate going over to that school.
+ The only parents that are nice to me is a lesbian couple— Kate and Sarah.
+ Actually, Kate hates my guts.
+ Sarah knows that I’m black, and she’s half-black, so she just understands me.
+ You know what I’m saying? I can’t explain it.
+ Because I’ll say shit, and Kate’s just too serious about being a lesbian.
+ I’ll be like, “Hey, Kate.
+ Hey, Sarah.
+ You guys going to the father-son picnic next week? How’s that gonna work?”
+ And Kate will instantly be furious.
+ But Sarah knows I’m fucking around, so she’ll just say something cool.
+ “I don’t know, Dave.
+ Maybe me and Kate will flip for that shit.”
+ I said, “Bitch, you better save that coin toss, because everybody knows you’re strapping on in that household.”
+ And then Kate will turn bright red, but Sarah just fist-bumps me, like, “You’re right, nigga.
+ It’s me.
+ Bop.”
+We’re good friends.
+ We’re good friends.
+ They invite me to stuff.
+ They’re my only friends at the school.
+ So, imagine my surprise when I go to pick my son up after all this happens.
+ And the teacher is waiting outside for me.
+ She’s just standing right there in the middle of the handicapped space.
+ I knew something was wrong, so I rolled the window down.
+ “What’s going on?”
+ “Hi, David.
+ Can we talk to you for a minute in the office?”
+ I said, “No, fuck that.
+ We gotta talk right here.
+ What’s going on?”
+ I knew it was bad.
+ “Ibrahim had a fight.”
+ I said, “A fight?”
+ “Don’t worry.
+ Everyone’s okay.”
+ I said, “Everyone? What happened?”
+ “Well, that’s it.
+ We don’t know what happened because he won’t talk to anybody.
+ All we know is that he punched Sarah Jr.
+ in the face.”
+ I said, “Oh, no!”
+ Sarah’s one of the only parents I’m not sure I can beat up in this school.
+ Just then, Kate and Sarah pulled up to pick up their daughter, and then we all had to go into the office, and I was really worried ’cause I didn’t want them to kick me out of the school.
+ And then they brought my son in.
+ He was crying.
+ They brought him in like a prisoner.
+ He was like, “Ohh! Oh!”
+ I said, “Son, stop crying, calm down.
+ Do not look at these mean faces.
+ I need you to look at my face, and I need you to tell me the truth, buddy, all right? Just tell me the truth.
+ Is it true? Did you punch that girl Sarah Jr.
+ in the face?”
+ I was trying to give him a signal to lie, but he didn’t pick up on it.
+ I was like… He wasn’t paying attention.
+ He’s like, “Yes, Daddy, I punched her face.”
+ “Oh, my God.
+ Why? Why would you do that? You’re not supposed to put your hands on anybody.”
+ And his answer was so gangster, it scared all the parents in the room.
+ He was like… 
+[whimpering]
+ “‘Cause she had it coming.”
+ I said… And everyone looked at me.
+ I said, “I did not teach him.
+ I don’t know where he got that from.”
+ I said, “What does that mean, son? That is crazy talk! What does that mean?”
+ And then he just started crying like he was Tupac.
+ [crying]
+ “These kids keep fucking with me!”
+ I told his teacher, I said, “Well, now, wait a minute.
+ This kid is a lot of things, but he’s not a liar.
+ And if he said they was fucking with him, they did something to him.
+ Son, what’s going on? What did they do to you?”
+ “Dad, I’m tired of this shit.
+ It’s been going on all week.”
+ I said, “What’s going on all week?”
+ He said, “We was at lunch, and that bitch bit my sandwich.”
+ I said, “Oh.”
+ He said, “It’s the fourth time this week.
+ I’m tired of this sandwich-biting bitch.”
+ I said, “Stop using that word.
+ Let’s go home.”
+That’s a quiet car ride home.
+ We got to the house, he just ran right up to his room, slammed the door.
+ His mother came downstairs.
+ By then, she’d heard about everything.
+ She was looking at me, like, “Oh, my God.”
+ I said, “I know.
+ It’s fucked up.”
+ She said, “You bit that goddamn sandwich, didn’t you, Dave?”
+ I said, “I’m tired of you accusing me of shit!”
+ And I just ran out of the house.
+ Jumped in my car and drove off.
+ Of course I bit that sandwich.
+ But I knew that she was just really mad about that tape, so now she was gonna punish me about a fucking sandwich that I’d bit.
+ I was mad as fuck.
+ You know what I said to myself? I said, “I should just never go home.
+ Fuck this shit.”
+ By the way, that’s how people used to get divorced in the ’40s.
+ There wasn’t no divorce court in America.
+ Back in those days, if you wanted to get out your marriage, you’d just tell your wife, “Hey, baby, I’m gonna get a pack of cigarettes.
+ I’ll be right back.”
+ You would just leave with the clothes on your back.
+ That’s when men were men.
+ And there was no Internet back then, so you could move 11 miles away and have a whole new life.
+But I ended up going back home… late at night, and came in the room, and she was actually changing for bed.
+ You can always tell your wife is mad at you when they cover their titties up when you walk in.
+ “Oh!”
+ “Let those titties out.
+ It’s me, baby.
+ Can we just talk about this for a minute?”
+ She said, “David, there’s nothing to talk about.
+ I already know you bit the sandwich.
+ And don’t go looking for their lunch.
+ I hid it.”
+ I said, “I don’t want to talk about the sandwich.
+ I want to talk about it.
+ The tape.
+ I know that’s why you’re mad.”
+ It was a very difficult conversation.
+ I had to crack a few jokes.
+ And she laughed a little, and it helped her relax, and we started talking, and then she cracked a few jokes… that hurt my feelings, honestly.
+ But— But we talked.
+ And you know what she told me? She told me that she was madder about the second extortion tape than she was about the first one.
+ Which doesn’t make sense at all.
+ What’s wrong with a guy touching his own private parts? It’s my own business.
+ It’s not like I do it all the time.
+ As a matter of fact, sometimes I do it for her benefit.
+ A lot of guys do this.
+ It’s called the mercy jerk.
+ That’s the one that happens in the middle of the night when you’re about to roll on top of her and you see her face, and you’re like, “She looks tired.”
+ That takes a lot of love and discipline to back out of a room with a rock-hard ick.
+ Sometimes I don’t make it.
+ “Uh-oh.
+ Uh-oh.
+ Someone fell asleep with their socks off, didn’t they?”
+ You can’t rape feet.
+ You can’t rape feet.
+The only time I jerk off now is if I know how long she’ll be gone.
+ That’s the only way I can get my head in the game.
+ Sometimes she’ll tell me, “Dave, I’m gonna take the kids to my mom’s real quick.
+ I’ll probably be back in a couple of hours.”
+ “A couple hours?”
+ You can get a good one in in two hours.
+ That’s the kind of session where you’ll take all your clothes off.
+ I’ll be butt-naked in the living room like, “Get these fucking toys out of my way!”
+ Disgusting.
+ Foot on the coffee table, just stroking it out, taking my time.
+ And I got a bowl of cereal waiting for me right here.
+ That’s when you have that privacy.
+ You can have a loud orgasm.
+ I miss those.
+ [screaming]
+ You know, when a guy busts a nut, right after that, there’s a window of six minutes where he does the most rational thinking he ever does.
+ That’s when he’s always horrified.
+ [grunting and panting]
+ “My God, what have I done? Oh, my God, it’s everywhere.
+ [screaming]
+ ----Punchline----
+ Baba!”
+
+
+
+
+----Punchline----
+
+Similarity Score:0.10816542948038176
+Percent Error Setup:3457.4160952724646%
+Percent Error Punchline:91.74839364220495%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:2887.5611339536895%

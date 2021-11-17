@@ -1,0 +1,208 @@
+----Setup----
+A lot of people don’t like him, but I thought the guy was at least an optimist.
+----Punchline----
+ I am not as optimistic as he was.
+----Tagline(s)----
+ All right, just trying it out.
+
+
+Similarity Score:0.8235294117647058
+Percent Error Setup:80.83846902367824%
+Percent Error Punchline:27.813040969417198%
+Percent Error TagLine:122.17782217782221%
+Percent TagLine Number:73.22677322677322%
+Percent Error Total:67.55346538052247%
+----Setup----
+ You got to get off the bus and walk.
+ It’s real talk.
+ A real talk, that was a silly movement.
+ “I want everybody to wear crochet pussy hats so they know we are serious.”
+ What the fuck was y’all doing? And then I said something about it in one of my specials and all these women actresses came after me.
+ I said, “Man, fuck y’all too, you canceled.
+----Punchline----
+ I ain’t jerking off to none of your pictures again.”
+
+
+Similarity Score:0.45
+Percent Error Setup:22.226727213752838%
+Percent Error Punchline:11.77149451817657%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:23.655212660052868%
+----Setup----
+They were like, “Who is he to tell us anything?”
+ I’ll tell you exactly who I am.
+----Punchline----
+ I’m the one that got off the bus and left $50 million on the bus and walked.
+
+
+Similarity Score:0.5142857142857142
+Percent Error Setup:80.83846902367824%
+Percent Error Punchline:44.37391806116561%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:66.59915553877312%
+----Setup----
+ I couldn’t believe it.
+ I said “What is a trans person, doing in a place like this? This is very dangerous behavior.”
+ And she was with, two big, buff, gay Black dudes.
+ I didn’t know these dudes, but I know they was gay.
+----Punchline----
+ If they had a dick in their mouth, they wouldn’t look any gayer than they did just sitting there.
+
+
+Similarity Score:0.5
+Percent Error Setup:50.40544923775543%
+Percent Error Punchline:60.41546451240624%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:38.9241701280423%
+----Setup----
+I was reading her obituary and I found out, she was survived by a daughter.
+ And the moment I found that out, and this is true Anderson Cooper from CNN texted me.
+ And all he says, it’s very nice, he said, “I’m sorry to hear about your friend.”
+ And I texted him right back.
+----Punchline----
+ “New phone, who this?”
+
+
+Similarity Score:0.6779661016949152
+Percent Error Setup:39.133960428154396%
+Percent Error Punchline:59.896133871898435%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:43.69571933678899%
+----Setup----
+ Brittle spirit.
+ I could kill every white person in America at one time.
+ Know how I’d do it? I would just wait for the Super Bowl.
+----Punchline----
+ Right when they sang the national anthem, I’d have OJ Simpson walk to the 50-yard line with them bad knees.
+
+
+Similarity Score:0.25
+Percent Error Setup:69.5669802140772%
+Percent Error Punchline:68.43623773802655%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:54.19312759603172%
+----Setup----
+ Does anybody remember when I was missing from show business for 12 years? Remember when I had this really popular show and I quit? I remember I walked away from $50 million.
+----Punchline----
+ A lot harder than walking away from Louis’ freckled dick.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:62.80408692831657%
+Percent Error Punchline:11.77149451817657%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:58.01036696302908%
+----Setup----
+ [whooshing]
+ A lot of black dudes haven’t been getting “me too-ed.”
+ I don’t want to jinx myself.
+ You know why, though? Obviously, black women go through the same thing, right? The reason is because black women from slavery won’t tell on us.
+ Because they know that no matter how bad we black dudes are, white dudes are very mean.
+ They’re scared to see us get punished.
+ My wife is Asian.
+----Punchline----
+ She’d tell on me in a goddamn second.
+
+
+Similarity Score:0.65
+Percent Error Setup:19.972429451832628%
+Percent Error Punchline:27.813040969417198%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:23.655212660052868%
+----Setup----
+ “And what are you gonna bring me?”
+ “Your gun and your groundskeeper uniform.”
+----Punchline----
+ “That’s right.”
+----Tagline(s)----
+ “I’ll go outside and see what they want.”
+
+
+Similarity Score:0.2222222222222222
+Percent Error Setup:84.21991566655855%
+Percent Error Punchline:75.93768032313906%
+Percent Error TagLine:177.72227772227777%
+Percent TagLine Number:73.22677322677322%
+Percent Error Total:74.23363427276784%
+----Setup----
+ And I saw the whole thing.
+ Exotic animals and Ferris wheels and merry-go-rounds and shit.
+ And the more they showed it, the more certain I was that… I don’t think Michael Jackson did any of those things they said he did.
+ His house didn’t look sexual.
+----Punchline----
+ It looked like… he was flossing with those motherfuckers.
+
+
+Similarity Score:0.7368421052631579
+Percent Error Setup:47.02400259487512%
+Percent Error Punchline:19.79226774379688%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:45.60433902028767%
+----Setup----
+ He’s just walking through his house.
+ “This is my cotton candy machine.
+ It makes three tons of cotton candy a day.
+----Punchline----
+ You can have all the cotton candy you want.
+----Tagline(s)----
+ This closet is filled with nothing but custom-made karate slippers.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:75.20272461887771%
+Percent Error Punchline:19.79226774379688%
+Percent Error TagLine:233.2667332667333%
+Percent TagLine Number:73.22677322677322%
+Percent Error Total:58.01036696302908%
+----Setup----
+ Of course you don’t.
+ Mileage on a ho is a very wild concept.
+ It means that pimps understand there’s a finite amount of bad shit a person can do before they lose their fucking mind.
+ And a good pimp can look at a woman that he’s never seen before and call it.
+ She’s good for 500 fucks.
+ That’s her mileage.
+ Anything over that, that bitch is gonna spill.
+ They do it to you.
+----Punchline----
+ Why the fuck you think most of us work from nine to five? ‘Cause nine to six might kill a bitch.
+
+
+Similarity Score:0.20833333333333334
+Percent Error Setup:16.59098280895232%
+Percent Error Punchline:76.45701096364685%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:8.386255192063443%
+----Setup----
+ I got one last trick for you.
+ It’s a big money trick.
+ You do this for me, you get paid, I get paid, and we go our separate ways.”
+ She said, “Fine, motherfucker, what do you want me to do?”
+ He said, “Okay, there’s a guy in that hotel across the street.
+ He’s waiting for you in room number seven.
+ I want you to go over there and fuck him.
+ But before you do, I need to put some of this stuff in his drink.
+ And then he’s gonna fall asleep.
+ When he does, his briefcase on his bed, bring the briefcase to me.
+ That’s the trick, bitch.
+ Can you handle it?”
+ She said, “Fuck yeah, I can.
+ I can’t wait to get rid of you.”
+----Punchline----
+ And then she ran outside, jumped on a unicycle and peddled across the street.
+
+
+Similarity Score:0.28169014084507044
+Percent Error Setup:43.147907881933186%
+Percent Error Punchline:20.311598384304677%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:35.511997528406155%

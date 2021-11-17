@@ -1,0 +1,753 @@
+----Setup----
+I will say something.
+----Punchline----
+[sigh]
+
+
+Similarity Score:0.4
+Percent Error Setup:95.66913601893657%
+Percent Error Punchline:91.92282537606279%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:95.35766642859828%
+----Setup----
+I gotta tell you, this is actually, like, the first concert in North America since all this shit happened, so, like it or not, it’s history.
+----Punchline----
+ It’s going to be in the books.
+
+
+Similarity Score:0.8235294117647058
+Percent Error Setup:71.84938412308772%
+Percent Error Punchline:35.382603008502294%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:68.4321317144683%
+----Setup----
+He told the police he couldn’t breathe.
+One of the hardest parts of the tape to listen to.
+He said, “Please!”
+I can’t tell you, as a man, watching another man go through something like that, what it makes you feel like.
+ I didn’t watch the tape for a week.
+ I didn’t watch it.
+ I knew.
+ I saw a still picture, I said, I don’t want to see this, because I can’t unsee it.
+ But when I finally watched it, I understood, nobody’s going home.
+ Anyone who sees this, well they’re going to be furious.
+So the other night, I’m in my little clubhouse.
+ And I’m watching Don Lemon, that hotbed of reality.
+He says, “Where are all these celebrities? Why aren’t you talking?”
+----Punchline----
+This nigga said everybody.
+----Tagline(s)----
+I dare you!Has anyone ever listened to me do comedy?Have I not ever said anything about these things before?So, now, all the sudden, this nigga expects me to step in front of the streets and talk over the work these people are doing? As a celebrity? Answer me, do you want to see a celebrity right now? Do we give a fuck what Ja Rule thinks? Does it matter about celebrity? No! This is the streets talking for themselves.
+
+
+Similarity Score:0.2660098522167488
+Percent Error Setup:28.843203436637005%
+Percent Error Punchline:67.69130150425114%
+Percent Error TagLine:2599.453551912568%
+Percent TagLine Number:69.12568306010928%
+Percent Error Total:88.47874299890991%
+----Setup----
+During the process of executing this warrant, this white woman did what Chris Dorner thought was excessive force.
+ I don’t know what she did.
+ She kicked the mother fucker that was handcuffed, or hit a guy that was handcuffed, or something.
+ Chris Dorner, the Black police officer that watched this white woman do this, reported this to his superior.
+ Made a formal complaint.
+ And was subsequently fired from the LA PD.
+He went through the system.
+He took every legal avenue he believed he had to get reinstated.
+And he was not reinstated.
+And when his last appeal was finished, this motherfucker… some wild shit.
+Wrote a manifesto, you know where this is going.
+And in that manifesto, he called me a genius.
+Me.
+ Dave Chappelle.
+Not just me, but me.
+----Punchline----
+He’s a Kevin Hart fan too.
+
+
+Similarity Score:0.5891472868217055
+Percent Error Setup:33.17406741770043%
+Percent Error Punchline:51.53695225637672%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:19.77220614216442%
+----Setup----
+They found him.
+Big Bear.
+ He was hiding in a cabin.
+ When they figured out where this nigga was, no less than 400 police officers showed up and answered the call.
+ And boy let me tell you something, they swiss-cheesed this nigga.
+ He is dead as dead could be.
+ He is done.
+----Punchline----
+And you know why 400 cops showed up? Because one of their own was murdered.
+
+
+Similarity Score:0.42424242424242425
+Percent Error Setup:44.781484241441284%
+Percent Error Punchline:21.157619359058202%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:38.72119685749727%
+----Setup----
+These things are not old.
+ This is not a long time ago, it’s today.
+ It’s today.
+That man’s wife was the woman that my father called on on his deathbed.
+ And they were slaves.
+Are you out of your fucking mind if you can’t see that? And these niggas say why isn’t David Chappelle saying anything? Because David Chappelle understands what the fuck he is seeing.
+----Punchline----
+ And these streets will speak for themselves weather I’m alive or dead.
+
+
+Similarity Score:0.36363636363636365
+Percent Error Setup:30.70617630298514%
+Percent Error Punchline:5.003270111183774%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:28.508063000413486%
+----Setup----
+All summer long, you know what I’ve been doing? I’ve been doing shows in Ohio.
+ I live in a small town in Ohio.
+ And a lot of these small towns in America was dying.
+ My town was dying.
+----Punchline----
+ So what I did is I did shows in my neighbor’s cornfield, and these shows were very successful and may have even helped save the town.
+----Tagline(s)----
+And the local farmers, my neighbors, started to complain that my shows were too noisy.
+
+
+Similarity Score:0.5925925925925926
+Percent Error Setup:58.85679217989743%
+Percent Error Punchline:118.08371484630476%
+Percent Error TagLine:439.89071038251365%
+Percent TagLine Number:69.12568306010928%
+Percent Error Total:24.79419614329211%
+----Setup----
+ That’s gross.
+They had a whole Zoom meeting about me.
+ I didn’t talk on the meeting, I was just listening, managed to hear them talk about me.
+ They’re saying, “Man, I’m trying to put my children to bed.
+ And I keep hearing this guy screaming all night.
+ My kids are trying to sleep, and all they hear is the “n” word.”
+----Punchline----
+ I said, “Was I saying it, or were you?”
+
+
+Similarity Score:0.5070422535211268
+Percent Error Setup:33.954324288782715%
+Percent Error Punchline:19.228253760627865%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:34.078863286095554%
+----Setup----
+ I’m sorry, Lorne, I thought we were having a comedy show.
+----Punchline----
+ It’s like a woke meeting in here.
+----Tagline(s)----
+ And after all of that you know what he did? You know what Trump did after all that stuff? Went out and got the coronavirus.
+
+
+Similarity Score:0.851063829787234
+Percent Error Setup:87.00740805680971%
+Percent Error Punchline:35.382603008502294%
+Percent Error TagLine:811.0655737704917%
+Percent TagLine Number:69.12568306010928%
+Percent Error Total:56.362064428823814%
+----Setup----
+Lucky for the rest of the country though, he had a good health care plan, didn’t he? Some good coverage.
+----Punchline----
+ Helicopter picked him up.
+
+
+Similarity Score:0.32
+Percent Error Setup:78.34568009468286%
+Percent Error Punchline:59.61412688031393%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.7883321429914%
+----Setup----
+ Helicopter took him to Walter Reed hospital.
+ You know, I’m from D.C.
+----Punchline----
+ and I got to tell you, Walter Reed is not close to the White House, but you can walk.
+
+
+Similarity Score:2.0
+Percent Error Setup:85.92469206154387%
+Percent Error Punchline:61.54349247874427%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:69.36059842874863%
+----Setup----
+ Some cold stuff, man.
+ That’s some cold stuff.
+----Punchline----
+ That would be like me going to the homeless shelter with a bag full of hamburgers and saying, “These is mines.”
+
+
+Similarity Score:0.5806451612903226
+Percent Error Setup:90.25555604260728%
+Percent Error Punchline:77.6978417266187%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:71.21753185730933%
+----Setup----
+And the only reason I say that is ’cause the last 17 months were hell, and I cannot imagine what everybody went through.
+----Punchline----
+ Well, I’m happy to see you and I’m happy you’re well and I hope everyone you love is okay.
+----Tagline(s)----
+I don’t want you to worry about me, I’m… vaccinated, I… 
+ got the Johnson & Johnson vaccine.
+I got to admit, that’s probably the most niggaish decision I’ve made in a long time.
+I walk in to the doc like, “Give me the third best option.”
+
+
+Similarity Score:0.32608695652173914
+Percent Error Setup:75.09753210888529%
+Percent Error Punchline:61.54349247874427%
+Percent Error TagLine:1553.4153005464482%
+Percent TagLine Number:22.81420765027323%
+Percent Error Total:14.581062286208319%
+----Setup----
+I’ll have what the homeless people are having.
+ So far, so good.
+ And I know you probably heard on the news, I did get coronavirus.
+ And it was something else.
+ Like, okay first of all, when the doctor told me I had coronavirus I got to tell you, I was surprised how it made me feel.
+----Punchline----
+ I felt dirty.
+
+
+Similarity Score:1.1333333333333333
+Percent Error Setup:39.367904265111996%
+Percent Error Punchline:67.69130150425114%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:44.29199714317934%
+----Setup----
+I hadn’t felt that dirty in a long time.
+ Last time I can remember, feeling dirty like that, man, I must have been a little boy.
+----Punchline----
+ I was being molested by a preacher.
+----Tagline(s)----
+ But don’t feel bad for me, I liked it.
+ I used to get a kick out of cumming in that fellows face.
+
+
+Similarity Score:0.4745762711864407
+Percent Error Setup:71.84938412308772%
+Percent Error Punchline:35.382603008502294%
+Percent Error TagLine:743.5792349726776%
+Percent TagLine Number:53.68852459016394%
+Percent Error Total:45.22046385745968%
+----Setup----
+ Not a cough, not a booger, not a fever, nothing.
+----Punchline----
+ Look at me I am the Magic Johnson of coronavirus.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:88.09012405207557%
+Percent Error Punchline:11.151079136690653%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:79.57373228583242%
+----Setup----
+It is going to get way worse than that.
+ Then I thought of an idea for a children’s book.
+ I actually wrote it.
+ It is coming out soon.
+ The book is designed to help parents, teach their children about racism which, if you’re a parent you know is an impossible concept to teach to a child.
+ But I’m doing it.
+ The book is about a big, strong beautiful Black man with a benign, regular-ass White name… and he has a White speaking voice.
+----Punchline----
+ So whenever this motherfucker calls to get a reservation at a restaurant, oh, he gets the reservation.
+
+
+Similarity Score:0.27722772277227725
+Percent Error Setup:10.134572392933853%
+Percent Error Punchline:45.38914323086984%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:6.224861857685219%
+----Setup----
+ …we might have been free a hundred years sooner.
+ You know what I mean? If Martin Luther King was like, “I want everybody to get up on them floats.
+ Get your bodies good and shiny.”
+ I don’t hate gay people at all, I respect the shit out of you.
+ Well, not all of you.
+ I am not that fond of these newer gays.
+ Too sensitive, too brittle.
+ Those aren’t the gays that I grew up with, I missed them old school gays, nigga.
+----Punchline----
+ Them Stonewall niggas, them the ones that I respect.
+
+
+Similarity Score:1.3404255319148937
+Percent Error Setup:9.051856397667997%
+Percent Error Punchline:19.228253760627865%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:12.72412885764763%
+----Setup----
+ We’re all Clifford.
+ This happens far too often.
+ Another time, about six years ago, there was a lesbian woman that tried to sell a story about me to TMZ.
+ Thank goodness, TMZ could see right through the sham of that story.
+ This woman claimed that I beat her up in a night club because she was a lesbian.
+ That is fuckin’ crazy.
+----Punchline----
+ Bitch, I didn’t even know you was a woman.
+----Tagline(s)----
+Thank God! TMZ didn’t believe that because I did beat the shit out of her, I am not gonna lie.
+
+
+Similarity Score:0.425531914893617
+Percent Error Setup:31.788892298251%
+Percent Error Punchline:19.228253760627865%
+Percent Error TagLine:608.6065573770492%
+Percent TagLine Number:69.12568306010928%
+Percent Error Total:12.72412885764763%
+----Setup----
+That is why I don’t go out no more.
+ Just trying to chill, I’m just trying to live a peaceful life.
+ That’s why I live in Ohio, you know, I live in a little town in Ohio.
+ Must be like 3700 people, small hippie town.
+----Punchline----
+ Culturally you might feel like, like Ann Arbor to you.
+
+
+Similarity Score:0.4642857142857143
+Percent Error Setup:51.27778021303643%
+Percent Error Punchline:11.151079136690653%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:48.00586400030071%
+----Setup----
+And then I drove off.
+ And now I got to tell you and this is gonna surprise some people here, but not everybody.
+ People say things to me all the time but what you don’t know, is it does affect me.
+ I think about it.
+ And that one bothered me a lot, I was driving home, couldn’t stop thinking about what this woman said because she is not the first woman that said that to me.
+ It’s puzzling.
+----Punchline----
+ You know what I mean? Like, what could I possibly be saying… that would make these bitches think, I hate women.
+
+
+Similarity Score:2.94
+Percent Error Setup:15.548152369263141%
+Percent Error Punchline:77.6978417266187%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:7.153328571965563%
+----Setup----
+ Couldn’t figure it out.
+ So, you know what I did? I Googled the dictionary definition of a feminist just to make sure, I was talking about the right thing.
+ And do you know, sir, what the dictionary definition of a feminist is? I didn’t either, listen to this.
+ Webster’s defines a feminist as a human being, not a woman, a human being, that believes in equal rights for women.
+----Punchline----
+ I was shocked, ’cause that is what that meant ’cause by that definition I would consider myself a feminist, and I didn’t even know that at the time.
+----Tagline(s)----
+All these years, I thought it meant frumpy dyke.
+Well, that seems always talking to be some… chick in overalls, “Men are trying to rape us.”
+
+
+Similarity Score:0.7619047619047619
+Percent Error Setup:24.209880331389996%
+Percent Error Punchline:134.2380640941792%
+Percent Error TagLine:811.0655737704917%
+Percent TagLine Number:53.68852459016394%
+Percent Error Total:16.98680599932339%
+----Setup----
+ They had 1980s gay face.
+----Punchline----
+ You know what that is? Remember in the ’80s when gay people looked surprised all the time.
+----Tagline(s)----
+“Close your mouth, nigga, what is surprising”, you know what I mean? But they was huge, they looked like Jussie Smollett’s trainers.
+
+
+Similarity Score:3.021276595744681
+Percent Error Setup:93.50370402840485%
+Percent Error Punchline:45.38914323086984%
+Percent Error TagLine:676.0928961748633%
+Percent TagLine Number:69.12568306010928%
+Percent Error Total:56.362064428823814%
+----Setup----
+“Call me a girl, nigger.”
+ It’s annoying as fuck.
+ No, no, go back, go back tonight after the show, watch every special I did on Netflix.
+ Listen to everything I’ve ever said about that community.
+ I’ll go through ’em.
+ I said, “How much do I have to participate in your self image?”
+ I said, “You shouldn’t discuss this in front of Black people.”
+ I said, “I know niggas in Brooklyn that wear high heels just to feel safe.”
+----Punchline----
+ I asked you “Why is it easier for Bruce Jenner to change his gender than it is for Cassius Clay to change his name?”
+
+
+Similarity Score:0.3106796116504854
+Percent Error Setup:15.548152369263141%
+Percent Error Punchline:101.92936559843034%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:4.367928429124531%
+----Setup----
+If you listen to what I’m saying, I’m not even talking about them, I’m talking about us and “they don’t listen.”
+ It’s very annoying.
+ And they have canceled people, more powerful than me.
+ They canceled J.K.Rowling, my God.
+ J.K.Rowling wrote all the Harry Potter books by herself.
+----Punchline----
+ She sold so many books, the Bible worries about her.
+
+
+Similarity Score:0.1724137931034483
+Percent Error Setup:49.112348222504714%
+Percent Error Punchline:11.151079136690653%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:46.148930571740024%
+----Setup----
+ Especially the trans jokes, very puzzling… because she was obviously trans.
+ And one night after one of the shows I met her.
+ And what it was, turns out it was her dream to be a comedian.
+ And I was her hero.
+ It was very moving.
+ I could not dislike somebody that felt that way about me.
+ We became fast friends.
+ And when I made that special Sticks and Stones right as it was coming out, I happened to be in San Francisco and I wanted to do a show.
+ But I needed an opening act, and I remembered… that trans woman I had met, so I called her on the phone.
+ And I called her myself, I said, “Hey Daphne, this is Dave Chappelle.”
+ She couldn’t believe it.
+ And I go, “I’m in San Francisco.”
+----Punchline----
+ And then she started saying a bunch of wild stuff, I was like “Relax now, I don’t want any pussy, I was… 
+
+
+Similarity Score:0.55
+Percent Error Setup:47.24937535615658%
+Percent Error Punchline:93.85219097449313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:48.554674284855096%
+----Setup----
+Went up on the stage with all the swag of a professional comedian, grabbed that mic and walked right down the middle and looked at the crowd like a gangster.
+ Man, you should have seen her work.
+----Punchline----
+ This bitch bombed for 45 minutes, straight.
+
+
+Similarity Score:0.4
+Percent Error Setup:59.93950817516328%
+Percent Error Punchline:35.382603008502294%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:58.2189978573845%
+----Setup----
+She was drunk.
+ So she starts talking to me, while I’m onstage but the way a person would talk to a television when they were alone.
+ She was talking to me like that.
+ That didn’t bother me ’cause I knew her.
+ But the crowd didn’t like that shit at all ’cause she sucked.
+ And a guy in the back of the room stood up and Daphne’s hair was dyed blonde at the time and the guy screamed out, and his energy felt wild as fuck.
+ He said, “Hey Daphne!”
+ and everybody got clamped, they got tense.
+----Punchline----
+ We didn’t know who was a heckler or active shooter, and… 
+
+
+Similarity Score:0.23853211009174313
+Percent Error Setup:3.940735545522289%
+Percent Error Punchline:5.003270111183774%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1.202871856557536%
+----Setup----
+Beautiful tweet, beautiful friend, it took a lot of heart to defend me like that, and when she did that the trans community dragged that bitch all over Twitter.
+ For days, they was going in on her, and she was holding her own ’cause she’s funny.
+ But six days after that wonderful night I described to you my friend Daphne killed herself.
+ Oh yeah, this is a true story, my heart was broken.
+ Yeah, it wasn’t the jokes.
+ I don’t know if was them dragging or I don’t know what was going on in her life but I bet dragging her didn’t help.
+ I was very angry at them, I was very angry at her.
+ I felt like Daphne lied to me.
+ She always said, she identified as a woman.
+ And then one day she goes up to the roof of her building and jumps off and kills herself.
+ Clearly… only a man would do some gangster shit like that.
+ Hear me out.
+ As hard as it is to hear a joke like that I’m telling you right now, Daphne would have loved that joke.
+----Punchline----
+ That is why she was my friend.
+
+
+Similarity Score:0.6113989637305699
+Percent Error Setup:100.30245912418359%
+Percent Error Punchline:35.382603008502294%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:79.19407585610647%
+----Setup----
+ I’m telling you this is done.
+ I’m done talking about it.
+----Punchline----
+ All I ask from your community, with all humility will you please stop punching down on my people? Thank you very much and good night.
+
+Similarity Score:0.42105263157894735
+Percent Error Setup:87.00740805680971%
+Percent Error Punchline:110.00654022236756%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:64.71826485734692%
+----Setup----
+ I’m not sure this motherfucker has a choice.
+ Not a handsome man.
+ A lot of meat and extra skin on his face.
+ Yeah, he’s ugly.
+ You know, the sad part is he’s done so well in life, he probably doesn’t know he’s ugly.
+ You know, when you’re good-looking, everybody will tell you.
+ “Oh, you look wonderful, you’re so great looking.”
+ But when you’re ugly.
+----Punchline----
+ You gotta figure that shit out for yourself.
+
+
+Similarity Score:0.43243243243243246
+Percent Error Setup:29.623460307719284%
+Percent Error Punchline:27.30542838456508%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:31.29346314325452%
+----Setup----
+ “Hurry up, nigga.
+----Punchline----
+ I have other meetings, you know.”
+
+
+Similarity Score:0.9090909090909091
+Percent Error Setup:95.66913601893657%
+Percent Error Punchline:43.459777632439504%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.78686614291621%
+----Setup----
+ “I have a 4:30 a.m.
+----Punchline----
+ “I believe it’s a wardrobe fitting.”
+
+
+
+Similarity Score:0.7692307692307693
+Percent Error Setup:93.50370402840485%
+Percent Error Punchline:43.459777632439504%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:87.92993271435552%
+----Setup----
+ I didn’t even know that was possible.
+ Jesus Christ.
+ He got the guy from Star Trek: The Next Generation.
+ That’s who he– that’s who he got.
+ The last time.
+ It sounded like he was more than that, but… that’s who– that’s who set it off.
+ He was 14-years-old.
+ And Kevin Spacey accosted him at a party, which I gotta say, by the way, just for the record, I went to a lot of parties in my day.
+----Punchline----
+ Never been to a good one that had 14-year-old boys in it.
+----Tagline(s)----
+ Not even when I was 13, you know what I mean.
+
+
+Similarity Score:2.673076923076923
+Percent Error Setup:15.548152369263141%
+Percent Error Punchline:5.003270111183774%
+Percent Error TagLine:338.6612021857923%
+Percent TagLine Number:69.12568306010928%
+Percent Error Total:3.4394617148441857%
+----Setup----
+ Yuck.
+ Ironically, the kid grew up to be gay anyway.
+ Which means… Kevin Spacey can sniff that shit out like a truffle pig.
+ [sniffs]
+ “Yeah, he’s one of me.”
+----Punchline----
+ And not to victim blame, but it seems like the kind of situation that a gay 14-year-old would get himself into.
+
+
+Similarity Score:0.4230769230769231
+Percent Error Setup:67.51852014202429%
+Percent Error Punchline:77.6978417266187%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:51.7197308574221%
+----Setup----
+ Sorry, I don’t know the choreography, but you get the point.
+----Punchline----
+ You get the point.
+----Tagline(s)----
+ Shit was intense.
+
+
+Similarity Score:1.0
+Percent Error Setup:87.00740805680971%
+Percent Error Punchline:59.61412688031393%
+Percent Error TagLine:68.71584699453553%
+Percent TagLine Number:69.12568306010928%
+Percent Error Total:79.57373228583242%
+----Setup----
+ I didn’t know that I’d ever work again.
+ And yet, here I am tonight.
+----Punchline----
+ Did my dream die? No.
+
+
+Similarity Score:0.5714285714285714
+Percent Error Setup:83.75926007101214%
+Percent Error Punchline:51.53695225637672%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:80.50219900011277%
+----Setup----
+ It is wild, bro.
+ Where you from, man? Hmm? Where you from? -New York.
+ -You from what, Manhattan? Brooklyn.
+----Punchline----
+ You are from Brooklyn, aren’t you? You look like you can rob somebody with a hammer.
+----Tagline(s)----
+ Brooklyn niggas rob you with shit they find around the house.
+
+
+Similarity Score:0.28
+Percent Error Setup:78.34568009468286%
+Percent Error Punchline:37.31196860693263%
+Percent Error TagLine:338.6612021857923%
+Percent TagLine Number:69.12568306010928%
+Percent Error Total:53.57666428598278%
+----Setup----
+ This is fantastic, man.
+----Punchline----
+ We had you all wrong.”
+
+
+Similarity Score:1.0909090909090908
+Percent Error Setup:94.58642002367071%
+Percent Error Punchline:51.53695225637672%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.78686614291621%
+----Setup----
+ I’m just trying to tell you what happened to me was not– I just didn’t have a good go of it.
+ I don’t know what you guys think happens when you quit a successful show.
+ I’ll tell you what doesn’t happen.
+----Punchline----
+ They don’t go, “Hey, good luck with your future endeavors.”
+
+
+Similarity Score:1.0566037735849056
+Percent Error Setup:54.525928198833995%
+Percent Error Punchline:11.151079136690653%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:50.791264143141746%
+----Setup----
+ That’s not what happens.
+ It was cold out there.
+ For real, I had to watch it all go down without me.
+ I had to watch all those people do my show.
+ Key & Peele and Amy Schumer and… Mind of Mencia.
+ I’m not gonna say they were doing my show.
+ I’m just saying they were awfully similar.
+ I was mad.
+ People would come up to me on the street, “Yo, nigga.”
+ Most people thought I was crazy, but sometimes people come, “Yo, nigga, you did the right thing, man.
+ You my hero.”
+ Nigga, I don’t want to be your hero.
+----Punchline----
+ I want to be rich.
+
+
+Similarity Score:0.4672897196261682
+Percent Error Setup:9.354315521851575%
+Percent Error Punchline:51.53695225637672%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:0.6540615720031528%
+----Setup----
+Iceberg Slim breaks down some of the coldest capitalist concepts I’ve ever heard in my life.
+ He describes in detail how these men break women so that they will give them the money that they make with their own bodies.
+ There’s a story in here so cold, it makes me shudder to think about it.
+ Iceberg Slim is trying to control the woman that he finds uncontrollable.
+ So he asks an older pimp how he can rein her in.
+ And the older pimp says, “Oh, that’s easy, Iceberg.
+ All you have to do is beat that bitch with a coat hanger.
+ And then run her a bath.
+ And give her some pills.
+ She’ll be so grateful that you fixed her, that she’ll forget you were the motherfucker that beat her in the first place.”
+ That’s some cold shit.
+Now.
+ At the end of this book, Iceberg Slim tells a story.
+ It’s kind of the crescendo of the book.
+ And in the story, Iceberg Slim’s bottom bitch is at the end of her mileage.
+----Punchline----
+ If she was good for 500 fucks, she was at for 498.
+
+
+Similarity Score:0.1837837837837838
+Percent Error Setup:86.22715118572744%
+Percent Error Punchline:5.003270111183774%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:71.7663421418637%
+----Setup----
+ I got one last trick for you.
+ It’s a big money trick.
+ You do this for me, you get paid, I get paid, and we go our separate ways.”
+ She said, “Fine, motherfucker, what do you want me to do?”
+ He said, “Okay, there’s a guy in that hotel across the street.
+ He’s waiting for you in room number seven.
+ I want you to go over there and fuck him.
+ But before you do, I need to put some of this stuff in his drink.
+ And then he’s gonna fall asleep.
+ When he does, his briefcase on his bed, bring the briefcase to me.
+ That’s the trick, bitch.
+ Can you handle it?”
+ She said, “Fuck yeah, I can.
+ I can’t wait to get rid of you.”
+----Punchline----
+ And then she ran outside, jumped on a unicycle and peddled across the street.
+
+
+Similarity Score:0.30985915492957744
+Percent Error Setup:37.504931398763866%
+Percent Error Punchline:21.157619359058202%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:31.842273427808898%
+----Setup----
+Pretty damn good.
+ I was in Santa Fe the other night, and a motherfucker threw a banana peel at me.
+ Yeah, that didn’t feel so good.
+ Of course, it was a white person.
+ Not to indict the whites.
+ I’m just saying.
+ Not to profile.
+ And then, not only did he throw a banana peel at me, but… it was premeditated.
+ You could tell.
+ You could tell.
+ The peel was too brown.
+ You know what I mean? You didn’t eat that banana recently, motherfucker.
+ You had that shit waiting on me.
+ And the whole crowd was white, so it just got instantly creepy, and everyone looked like they were looking at 12 Years a Slave.
+----Punchline----
+ They were all just like… Who the fuck does that? And then they arrested the guy, which was… 
+
+
+Similarity Score:1.1194029850746268
+Percent Error Setup:23.42962346030772%
+Percent Error Punchline:61.54349247874427%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:24.414539713566143%
