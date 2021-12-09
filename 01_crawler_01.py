@@ -160,6 +160,7 @@ class Model():
         self.wholeJokeAllWords = 0
         self.totalNumberOfTaglines = 0
         self.similarityScore = 0
+        self.std = 0
         for joke in jokes:
             swf, sTotalWords = joke.setupAnalysis()
             self.setupAllWords += sTotalWords
@@ -183,6 +184,7 @@ class Model():
                 self.lexicon.update({word:existing})
             self.wholeJokeAllWords += jTotalWords
             self.wholeJokes.append([jtf,jTotalWords])
+        simScores = []
         for joke in jokes:
             goDeeper = True
             i = 1
@@ -205,7 +207,9 @@ class Model():
                         similarityScore += (2**i)
                 i +=1
                 self.similarityScore += similarityScore/jTotalWords
+                simScores.append(similarityScore/jTotalWords)
         self.similarityScore = self.similarityScore/len(jokes)
+        self.std = np.std(simScores)
     def mostCommonNWords(self,check,n):
         wfs = sorted (check.items(), key = operator.itemgetter(1), reverse=True)
         ml = min(len(wfs),n)
@@ -271,6 +275,7 @@ class Model():
         print("Taglines Average Length:",str(self.tagLineAllWords/self.totalNumberOfTaglines))
         print("Taglines per Joke on Average:",str(self.totalNumberOfTaglines/numberOfJokes))
         print("Average Similarity Score :",str(self.similarityScore))
+        print("Similarity Score STD :",str(self.std))
         print("All Jokes Average Length:",str(self.wholeJokeAllWords/numberOfJokes))
 
 def loadJokes(comedian):
@@ -334,7 +339,7 @@ def findJokes(comedian):
         with open(comedian+"/"+transcript,"r") as lines:
             setup = ""
             joke = ""
-            mostRecentJoke = ""
+            mostRecentJoke = Joke(setup,joke)
             for line in lines:
                 endOfJoke = False 
                 for indicator in jokeIndicators:
@@ -382,7 +387,6 @@ def cleanWord (w):
     return re.sub('^[0-9\.]*$', "", wn)
 
 #We want to remove the data added to the top of the transcript by scraps from the loft:
-def cleanData(text):
     data = ""
     line = ""
     previousChar = ''
@@ -478,7 +482,7 @@ def createTrainingData(jokes, percentage):
 
 def main():
     #Eventually this will be a command line arguement, for now, a string pointing to a file containing links to a  comedian's standup
-    comedian = "Dave_Chappelle.txt"
+    comedian = "Gabriel Iglesias.txt"
     #Make a directory for their results, if one doesn't exist already
     current_directory = os.getcwd()
     path = os.path.join(current_directory,comedian.split(".")[0].replace("\n",""))
@@ -503,7 +507,7 @@ def main():
             	result_clean_file.write(cleaned_result)
             #print(inBrackets(cleaned_result))
 #main()
-#findJokes("Dave_Chappelle")
+#findJokes("Gabriel Iglesias")
 
 def fulltrainingAgaisntJokeInTrainingSet(comedian):
     results = open("FullTraining.txt","w")
@@ -593,11 +597,99 @@ def testAgainstNPercent(comedian,n):
         results.write("Percent TagLine Number:"+str(d)+"%\n")
         results.write("Percent Error Total:"+str(e)+"%\n")
 
+        #Let STD come into play
+
         if(f >= trainedModel.similarityScore):
             success += 1
+            fail += 0
+        elif(f >= trainedModel.similarityScore - (1 * (trainedModel.std) )):
+            success += 0.75
+            fail += 0.25
+        elif(f >= trainedModel.similarityScore - (2 * (trainedModel.std) )):
+            success += 0.50
+            fail += 0.50
+        elif(f >= trainedModel.similarityScore - (3 * (trainedModel.std) )):
+            success += 0.25
+            fail += 0.75
         else:
+            success += 0
             fail += 1
+        percentErrorSetupT += a
+        percentErrorPunchlineT += b
+        percentErrorTaglineT += c
+        percentErrorTagLineNumberT += d
+        percentErrorTotalT += e
+        similarityScoreT += f
+    print("Success Rate:"+str((success/len(testData)*100))+"%")
+    print("Error Rate:"+str((fail/len(testData)*100))+"%")
+    percentErrorSetupT = percentErrorSetupT/len(trainingData)
+    percentErrorPunchlineT = percentErrorPunchlineT/len(trainingData)
+    percentErrorTaglineT = percentErrorTaglineT/len(trainingData)
+    percentErrorTagLineNumberT = percentErrorTagLineNumberT/len(trainingData)
+    percentErrorTotalT = percentErrorTotalT/len(trainingData)
+    similarityScoreT = similarityScoreT/len(trainingData)
 
+    print(percentErrorSetupT)
+    print(percentErrorPunchlineT)
+    print(percentErrorTaglineT)
+    print(percentErrorTagLineNumberT)
+    print(percentErrorTotalT)
+    print(similarityScoreT)
+        
+def testAgainstOther(comedian,other):
+    results = open(comedian+"-x-"+other+".txt","w")
+    jokes = loadJokes(comedian)
+    trainingData, testData = createTrainingData(jokes,0)
+    trainedModel = Model(trainingData)
+    testData = loadJokes(other)
+
+    #print(trainedModel.mostCommonNWords(15))
+    trainedModel.printStatistics()
+    percentErrorSetupT = 0
+    percentErrorPunchlineT = 0 
+    percentErrorTaglineT = 0
+    percentErrorTagLineNumberT = 0
+    percentErrorTotalT = 0
+    similarityScoreT = 0
+    '''
+    randomJoke = jokes[random.randint(0,len(jokes)-1)]
+    print(randomJoke.toString())
+    a,b,c,d,e =trainedModel.compareJokeToModel(randomJoke)
+    percentErrorSetupT += a
+    percentErrorPunchlineT += b
+    percentErrorTaglineT += c
+    percentErrorTagLineNumberT += d
+    percentErrorTotalT += e
+    '''
+    success = 0
+    fail = 0
+    for joke in testData:
+        results.write(joke.toString()+"\n")
+        a,b,c,d,e,f =trainedModel.compareJokeToModel(joke)
+        results.write("Similarity Score:"+str(f)+"\n")
+        results.write("Percent Error Setup:"+str(a)+"%\n")
+        results.write("Percent Error Punchline:"+str(b)+"%\n")
+        results.write("Percent Error TagLine:"+str(c)+"%\n")
+        results.write("Percent TagLine Number:"+str(d)+"%\n")
+        results.write("Percent Error Total:"+str(e)+"%\n")
+
+        #Let STD come into play
+
+        if(f >= trainedModel.similarityScore):
+            success += 1
+            fail += 0
+        elif(f >= trainedModel.similarityScore - (1 * (trainedModel.std) )):
+            success += 0.75
+            fail += 0.25
+        elif(f >= trainedModel.similarityScore - (2 * (trainedModel.std) )):
+            success += 0.50
+            fail += 0.50
+        elif(f >= trainedModel.similarityScore - (3 * (trainedModel.std) )):
+            success += 0.25
+            fail += 0.75
+        else:
+            success += 0
+            fail += 1
         percentErrorSetupT += a
         percentErrorPunchlineT += b
         percentErrorTaglineT += c
@@ -622,8 +714,18 @@ def testAgainstNPercent(comedian,n):
         
 
     
-#fulltrainingAgaisntJokeInTrainingSet("Dave_Chappelle")
-testAgainstNPercent("Dave_Chappelle",20)
+testAgainstNPercent("Dave_Chappelle",10)
+'''
+testAgainstOther("Dave_Chappelle","Gabriel_Iglesias")
+print("---")
+testAgainstOther("Dave_Chappelle","Tom_Papa")
+print("---")
+testAgainstOther("Dave_Chappelle","Brian_Regan")
+print("---")
+testAgainstOther("Dave_Chappelle","Dave_Chappelle")
+print("---")
+#'''
+
 ####################
 #we can use the wf part to count the number of word frequencies
 ####################

@@ -1,0 +1,4585 @@
+----Setup----
+Thank you.
+ Thank you very, very much.
+----Punchline----
+ Well, let’s get the gray hair out of the way.
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:92.83739876824596%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:83.40578918623703%
+----Setup----
+Because if I don’t, you won’t listen to a word I say for an hour.
+ You’ll be out there, “Did you know anything about the gray hair?”
+----Punchline----
+ “I’m just as befuddled as you.”
+
+
+Similarity Score:0.6470588235294118
+Percent Error Setup:72.37282382037729%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:68.65537957400328%
+----Setup----
+I don’t know what happened either.
+----Punchline----
+ Covid hit, I went into hibernation and came out a senior citizen.
+----Tagline(s)----
+
+
+Similarity Score:1.8
+Percent Error Setup:93.8606275156394%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:81.56198798470781%
+----Setup----
+It’s just as well.
+ I was never comfortable in the hair-color aisle anyway.
+ You always have to pretend like you’re there for someone else.
+----Punchline----
+ “Women, huh?”
+
+
+Similarity Score:0.8148148148148148
+Percent Error Setup:75.44251006255759%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:75.10868377935554%
+----Setup----
+I like the difference in hair color names between women and men Women have hair color names like ruby fusion.
+ Chocolate cherry.
+----Punchline----
+ Butterscotch.
+
+
+Similarity Score:0.5
+Percent Error Setup:77.48896755734445%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:77.87438558164938%
+----Setup----
+Black! Light brown! Dark black! For men, that is the entire color spectrum.
+I don’t know.
+----Punchline----
+ I’m at the age where I wake up, the first thing I do is try to remember what doctor I’m going to that day.
+
+
+Similarity Score:0.3
+Percent Error Setup:84.65156878909849%
+Percent Error Punchline:183.6021505376344%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:63.12397596941561%
+----Setup----
+Ah, the dermatologist.
+ Because of that splotch on my back.
+----Punchline----
+ I don’t want to sound like I’m bragging, but I have to put medicine on my back using a spatula.
+----Tagline(s)----
+
+
+Similarity Score:0.875
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:138.2258064516129%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:70.4991807755325%
+----Setup----
+ It’s fun going into the drugstore when they ask, “Can we help you find anything?”
+----Punchline----
+ And I say, “Yes, a spatula, Lotrimin and a hand mirror.”
+----Tagline(s)----
+I got my Little Red Riding Hood Walgreens basket, if you could direct me to the proper aisles.
+
+
+Similarity Score:0.6382978723404256
+Percent Error Setup:83.62834004170506%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:886.2238622386224%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:56.67067176406335%
+----Setup----
+My dermatologist said he needed to do a biopsy of a little mole on the tip of my nose, and I was like, “Wow, that sounds like it’s going to hurt.”
+ He said, “Don’t worry.
+ We’re going to numb it first with a painkiller.”
+ I said, “How?”
+----Punchline----
+ He said,  “We’re going to puncture a sharp needle into the tip of your nose.”
+
+
+Similarity Score:0.9841269841269841
+Percent Error Setup:51.90824887250861%
+Percent Error Punchline:81.505376344086%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:41.920262151829604%
+----Setup----
+So you’re not canceling the pain.
+----Punchline----
+ You’re just rescheduling it.
+
+
+Similarity Score:0.36363636363636365
+Percent Error Setup:93.8606275156394%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.8590933915893%
+----Setup----
+So I go to my regular doctor and he’s like, “What’s going on?”
+ I said, “You tell me.
+ Just above my right knee there’s a little area about three inches up.
+ It’s about the size of a fist.
+----Punchline----
+ That’s where it doesn’t hurt.
+
+
+Similarity Score:0.6363636363636364
+Percent Error Setup:61.11730759904952%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:59.43637356635718%
+----Setup----
+And it feels very peculiar.
+ Do you have a pill that can make everything else feel like that? I want an ‘everything else like that’ pill.”
+ My doctor looked at me and said, “Brian, you are way too sedentary.”
+----Punchline----
+ So I vowed in that moment… to get a dictionary.
+----Tagline(s)----
+I haven’t got around to it, just been laying around the house.
+
+
+Similarity Score:0.4126984126984127
+Percent Error Setup:60.094078851656086%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:574.7847478474785%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:41.920262151829604%
+----Setup----
+Or is it “lying” around the house? Doctors specialize, right? Last month I went  to an ear, nose and throat doctor.
+----Punchline----
+ Last week I went to an arch-of-the-foot, small-of-the-back, nape-of-the-neck doctor.
+
+
+Similarity Score:0.375
+Percent Error Setup:78.5121963047379%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:70.4991807755325%
+----Setup----
+I have fallen arches, my small’s too big, and I have a trick nape.
+ It’s weird, in the human world, there’s a doctor for every body part.
+ But in the animal world, a veterinarian takes care of all animals… and all their parts.
+----Punchline----
+ That’s got to be the hardest job in the world.
+----Tagline(s)----
+
+
+Similarity Score:0.6181818181818182
+Percent Error Setup:56.00116386208235%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:49.29546695794647%
+----Setup----
+They say the American medical system is the best in the world.
+ I’ll be impressed when I am no longer handed a clipboard when I check in for my doctor visit.
+ That is so Stone Age.
+ You know, we live in a world of bar codes and microchips.
+ What’s with the clipboard? “I’m here for my 10 o’clock appointment.”
+ “Here’s your clipboard.
+ There’s 257 pages on there.”
+----Punchline----
+ “Here’s a pen with a flower on it.”
+
+
+Similarity Score:0.39473684210526316
+Percent Error Setup:31.44367392463994%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:29.935554341889674%
+----Setup----
+“Go sit with all those other people and don’t even think of coming back to this counter till you’ve completely filled out your clipboard.”
+[audience applauding]
+   “I’ve been a patient here for many years.
+ You should have all this information.”
+ “Well, our policy is we do it every year.
+ We give you another clipboard.
+ And that way you can experience angst and tension and rage and downright fury, all roiling through your torso.”
+----Punchline----
+ “And then we take your blood pressure.”
+----Tagline(s)----
+
+
+Similarity Score:0.1927710843373494
+Percent Error Setup:24.2810726928859%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:23.48225013653741%
+----Setup----
+ You can’t fix that and you’re going to fix me?So my doctor told me to get a therapeutic massage for the neck.
+ Um, massages are weird.
+ You know, I never feel comfortable.
+----Punchline----
+ Always looking through that strange doughnut hole.
+----Tagline(s)----
+I’m always thinking weird things like, “I wonder if I could squeeze my head through this.”
+
+
+Similarity Score:0.6206896551724138
+Percent Error Setup:66.23345133601669%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:782.4108241082411%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:46.52976515565265%
+----Setup----
+“But what if I got stuck underneath the table?”
+ “Then I’d be like an upside-down periscope.”
+ “I’d better leave well enough alone and stay on this side of the doughnut hole.”
+ Then I think things like, “Are my eyes supposed to be open?”
+ “I feel like I’m eavesdropping.
+ I’m watching her feet moving around.”
+----Punchline----
+ Started thinking weird things like, “What if one shoe went that way and one shoe went that way?”
+
+
+Similarity Score:0.3835616438356164
+Percent Error Setup:44.74564764075458%
+Percent Error Punchline:115.53763440860212%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:32.7012561441835%
+----Setup----
+“I’d be awfully curious as to what was going on.”
+----Punchline----
+ “Awfully curious.”
+
+
+Similarity Score:0.3076923076923077
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:88.01529219006008%
+----Setup----
+So after 10 minutes I said, “I don’t know the protocol… but am I supposed to say, ‘you may begin’?”
+ And she said, “I started 10 minutes ago.”
+ She said, “This is a Reiki massage.”
+----Punchline----
+ “I don’t actually touch you.”
+----Tagline(s)----
+“My hands are just above you, and it’s an energy healing.”
+So when she was done I said, “I don’t actually touch my wallet.”
+
+
+Similarity Score:0.5454545454545454
+Percent Error Setup:64.1869938412298%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:1197.6629766297663%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:39.15456034953577%
+----Setup----
+“My hand is just above it.”
+----Punchline----
+ “You should be receiving an energy payment… that you can use to pay your energy bill, see how they feel about the concept.”
+
+
+Similarity Score:0.4
+Percent Error Setup:93.8606275156394%
+Percent Error Punchline:172.258064516129%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:72.34298197706171%
+----Setup----
+So I’m learning things about myself.
+ I learned recently I suffer from OCD.
+ Uh–[woman whoops]
+----Punchline----
+Thank you.
+
+
+Similarity Score:0.23529411764705882
+Percent Error Setup:84.65156878909849%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+“Suffer” is too strong a word.
+ People say they suffer from things, when that just means they have them.
+ You know, do I look like I’m suffering? I think the word “suffer” should be reserved for a guy writhing on the ground in agony.
+ He’s suffering.
+----Punchline----
+ Am I allowed to run up to him? “You’re preaching to the choir!”
+----Tagline(s)----
+   “I have to alphabetize everything!”
+
+
+Similarity Score:0.5217391304347826
+Percent Error Setup:52.93147761990205%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:367.15867158671585%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:36.388858547241945%
+----Setup----
+“Quit wriggling.
+ I’m trying to count your ribs.”
+----Punchline----
+ “I’m a rib counter.”
+
+
+Similarity Score:0.6153846153846154
+Percent Error Setup:91.81417002085253%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:88.01529219006008%
+----Setup----
+The alphabetizing thing is not true, at least in my case.
+ People think I’m weirder than I am, and it’s hard for me.
+ They ask questions like, “Brian, with your OCD, do you have to alphabetize your books at home?”
+ And I’m like, “Uh, no.”
+ “I organize my books by when I got them chronologically on the top shelf.”
+ “I don’t have to alphabetize my books.
+----Punchline----
+ I’m not a kook.”
+
+
+Similarity Score:0.676056338028169
+Percent Error Setup:32.46690267203337%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:34.54505734571272%
+----Setup----
+“And the bottom shelf is for the books I’ve completed reading.”
+ “Organized chronologically by the completion date.”
+----Punchline----
+ “I don’t have to alphabetize them.”
+
+
+Similarity Score:0.75
+Percent Error Setup:82.60511129431163%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:77.87438558164938%
+----Setup----
+“And the middle shelf… is for the books I’m in the process of reading.”
+ “When I start reading a book, I move it from the top shelf to the middle shelf and I organize those chronologically by the start date.”
+ I know exactly what you’re wondering.
+ You’re thinking, “Well, wouldn’t reading the title of the book… count technically as being in the process of reading that book?”
+----Punchline----
+ “Then how would you distinguish between the top shelf in the middle shelf?”
+----Tagline(s)----
+I make myself read all of page one before I allow a shelf change.
+
+
+Similarity Score:0.4166666666666667
+Percent Error Setup:31.44367392463994%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:678.5977859778598%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:11.497542326597484%
+----Setup----
+I don’t count the introduction, or the foreword, or the book jacket.
+ I do read all of that word for word, but then I make myself read all of page one all the way to the bottom.
+ Unless it ends in the middle of a sentence, I make myself turn the page.
+ I finish the sentence to complete the thought, I turn the page back.
+ I write down what date that book was started.
+ I move that to the middle shelf furthest on the right.
+----Punchline----
+ I don’t have to alphabetize my books.
+----Tagline(s)----
+
+
+Similarity Score:0.425531914893617
+Percent Error Setup:13.025556471558126%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:13.341343528126703%
+----Setup----
+You know, when I first suspected that I might have OCD, I Googled it.
+ And there are different symptoms.
+ And some I have, and some I don’t.
+ And the ones I have, some I have more strongly than others.
+----Punchline----
+ So I decided to make a color-coded graph.
+
+
+Similarity Score:0.5416666666666666
+Percent Error Setup:60.094078851656086%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:55.74877116329874%
+----Setup----
+I wish I was making this up.
+ I listed the symptoms.
+ I said I’m going to rate from 0 to 10 how strongly I feel I have each symptom.
+----Punchline----
+ Total it up and divide it by the number of symptoms.
+----Tagline(s)----
+
+
+Similarity Score:0.5714285714285714
+Percent Error Setup:70.32636632559041%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:61.2801747678864%
+----Setup----
+If I’m higher than 5 I’ll seek professional help.
+----Punchline----
+ If I’m under 5, I’ll self-diagnose that I am A-okay.
+
+
+Similarity Score:0.4
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:81.56198798470781%
+----Setup----
+Number one: are you the type of person who has to check the stove repeatedly to make sure it’s off? And I’m like, “Uh, zero.
+----Punchline----
+ That’s Looney Tunes land.”
+----Tagline(s)----
+Number two: are you the type of person who has to wash your hands over and over again? And I had this nagging feeling… that I forgot to answer that first question.
+
+
+Similarity Score:0.6349206349206349
+Percent Error Setup:74.41928131516416%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:1612.9151291512915%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:41.920262151829604%
+----Setup----
+So I looked up– “Yeah, I did write zero.
+ Okay.”
+ “Hand washing.”
+ “Six.”
+ “That ain’t even right.”
+ I scribbled that out.
+ I got some ink on my hands.
+ I went to go wash my hands.
+ While I’m washing my hands I’m like, “Why did they mention stoves?”
+ So I checked the stove.
+ It was on.
+ I’m like, “I’ll never make that mistake again.”
+----Punchline----
+ And I came back and I changed “hand washing” to 2.
+
+
+Similarity Score:0.4266666666666667
+Percent Error Setup:35.53658891421367%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:30.857454942654282%
+----Setup----
+I took the whole test and averaged 5.
+0.
+----Punchline----
+ So I’m like, “I still don’t know.”
+
+
+Similarity Score:1.0
+Percent Error Setup:91.81417002085253%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:85.24959038776625%
+----Setup----
+So I decided to buy a book about it.
+ I go into the bookstore, I ask the clerk, “Can you tell me where the self-help section is?”
+----Punchline----
+ And she said, “Why don’t you try to find that yourself?”
+----Tagline(s)----
+Well, I finally found the section.
+
+
+Similarity Score:0.43478260869565216
+Percent Error Setup:72.37282382037729%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:263.34563345633455%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:57.592572364827966%
+----Setup----
+I’ll show you one weird way it manifests itself.
+ Every year when I get the new calendar, I always look ahead because I don’t like the months who are at the bottom.
+ They expect days to share squares.
+----Punchline----
+My brain can’t handle that.
+
+
+Similarity Score:0.4186046511627907
+Percent Error Setup:61.11730759904952%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:60.35827416712179%
+----Setup----
+“Oh no, October’s going to be square-sharing month.”
+ Why do they do that? Days don’t want roommates.
+----Punchline----
+ You don’t want the 31st going up to the 24th: “Hey, can I squeeze in there with you?”
+
+
+Similarity Score:0.5
+Percent Error Setup:82.60511129431163%
+Percent Error Punchline:115.53763440860212%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:66.81157837247406%
+----Setup----
+“Get the hell out of here!”
+ “There’s empty squares on the top of the next page.”
+ You might think that’s weird, unless one of those days is special to you.
+ If it’s your birthday, you don’t want to be wedged up in the corner of a triangle.
+ “Happy birthday, sort of, kind of squished up here.”
+----Punchline----
+ And then right across the diagonal it says, “Take trash to dump.”
+
+
+Similarity Score:0.43478260869565216
+Percent Error Setup:42.699190145967705%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:36.388858547241945%
+----Setup----
+I’ve always been interested in calendars and time.
+ Uh, I grew up in the Eastern Time Zone.
+ I now live in the Pacific Time Zone.
+ And what’s weird living out there, when anybody from the Eastern Time Zone leaves the voice message, they always feel they have to compute the time difference.
+ I’m always getting messages: “Hey, Brian, it’s, four o’clock my time.
+----Punchline----
+ That’s one o’clock your time.”
+
+
+Similarity Score:0.2898550724637681
+Percent Error Setup:35.53658891421367%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:36.388858547241945%
+----Setup----
+Oh! [groans softly]
+[audience applauding]
+----Punchline----
+I know what time it is where I am.
+
+
+Similarity Score:0.3076923076923077
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:88.01529219006008%
+----Setup----
+I have a friend who does that all the time.
+ He recently left this message: “Brian, do me a favor.
+----Punchline----
+ Call me back.
+----Tagline(s)----
+Uh, just call me back.”
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:79.53542505213133%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:211.4391143911439%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:72.34298197706171%
+----Setup----
+When? What’s the formula?When I was a kid, it was weird learning about time zones.
+ Learning that there were 24 around the world.
+ I looked at a globe and saw all the lines met at the top, and I thought, “What time is it up there?”
+----Punchline----
+ Could you put your hand on the pole and walk around, “It’s 1:00, 2:00, 3:00, 4:00, 5:00, 6:00!”
+
+
+Similarity Score:0.4307692307692308
+Percent Error Setup:52.93147761990205%
+Percent Error Punchline:115.53763440860212%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:40.07646095030038%
+----Setup----
+[man]
+----Punchline----
+ Yeah!How would you plan anything up there? “We’re gonna meet at five o’clock.”
+
+
+Similarity Score:0.26666666666666666
+Percent Error Setup:98.97677125260657%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:86.17149098853085%
+----Setup----
+“Where were you?”
+ “I was just south of here.”
+Well, in addition to the OCD, I also have a little social anxiety.
+----Punchline----
+ But I force myself to go to parties and stuff, but there are things people do that bug me.
+
+
+Similarity Score:0.6829268292682927
+Percent Error Setup:78.5121963047379%
+Percent Error Punchline:126.8817204301075%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:62.20207536865101%
+----Setup----
+I don’t like when somebody pronounces a word differently than everybody else to try to sound smart.
+ Just say it like everybody else.
+ I’m at this party, I walk up to this group of strangers.
+----Punchline----
+ First thing I hear, uh, this guy goes, “Another thing about  ‘Jengus’ Khan…” I’m like, “Oh, jeez.”
+----Tagline(s)----
+“I already don’t like this guy.”
+
+
+Similarity Score:0.5333333333333333
+Percent Error Setup:64.1869938412298%
+Percent Error Punchline:104.19354838709675%
+Percent Error TagLine:263.34563345633455%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:44.68596395412342%
+----Setup----
+I go, “Oh, uh, Genghis Khan?”
+----Punchline----
+ “It was actually pronounced ‘Jengus.
+----Tagline(s)----
+
+
+Similarity Score:0.46153846153846156
+Percent Error Setup:93.8606275156394%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:88.01529219006008%
+----Setup----
+I’m guessing you were there at the time.
+ You and the Jeng-man palling around town.
+ So I wanted to sound smart.
+----Punchline----
+ So I was like, “Oh, Jengus Khan, the ‘Mongo-lian em-peror.
+----Tagline(s)----
+Wasn’t he the ‘con-kerer’ of ‘Cheena’?”
+Well, I felt this little circle tighten on me.
+
+
+Similarity Score:1.0
+Percent Error Setup:78.5121963047379%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:730.5043050430504%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:55.74877116329874%
+----Setup----
+I’ve done just been ostracized.
+Walk up to this second group.
+ And I don’t know what to do when somebody says something I don’t agree with.
+ I don’t know what I’m supposed to do as a person.
+ I’ve always grappled with that.
+ I walk up, this woman says, “Animals are smarter than people.”
+----Punchline----
+ I’m like, “Oh, jeez.”
+----Tagline(s)----
+“I just got here.”
+I look at the others like, “Anybody want to take this?”
+
+
+Similarity Score:0.8493150684931506
+Percent Error Setup:46.79210513554144%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:730.5043050430504%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:32.7012561441835%
+----Setup----
+“Low-hanging fruit.”
+----Punchline----
+ “I just took the hit over at that little circle.”
+
+
+Similarity Score:0.9230769230769231
+Percent Error Setup:97.95354250521314%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:88.01529219006008%
+----Setup----
+But nobody else is even looking up, they’re shuffling their shoes… and trying to figure out the dynamic.
+ “They must work for her.
+ Something’s going on.”
+ But I couldn’t say nothing.
+ But I didn’t want to make a big deal out of it either.
+ I don’t know these people.
+ So I decided to make a lighthearted joke.
+----Punchline----
+ So I said, “Oh, how do animals do on the SAT test?”
+
+
+Similarity Score:0.5142857142857142
+Percent Error Setup:41.67596139857427%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:35.466957946477336%
+----Setup----
+[woman]
+ Yeah![people whooping]
+----Punchline----
+Just a little “ha-ha-ha.”
+
+
+Similarity Score:0.2857142857142857
+Percent Error Setup:96.9303137578197%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:93.54669579464773%
+----Setup----
+I didn’t get the “ha-ha-ha.”
+ I just felt the temperature drop.
+ And this woman glares at me and says, “Animals are smarter than people.”
+ “Like, case closed.”
+----Punchline----
+ Well, I can’t take that.
+----Tagline(s)----
+But before I could say anything, she said, “What about the beavers?”
+Forcing me to say, “What about the beavers?”
+
+
+Similarity Score:0.25925925925925924
+Percent Error Setup:72.37282382037729%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:990.0369003690037%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:50.21736755871109%
+----Setup----
+There was no other line on my script at that point.
+----Punchline----
+ Nothing can ever follow, “What about the beavers?”
+
+
+Similarity Score:0.4
+Percent Error Setup:88.74448377867222%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:81.56198798470781%
+----Setup----
+Except another, “What about the beavers?”
+ “What about the beavers?”
+----Punchline----
+ “What about the beavers?”
+
+
+Similarity Score:0.26666666666666666
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:86.17149098853085%
+----Setup----
+So she explains to me.
+ She said, “The beavers are smarter than people.”
+----Punchline----
+ “They know how to all get in the water, and they all know how to gather sticks… and bring them to one area, and they know how to put mud on their tails and slap the sticks together, and they can affect the flow of a river.”
+----Tagline(s)----
+Hoover Dam.
+
+
+Similarity Score:0.3125
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:444.516129032258%
+Percent Error TagLine:55.71955719557196%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:40.99836155106499%
+----Setup----
+Smart.
+----Punchline----
+ Stupid.
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:98.97677125260657%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:97.23429819770617%
+----Setup----
+Human engineering.
+----Punchline----
+ Pile of muddy sticks.
+----Tagline(s)----
+So I asked her, “If you hired a company to build a dam… and they all got out of their trucks… and they all started getting in river water… and started gathering twigs and… nosing them around on the surface of the water… would you be on the riverbank: ‘Look how smart they are!’?”
+Well, everyone got real quiet.
+
+
+Similarity Score:0.3880597014925373
+Percent Error Setup:97.95354250521314%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:3014.3911439114395%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:38.232659748771155%
+----Setup----
+And she doubled down.
+ She said, “What about the honeybees?”
+----Punchline----
+ So I looked at my script.
+
+
+Similarity Score:0.5882352941176471
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+“What about the honeybees?”
+ “What about the honeybees?”
+ “What about them?”
+----Punchline----
+ “What about the honeybees?”
+----Tagline(s)----
+
+
+Similarity Score:0.23529411764705882
+Percent Error Setup:88.74448377867222%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:84.32768978700163%
+----Setup----
+ So she said, “Uh, the honeybees are smarter than people.”
+----Punchline----
+ “They know that they only need one of them to go in a figure-eight pattern… and wiggle its behind, and it can let all the other honeybees know where the flowers are.”
+----Tagline(s)----
+“What if your Uncle Larry had to do that to show you where the fridge was?”
+Nobody could quench their thirst till Uncle Larry showed up.
+
+
+Similarity Score:0.28169014084507044
+Percent Error Setup:88.74448377867222%
+Percent Error Punchline:274.3548387096774%
+Percent Error TagLine:1301.4760147601476%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:34.54505734571272%
+----Setup----
+With his groundbreaking communication techniques.
+----Punchline----
+ Well, this little circle popped me out like a champagne cork.
+
+
+Similarity Score:0.47058823529411764
+Percent Error Setup:94.88385626303283%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+“Jengus” Khan is looking over at me.
+ He’s like, “You don’t know how to make friends, do you?”
+ I’m like, “I don’t think so.”
+----Punchline----
+ Man without a country.
+
+
+Similarity Score:0.8275862068965517
+Percent Error Setup:75.44251006255759%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:73.26488257782631%
+----Setup----
+   Walk up to this third little circle.
+And I’m trying to learn how to be a better listener.
+ So I just decided to just say nothing.
+ And there was a guy there telling everyone a story about the lottery numbers that he had recently picked.
+----Punchline----
+ Whoo! What a story.
+
+
+Similarity Score:0.3076923076923077
+Percent Error Setup:51.90824887250861%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:52.06116876024031%
+----Setup----
+I’m going to try to duplicate it for you, but it’s going to be challenging, because this guy was drilling it.
+ He had everyone gathered around and he was like, “So I got, uh, four lottery tickets.”
+ “The, uh, first ticket, I picked a 2… 4, 7, 21, 36.”
+ “The second ticket… I had the 2, 5– I had the 4 on the first ticket.”
+ “Got the 5 on the second ticket.”
+ “2, 5.”
+ “16, 17, got those back-to-back on the second ticket.”
+ “Back-to-back, 16, 17, back-to-back… 28, 31.”
+ “Thirty-one was the last number on– That I got on the second ticket.”
+----Punchline----
+ This is the story that he’s sharing with humans.
+
+
+Similarity Score:0.30357142857142855
+Percent Error Setup:4.369332234130248%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:3.2528672856362686%
+----Setup----
+“Third ticket… I picked a 2.
+  I’m always on a 2.”
+ “You know me, I always got the 2 covered.”
+ “I knew I had the 4 on the first ticket and a 5 on the second, so I got the 6 on the third.
+ 2, 6, 17, 19.”
+ “Decided to leapfrog over the 18.”
+ “Leapfrog action, landed on the 19.”
+ “43– 43 was the last number on the third ticket.”
+----Punchline----
+ “Fourth ticket.”
+
+
+Similarity Score:0.410958904109589
+Percent Error Setup:28.373987682459635%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:32.7012561441835%
+----Setup----
+“I picked the 2.”
+----Punchline----
+ Duh.
+
+
+Similarity Score:1.0
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:94.46859639541233%
+----Setup----
+“I don’t know why I’m boring you with the 2.”
+ “You know me, if I got a ticket, I got the 2.”
+----Punchline----
+ “Walking down the street holding a ticket, you don’t have to look, you know I got the 2.”
+
+
+Similarity Score:1.0731707317073171
+Percent Error Setup:77.48896755734445%
+Percent Error Punchline:115.53763440860212%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:62.20207536865101%
+----Setup----
+“Anyway… I knew I had the 4, 5 and 6 on the other ticket, so I got them all  on that fourth ticket.
+ 2, 4, 5, 6.”
+ “Something said, ‘Get the 3.
+'” “Something said, Go back and get that 3.
+'” “Something said, ‘Jump on that 3.
+’ Something said, ‘Nail down that 3.
+'” “So I get the 3.
+ 2, 3, 4, 5, 6, 17 and the 44.”
+----Punchline----
+ “And my thinking on the 44 was… ‘Hey, get the 44.
+----Tagline(s)----
+So as you can imagine, everyone’s jaws were agape.
+So I wanted to throw the right log on the fire to keep this baby burning.
+
+
+Similarity Score:0.23076923076923078
+Percent Error Setup:32.46690267203337%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:1249.569495694957%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:4.122337520480608%
+----Setup----
+ When you got this kind of flame blazing, you can’t risk having it smolder out.
+----Punchline----
+ You want to throw the proper heat in that direction, so I was like, “Whoo!”
+
+
+Similarity Score:1.25
+Percent Error Setup:83.62834004170506%
+Percent Error Punchline:81.505376344086%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:70.4991807755325%
+----Setup----
+“Woo-hoo!”
+----Punchline----
+ “Crazy!”
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:98.97677125260657%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:97.23429819770617%
+----Setup----
+“What happened?”
+----Punchline----
+ “None of the tickets hit.”
+
+
+Similarity Score:1.25
+Percent Error Setup:97.95354250521314%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:92.62479519388313%
+----Setup----
+“Whoa!”
+----Punchline----
+ “What a twist at the end.”
+
+
+Similarity Score:0.75
+Percent Error Setup:98.97677125260657%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:92.62479519388313%
+----Setup----
+“What a curveball finish.”
+----Punchline----
+ “I could have sworn that was all going somewhere.”
+
+
+Similarity Score:0.8571428571428571
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:87.09339158929546%
+----Setup----
+“Could have sworn it.
+ But you flipped the tables.”
+----Punchline----
+ “You managed to follow nothing with less.”
+----Tagline(s)----
+Losing lottery numbers he shares as cocktail party banter.
+
+
+Similarity Score:0.37037037037037035
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:419.0651906519065%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:75.10868377935554%
+----Setup----
+So I didn’t fit in with any of the groups.
+----Punchline----
+ So I just went over and rearranged some bookshelves.
+
+
+Similarity Score:0.8
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:81.56198798470781%
+----Setup----
+If I do go to a party, I need to stand, man.
+ I need to be able to pinball away from situations.
+ “Bing! That’s not working.”
+ “Bing! Not for me.”
+----Punchline----
+ “Bing! Nope!”
+
+
+Similarity Score:0.24242424242424243
+Percent Error Setup:69.30313757819698%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:69.57728017476789%
+----Setup----
+Sitting is way too claustrophobic.
+ Like a dinner party.
+ You don’t know who you’re going to be sitting next to.
+ It could be two hours.
+ It’s a crapshoot.
+ “Brian, you’re going to be sitting here next to Donnie Doldrums.”
+ “Hey, how’s it going?”
+----Punchline----
+ “Hey, how are you? Huh.”
+
+
+Similarity Score:0.32653061224489793
+Percent Error Setup:56.00116386208235%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:54.82687056253413%
+----Setup----
+“You missed the beginning of this.
+ I was telling everybody about how our Des Moines office had an administrative meeting.”
+----Punchline----
+ “And as a result of that meeting, we realized that the factory output in our northeast quadrant… was substandard in relation to what we had anticipated after bringing in a consulting team from Peoria.”
+
+
+Similarity Score:0.43636363636363634
+Percent Error Setup:79.53542505213133%
+Percent Error Punchline:297.04301075268813%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:49.29546695794647%
+----Setup----
+My face is in the mashed potatoes, just blowing brown gravy bubbles.
+----Punchline----
+ [blowing raspberries]
+
+
+Similarity Score:0.8
+Percent Error Setup:87.7212550312788%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:86.17149098853085%
+----Setup----
+“No, don’t revive me.
+ Don’t revive me.”
+ [continues blowing]
+ “It’s in my living will.
+ Let me be.”
+ [continues blowing]
+I don’t like dinner parties.
+ I don’t like restaurants either.
+----Punchline----
+ One reason is,  I don’t like mushrooms.
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:71.34959507298385%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:66.81157837247406%
+----Setup----
+[woman whooping]
+I don’t like mushrooms.
+ People say, “What’s the big deal?”
+ “Just make sure you never order mushrooms.”
+----Punchline----
+ All right, let me explain the problem.
+
+
+Similarity Score:0.38461538461538464
+Percent Error Setup:81.5818825469182%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.03058438012015%
+----Setup----
+There is not a food on earth that is more often put onto and into other foods without anybody ever asking… than mushrooms.
+ It’s happened too many times to count.
+----Punchline----
+ “Here’s that chicken dinner you ordered.”
+
+
+Similarity Score:0.32432432432432434
+Percent Error Setup:69.30313757819698%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:65.88967777170944%
+----Setup----
+…that it is smothered… with mushrooms.”
+ “Oh, I did notice.”
+ “I didn’t order mushrooms.
+ It doesn’t say mushrooms on the menu.”
+ “You don’t have to worry about that.”
+ “You had nothing to do with this.”
+ “We decided all by ourselves… when we were in the kitchen, with no input from you.”
+----Punchline----
+ “We unilaterally decided to smother [yelling]
+----Tagline(s)----
+…with mushrooms!”
+I don’t know if I made this clear: I don’t like mushrooms.
+
+
+Similarity Score:0.5205479452054794
+Percent Error Setup:47.81533388293487%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:678.5977859778598%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:32.7012561441835%
+----Setup----
+I don’t like raisins either.
+ Not to the degree of mushrooms, I just don’t like raisins.
+ But I’m intrigued when people try to talk me into liking raisins.
+----Punchline----
+ Like it’s a psychological flaw.
+----Tagline(s)----
+…do you like grapes?”
+
+
+Similarity Score:0.717948717948718
+Percent Error Setup:71.34959507298385%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:159.53259532595325%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:64.04587657018023%
+----Setup----
+Here we go.
+ “Yeah.
+----Punchline----
+ Yeah, I like grapes.”
+----Tagline(s)----
+…raisins… are just dried-up grapes!”
+
+
+Similarity Score:0.4
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:211.4391143911439%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:86.17149098853085%
+----Setup----
+“Oh.”
+----Punchline----
+ “Oh, I’ve loved them all along.”
+
+
+Similarity Score:0.25
+Percent Error Setup:98.97677125260657%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:92.62479519388313%
+----Setup----
+“I had no idea.”
+----Punchline----
+ So I love to hit them back with… “Do you like ham sandwiches?”
+
+
+Similarity Score:0.5555555555555556
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:83.40578918623703%
+----Setup----
+“You do?”
+ “Well… would you like if I put one outside… for three weeks… in the broiling sun… on a picnic table, so it shriveled up to the point of unrecognizability… 
+[in high-pitched voice]
+ and put it on a plate and gave it to you?”
+----Punchline----
+ “Would you like that?”
+
+
+Similarity Score:0.6
+Percent Error Setup:53.95470636729548%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:53.904969961769524%
+----Setup----
+“Well?”
+----Punchline----
+ “It’s just a ham sandwich!”
+
+
+Similarity Score:0.5714285714285714
+Percent Error Setup:98.97677125260657%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:93.54669579464773%
+----Setup----
+[in regular voice]
+----Punchline----
+ It’s not a grape now.
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:96.9303137578197%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:91.70289459311851%
+----Setup----
+I do like mayonnaise.
+----Punchline----
+ I like mayonnaise to the degree that it had to come into a New Year’s resolution.
+
+
+Similarity Score:1.1428571428571428
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:92.84946236559138%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:80.64008738394321%
+----Setup----
+It was a New Year’s resolution that I could not order extra mayonnaise on my sandwiches.
+ I could order mayonnaise, but I couldn’t use the word “extra.”
+----Punchline----
+ I found out very quickly I wasn’t getting enough mayonnaise.
+
+
+Similarity Score:0.47368421052631576
+Percent Error Setup:72.37282382037729%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:64.96777717094484%
+----Setup----
+But I didn’t want to break my resolution.
+ So here’s how I would order lunch.
+ “Um, Hi.
+ Uh… I would like a turkey sandwich with Swiss cheese, lettuce, and, uh… 
+[clears throat]
+----Punchline----
+ mayonnaise!”
+
+
+Similarity Score:0.4117647058823529
+Percent Error Setup:67.25668008341012%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:68.65537957400328%
+----Setup----
+“You hear what I’m saying here?”
+----Punchline----
+ “I want mayonnaise!”
+----Tagline(s)----
+…and the rest of the letters that are necessary for ‘mayonnaise.
+
+
+Similarity Score:1.0909090909090908
+Percent Error Setup:93.8606275156394%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:522.8782287822878%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:79.7181867831786%
+----Setup----
+Hey, I saw something interesting today on social media.
+ Somebody posted a very strong political opinion.
+ And somebody replied, “Good point.
+----Punchline----
+ I changed my mind.”
+----Tagline(s)----
+
+
+Similarity Score:0.5185185185185185
+Percent Error Setup:78.5121963047379%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:75.10868377935554%
+----Setup----
+No, I’m sorry.
+ I saw a unicorn.
+ I saw a unicorn.
+ I saw a purple glittery flying unicorn.
+----Punchline----
+ Here’s something I’ve learned about social media: the expression “just saying”… ain’t never preceded by a compliment.
+
+
+Similarity Score:0.2777777777777778
+Percent Error Setup:81.5818825469182%
+Percent Error Punchline:104.19354838709675%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:66.81157837247406%
+----Setup----
+When I tweet, I never want to try to sound too young.
+ But I also don’t want to sound too old.
+ And I saw Metallica in concert.
+----Punchline----
+ They’re great.
+
+
+Similarity Score:0.4666666666666667
+Percent Error Setup:72.37282382037729%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:72.34298197706171%
+----Setup----
+I wanted to tweet that they were great, but I didn’t want to come off like an old fuddy-duddy.
+----Punchline----
+ But I also didn’t want to try to sound like a young whippersnapper.
+----Tagline(s)----
+So I settled on, “Boy, these fellas sure know how to boogie.”
+
+
+Similarity Score:0.2608695652173913
+Percent Error Setup:80.55865379952476%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:574.7847478474785%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:57.592572364827966%
+----Setup----
+I think I hit the sweet spot.
+----Punchline----
+ All my followers thought I was the cat’s pajamas.
+
+
+Similarity Score:0.7058823529411765
+Percent Error Setup:92.83739876824596%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+“Pajamas” is a funny word.
+----Punchline----
+ I like words.
+----Tagline(s)----
+Kind of stuff keeps me up late at night.
+
+
+Similarity Score:0.8421052631578947
+Percent Error Setup:94.88385626303283%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:419.0651906519065%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:82.48388858547241%
+----Setup----
+Scientists need to know when they’re looking in microscopes.
+----Punchline----
+ “I would describe this amoeba… as itty-bitty.”
+
+
+Similarity Score:0.7058823529411765
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+“Professor, come over here.
+ See if you concur.”
+ “See if you concur that this amoeba is itty-bitty.”
+ “Let me take a look at that.”
+ “That’s not itty-bitty.”
+----Punchline----
+ “That’s teensy-weensy.”
+----Tagline(s)----
+“The universe is hugey-magroojy!”
+
+
+Similarity Score:0.34285714285714286
+Percent Error Setup:72.37282382037729%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:159.53259532595325%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:67.73347897323868%
+----Setup----
+I love space stuff.
+----Punchline----
+ I saw a scientist on TV say they know, if they build a space probe to explore distant galaxies and shoot it out, that a hundred years from now we’ll be able to build a better, faster space probe that will catch and pass that first one before it ever gets anywhere.
+
+
+Similarity Score:0.3157894736842105
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:501.2365591397849%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:47.451665756417256%
+----Setup----
+So the message is clear.
+----Punchline----
+ Everything we do today… is a waste of time.
+----Tagline(s)----
+
+
+Similarity Score:0.5
+Percent Error Setup:94.88385626303283%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:85.24959038776625%
+----Setup----
+We do send rovers up to Mars.
+ They’re analyzing rocks.
+----Punchline----
+ And some scientists think some of the rocks are from volcanoes.
+----Tagline(s)----
+ Okay.
+Even Vesuvius in its heyday didn’t have that kind of oomph.
+
+
+Similarity Score:0.5
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:626.6912669126691%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:66.81157837247406%
+----Setup----
+We’re looking for water on Mars.
+----Punchline----
+ We’re wheeling all around trying to find water.
+
+
+Similarity Score:0.26666666666666666
+Percent Error Setup:93.8606275156394%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:86.17149098853085%
+----Setup----
+I want to bring the scientists over to my kitchen sink.
+ “Look what I discovered.”
+----Punchline----
+ “When I pull this up… water shoots out of the end of this thing.”
+
+
+Similarity Score:0.5333333333333333
+Percent Error Setup:84.65156878909849%
+Percent Error Punchline:70.16129032258063%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:72.34298197706171%
+----Setup----
+“How’s it going on Mars?”
+ “Because this appears to be endless.”
+----Punchline----
+ “Get some science jugs and fill those babies up, because I have hit the moisture mother lode.”
+----Tagline(s)----
+They’re looking for water to see if there’s life on Mars.
+And we’re just crushing it with our rovers.
+
+
+Similarity Score:0.24489795918367346
+Percent Error Setup:88.74448377867222%
+Percent Error Punchline:104.19354838709675%
+Percent Error TagLine:938.130381303813%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:54.82687056253413%
+----Setup----
+The camera on the front: “Everything appears to be dry and desolate.”
+----Punchline----
+ Under the wheels: [screams]
+
+
+Similarity Score:0.7058823529411765
+Percent Error Setup:87.7212550312788%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+We’re just mushing Martians into mulch.
+----Punchline----
+ “What’s that green streak?”
+
+
+Similarity Score:0.36363636363636365
+Percent Error Setup:93.8606275156394%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.8590933915893%
+----Setup----
+I was 11 years old when we landed on the moon.
+ Our whole family was gathered around a TV.
+ My parents raised some good kids.
+----Punchline----
+ I didn’t pursue a life of crime.
+
+
+Similarity Score:0.7272727272727273
+Percent Error Setup:74.41928131516416%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:69.57728017476789%
+----Setup----
+One reason, I remember that expression when I was a kid: “crime does not pay.”
+ Crime does not pay? That’s why we shouldn’t do it? “Do you do crime?”
+ “Oh, well, I love crime.”
+ “I love almost everything about crime.
+ Crime is fantastic.”
+----Punchline----
+ “You don’t have to sell me on that side of the equation.”
+----Tagline(s)----
+…it doesn’t pay!”
+
+
+Similarity Score:0.4666666666666667
+Percent Error Setup:56.00116386208235%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:107.62607626076259%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:44.68596395412342%
+----Setup----
+“Sure, if it paid, I’d be doing crime left and right.”
+----Punchline----
+ “But crime doesn’t pay, so that’s why I don’t do crime.”
+
+
+Similarity Score:0.5217391304347826
+Percent Error Setup:88.74448377867222%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.79628618241398%
+----Setup----
+Another crime motto even more twisted: “Don’t do the crime… if you can’t do the time.”
+[audience]
+ “If you can’t do the time.”
+Damn.
+----Punchline----
+ I’m intrigued that the motto isn’t, “Don’t do the crime… because that would be wrong.”
+----Tagline(s)----
+
+
+Similarity Score:0.2564102564102564
+Percent Error Setup:77.48896755734445%
+Percent Error Punchline:81.505376344086%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:64.04587657018023%
+----Setup----
+They have to make it a choice between two selfish options? “Oh, that crime? I want to do it!”
+ “That’s a great crime.
+ I want to do that crime.”
+ The problem, though, with that particular crime, it’s 15 years in the federal penitentiary.
+----Punchline----
+ [grunts loudly]
+
+
+Similarity Score:0.43478260869565216
+Percent Error Setup:56.00116386208235%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:57.592572364827966%
+----Setup----
+[yells]
+----Punchline----
+ “I don’t have the time!”
+----Tagline(s)----
+“I wish I could, but I have a family and dreams.”
+
+
+Similarity Score:1.368421052631579
+Percent Error Setup:98.97677125260657%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:522.8782287822878%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:82.48388858547241%
+----Setup----
+“I don’t have enough time to do that crime.”
+----Punchline----
+ “Now this crime, on the other hand, one month in the county jail?”
+
+
+Similarity Score:1.0434782608695652
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.79628618241398%
+----Setup----
+“I’m doing it!”
+ “I have enough time.
+----Punchline----
+ I have enough time to do that crime.”
+
+
+Similarity Score:1.0
+Percent Error Setup:92.83739876824596%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:85.24959038776625%
+----Setup----
+“I base my crime decisions on how much time I have available in my calendar.”
+ “That’s what I’ve been taught.”
+ That’s us teaching us.
+ As much as I’m against crime, there are things we do to criminals that I think are unfair.
+----Punchline----
+ I think it’s unfair that tampering with evidence is an additional crime on top of the actual crime.
+
+
+Similarity Score:0.4262295081967213
+Percent Error Setup:57.02439260947578%
+Percent Error Punchline:115.53763440860212%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:43.764063353358814%
+----Setup----
+Talk about piling on.
+----Punchline----
+ Anything that would be done naturally during the scope of the crime should just be part of the crime.
+
+
+Similarity Score:0.5
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:126.8817204301075%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:77.87438558164938%
+----Setup----
+Tampering with evidence.
+ Has any criminal ever taken that into consideration… when fleeing the scene of a crime? “All right, let’s get out of here!”
+ “Toby, what are you doing?”
+ “I’m wiping up the fingerprints and getting rid of everything.”
+----Punchline----
+ “Are you crazy?”
+----Tagline(s)----
+“That’s a crime!”
+“You’re going to get us in trouble!”
+
+
+Similarity Score:0.8727272727272727
+Percent Error Setup:59.070850104262654%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:470.9717097170972%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:49.29546695794647%
+----Setup----
+You’re not allowed to tamper with evidence after you commit a crime.
+ You’re not allowed.
+ Has any criminal ever not tampered with evidence… and gotten anything out of that? “You’ve been found guilty of the crime in question.”
+----Punchline----
+ “Your penalty: life in prison without the possibility of parole.”
+----Tagline(s)----
+…we do want to note you were nice enough not to tamper with the evidence.”
+
+
+Similarity Score:0.3384615384615385
+Percent Error Setup:61.11730759904952%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:730.5043050430504%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:40.07646095030038%
+----Setup----
+“In fact, the lead investigator said it was the most pristine crime scene… he’d ever happened upon in his entire illustrious career.”
+----Punchline----
+ “So as a tip of the hat, you get to choose… top bunk or bottom.”
+
+
+Similarity Score:0.5263157894736842
+Percent Error Setup:77.48896755734445%
+Percent Error Punchline:81.505376344086%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:64.96777717094484%
+----Setup----
+I saw a thing on the news,  a judge dismissed a case without prejudice.
+----Punchline----
+ Whoa.
+
+
+Similarity Score:0.8
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:86.17149098853085%
+----Setup----
+How else would you do that? “Case dismissed.
+----Punchline----
+ And it’s because you’re white like me.”
+----Tagline(s)----
+“Get out of here, you knucklehead.”
+
+
+Similarity Score:0.5217391304347826
+Percent Error Setup:91.81417002085253%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:263.34563345633455%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:78.79628618241398%
+----Setup----
+If the defendant does not take the stand in his defense… the judge has to instruct the jury something to this effect: “Notice in this trial the defendant chose not to take the stand in his defense.”
+ “You are not allowed to weigh that one way or the other while considering the rest of the evidence.”
+ I understand the need for instructions.
+ I think they should just tweak them a tad.
+ I think the judge should say, “You might notice in this trial, the defendant chose not to take the stand in his defense.”
+ “We just want you to know that means… 
+----Punchline----
+[clears throat]
+
+
+Similarity Score:0.19047619047619047
+Percent Error Setup:5.392560981523682%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:3.200436919715998%
+----Setup----
+[clearing throat loudly]
+----Punchline----
+ …you can start validating parking.”
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:96.9303137578197%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:91.70289459311851%
+----Setup----
+I can’t even imagine not taking the stand in my defense if I was innocent of something.
+ You imagine your lawyer asking you, “Do you want to go tell him you didn’t do it?”
+----Punchline----
+ “I’m awfully bashful.”
+----Tagline(s)----
+“I know, but they’re thinking of throwing you in the electric chair, so… maybe if you could muscle through your discomfort.”
+“I’ll take my chances.”
+
+
+Similarity Score:0.53125
+Percent Error Setup:65.21022258862324%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:1249.569495694957%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:40.99836155106499%
+----Setup----
+“Fire up the chair, Your Honor.”
+ “What do you want from me?”
+ I heard some states carry out capital punishment at 7:00 in the morning.
+----Punchline----
+ Talk about cruel.
+
+
+Similarity Score:0.5517241379310345
+Percent Error Setup:74.41928131516416%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:73.26488257782631%
+----Setup----
+Is that guy supposed to get some sleep the night before? “Yeah, I think I’m going to hit the rack.”
+ “Get some shut-eye.”
+----Punchline----
+ “Yup, got a short day tomorrow.”
+----Tagline(s)----
+I’ll tell you what should be a crime: people boarding planes while wearing backpacks.
+If you’re someone who does that, a little heads-up: your backpacks are hitting people in the face.
+
+
+Similarity Score:0.3548387096774194
+Percent Error Setup:76.46573880995102%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:1561.0086100861008%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:42.84216275259421%
+----Setup----
+[imitating thudding]
+ “I only care about what’s in front of me!”
+ [imitates thudding]
+ “The hell with everything in my wake!”
+----Punchline----
+ [imitates thudding]
+----Tagline(s)----
+
+
+Similarity Score:0.5833333333333334
+Percent Error Setup:79.53542505213133%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:77.87438558164938%
+----Setup----
+Seriously.
+ It’s amazing what you might have done.
+ You’d think someone would take note of that.
+ “Hey, I heard what went down before takeoff.”
+ “Thank you.”
+ “The fact that you were willing to put your life on the line to save me, my family and all the other souls on this plane is nothing short of outstanding.”
+ “Thank you.
+ Thank you.
+ Thank you.”
+ No, just a backpack to the back of the head.
+ [imitates thudding]
+----Punchline----
+ “I was an almost-responder!”
+----Tagline(s)----
+
+
+Similarity Score:0.6172839506172839
+Percent Error Setup:23.257843945492464%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:25.32605133806663%
+----Setup----
+I like to be thanked.
+ That’s why I know I would never be good at that animal rescue stuff.
+ I wouldn’t be good at it.
+ You ever see news footage of some wild horse stuck in a ravine? They got to bring trucks in, and chains, and harnesses, and figure out how to get down into the ravine, and get the harness around this horse while it’s going berserk, pull this thing out while it’s kicking and going nuts, get close enough to get the harness off without getting hurt, and soon as they do, it just hauls into the woods.
+----Punchline----
+ “Hey!”
+
+
+Similarity Score:0.23300970873786409
+Percent Error Setup:3.3461034867368142%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:5.044238121245217%
+----Setup----
+I would want the horse to stop somewhere before the tree line.
+ Clippity-cloppity clip.
+----Punchline----
+ “Thanks.”
+
+
+Similarity Score:0.5
+Percent Error Setup:85.67479753649194%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:85.24959038776625%
+----Setup----
+Then do that up-on-the-hind-leg thing.
+ [neighing]
+----Punchline----
+ Then haul into the woods.
+----Tagline(s)----
+I’m going to want a little quack-you.
+
+
+Similarity Score:0.6
+Percent Error Setup:93.8606275156394%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:315.2521525215252%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:81.56198798470781%
+----Setup----
+Turn your little duck head and go, “Thanks.”
+ That’s all I needed from you.
+ “Wouldn’t have been able to do this without you.”
+ “Yeah, I know.”
+----Punchline----
+ “People are smarter than animals.”
+----Tagline(s)----
+“With all due respect, I wouldn’t have oil on me if it weren’t for people.”
+
+
+Similarity Score:0.2916666666666667
+Percent Error Setup:73.39605256777072%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:730.5043050430504%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:55.74877116329874%
+----Setup----
+“Just saying.”
+----Punchline----
+ “Somebody shut this stupid talking duck up.”
+----Tagline(s)----
+“Stupid talking duck.”
+
+
+Similarity Score:0.14285714285714285
+Percent Error Setup:97.95354250521314%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:107.62607626076259%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:87.09339158929546%
+----Setup----
+This is a beautiful venue.
+----Punchline----
+ Look at this.
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:94.88385626303283%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:91.70289459311851%
+----Setup----
+Amazing.
+ I get to play some pretty cool places.
+ Some places I play have an orchestra pit.
+ Those words don’t belong together.
+ “Orchestra.”
+----Punchline----
+ “Pit!”
+
+
+Similarity Score:0.24
+Percent Error Setup:76.46573880995102%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.95248498088476%
+----Setup----
+The people who work there look tremendous.
+ They come in in gowns and tuxedos.
+ Man, you guys look amazing.
+ Oh, you’re in the orchestra.
+ “Get in the pit! Get in the pit!”
+ “Get down in the pit!”
+----Punchline----
+ “Get in the pit!”
+----Tagline(s)----
+Why do they have to dress so nice? You can’t even see them.
+
+
+Similarity Score:0.35714285714285715
+Percent Error Setup:62.14053634644296%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:626.6912669126691%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:48.373566357181865%
+----Setup----
+At the end of the show, they stand up and bow.
+ At best you see their eyebrows.
+ “Thank you.”
+ “Thank you very much.”
+ “Thank– I’m wearing $90 socks for some reason, thank you.”
+ “Thank you, thank you.”
+ You know what kills me? When you go to a show that has an orchestra, how come as you’re walking in, they’re practicing? I never understood that.
+----Punchline----
+ You’re walking in, you’re hearing: [imitates horn blowing low notes]
+
+
+Similarity Score:0.5333333333333333
+Percent Error Setup:34.513360166820235%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:30.857454942654282%
+----Setup----
+[imitates playing high notes]
+ [imitates alternating high and low notes]
+----Punchline----
+ “Hey, uh… doors are open.”
+
+
+Similarity Score:0.25
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:85.24959038776625%
+----Setup----
+“Paid a lot of money for these tickets.”
+ “Could you all practice before we get here?”
+ [imitates playing low notes]
+----Punchline----
+ “I bet we’re going to be hearing that again later.”
+
+
+Similarity Score:0.8387096774193549
+Percent Error Setup:79.53542505213133%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:71.4210813762971%
+----Setup----
+[imitates low notes]
+ [imitating playing rapid high notes]
+----Punchline----
+ “Bet something’s going to fly in this show.”
+
+
+Similarity Score:0.35294117647058826
+Percent Error Setup:91.81417002085253%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+What is that? You don’t want to see the actor practicing as you’re walking in.
+ “To be, or not to– No, too big.
+ Too big.
+ Bring it down.”
+ “To be– Nope, too subtle.
+ Split the difference.”
+----Punchline----
+ “To be– Oh, they’re coming in.”
+----Tagline(s)----
+[audience applauding]
+
+
+Similarity Score:0.30434782608695654
+Percent Error Setup:63.16376509383639%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:55.71955719557196%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:57.592572364827966%
+----Setup----
+I don’t understand marching bands.
+ I understand bands.
+ I don’t understand marching bands.
+----Punchline----
+ There are many occupations in this world.
+
+
+Similarity Score:0.47619047619047616
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:80.64008738394321%
+----Setup----
+You don’t see marching taxidermists.
+♪ You got to stuff that otter ♪
+
+
+♪ You got to stuff it good  ♪
+
+
+----Punchline----
+♪ Stuff that otter And stick it on some wood ♪
+
+
+Similarity Score:0.3333333333333333
+Percent Error Setup:80.55865379952476%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:72.34298197706171%
+----Setup----
+“Why don’t you sit down and stuff the otter?”
+----Punchline----
+ “It might be easier if you were seated.”
+
+
+Similarity Score:0.5555555555555556
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:83.40578918623703%
+----Setup----
+Yes, it’s ridiculous.
+ So why is it normal for bands? What group of musicians were sitting around…? [imitates strumming tune]
+----Punchline----
+ Don’t ask what instrument that’s supposed to be.
+----Tagline(s)----
+[imitates strumming tune]
+
+
+Similarity Score:0.24242424242424243
+Percent Error Setup:79.53542505213133%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:107.62607626076259%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:69.57728017476789%
+----Setup----
+ [imitates strumming]
+----Punchline----
+ [imitates strumming]
+----Tagline(s)----
+“Hey, I got an idea.”
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:96.9303137578197%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:211.4391143911439%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:88.93719279082468%
+----Setup----
+…so people in blimps know what teams we support?”
+ “I’m sure the tuba player loved that idea.”
+ “Oh, great.”
+----Punchline----
+ [imitates playing tuba]
+
+
+Similarity Score:0.43478260869565216
+Percent Error Setup:80.55865379952476%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.79628618241398%
+----Setup----
+“Great idea, flute person.”
+ [imitating playing tuba]
+ The marching band had to be a flute person’s idea.
+ “Come on, let’s march.”
+ [imitating playing flute]
+ “Come on.”
+ “Wait! We need straps and stuff!”
+ “Come on.
+ It’s easy.”
+ [imitates playing flute]
+----Punchline----
+ “Wait! We need harnesses!”
+
+
+Similarity Score:0.22727272727272727
+Percent Error Setup:60.094078851656086%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:59.43637356635718%
+----Setup----
+[imitates playing flute]
+ [yelling]
+----Punchline----
+ “We’re not ready! We’re not ready!”
+----Tagline(s)----
+Hey, whoever invented the bagpipes… I don’t think he’s finished yet.
+
+
+Similarity Score:0.43478260869565216
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:522.8782287822878%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:78.79628618241398%
+----Setup----
+You ever look at that monstrosity? He must have thought there was a deadline at the patent office.
+ He probably just ran in and threw that on a counter.
+ [yells]
+----Punchline----
+ “Am I too late?”
+
+
+Similarity Score:0.45714285714285713
+Percent Error Setup:69.30313757819698%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:67.73347897323868%
+----Setup----
+“What in the world is that?”
+ “It’s a bag! With pipes stuck in it! “I stuck the pipes in a bag!”
+----Punchline----
+ “Bagpipes.”
+----Tagline(s)----
+“No, I see it.”
+“Why?”
+
+
+Similarity Score:0.6206896551724138
+Percent Error Setup:78.5121963047379%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:211.4391143911439%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:73.26488257782631%
+----Setup----
+“What does it do?”
+ “What does it do? It’s a bag with pipes!”
+ “Sticking in and out of it!”
+ “What does it do?”
+----Punchline----
+ [imitates high-pitched note]
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:76.46573880995102%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:75.10868377935554%
+----Setup----
+“What does it do?”
+ [imitates high-pitched note]
+ “What does it do?”
+ [imitates note]
+----Punchline----
+ “What…?”
+----Tagline(s)----
+
+
+Similarity Score:0.25
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:85.24959038776625%
+----Setup----
+How can you tell if anybody’s ever playing them well? You have a guy over here– [imitates playing high-pitched notes]
+----Punchline----
+ “He’s the best.”
+
+
+Similarity Score:0.3333333333333333
+Percent Error Setup:79.53542505213133%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:77.87438558164938%
+----Setup----
+This guy’s over here– [imitates playing high-pitched notes]
+ “He doesn’t know how to play that thing.”
+ “Stick your elbow more in the bag.
+----Punchline----
+ Everybody knows that.”
+----Tagline(s)----
+Hey, you guys are wonderful.
+
+
+
+
+Similarity Score:0.5714285714285714
+Percent Error Setup:76.46573880995102%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:315.2521525215252%
+Percent TagLine Number:31.61131611316113%
+Percent Error Total:67.73347897323868%
+----Setup----
+Well, it was my New Year’s resolution to lose 15 pounds this year.
+----Punchline----
+ I’ve only got 25 pounds to go.
+----Tagline(s)----
+ Little by little.
+
+
+Similarity Score:0.3076923076923077
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:159.53259532595325%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:76.03058438012015%
+----Setup----
+ I gained ten pounds just for that joke.
+ That’s how dedicated I am.
+ I learned there are milestones in putting on a few pounds.
+ Little moments where you go, “Hey, that was new.”
+ It used to be I’d put on my underwear, and that was it.
+ I’d just get on with my day.
+----Punchline----
+ You put on a few pounds, put on your underwear, you bend over, and your waistband flips down.
+
+
+Similarity Score:0.3287671232876712
+Percent Error Setup:44.74564764075458%
+Percent Error Punchline:115.53763440860212%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:32.7012561441835%
+----Setup----
+ You stand back up, and it flaps back into place… with an awkward little snap: [mimics snapping sound]
+ Whoa.
+----Punchline----
+ That hurt and felt nice.
+
+
+Similarity Score:0.38461538461538464
+Percent Error Setup:79.53542505213133%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.03058438012015%
+----Setup----
+ Then you put on a few more pounds, you bend over, your waistband flips down.
+----Punchline----
+ And when you stand back up, it doesn’t flap back into place.
+
+
+Similarity Score:0.3448275862068966
+Percent Error Setup:83.62834004170506%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:73.26488257782631%
+----Setup----
+ Hey, where was the awkward little snap?
+
+I hit a brand-new milestone.
+ The other day, I put on my underwear, I didn’t even have to bend over.
+----Punchline----
+ My waistband just flipped down.
+
+
+Similarity Score:0.36363636363636365
+Percent Error Setup:72.37282382037729%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:69.57728017476789%
+----Setup----
+ I think.
+----Punchline----
+ I’m at the point I have to ask, “Is my underwear on?”
+
+
+Similarity Score:1.0
+Percent Error Setup:96.9303137578197%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:85.24959038776625%
+----Setup----
+ How would I know? You get compliments when you put on weight.
+----Punchline----
+ I had a woman come up to me after a show, and she said, “You are so smart to wear vertical stripes.”
+
+
+Similarity Score:0.5
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:160.91397849462362%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:66.81157837247406%
+----Setup----
+ Yeah.
+ Thank you.
+ That’s very cagy how you threw a cloak over an insult with a compliment.
+----Punchline----
+ That’s like saying, “You are so gracious not to show your ugly face in public.”
+
+
+Similarity Score:0.35294117647058826
+Percent Error Setup:81.5818825469182%
+Percent Error Punchline:81.505376344086%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:68.65537957400328%
+----Setup----
+ Have you heard? People think I’m smart and gracious.
+
+
+----Punchline----
+Somebody told me TV adds ten pounds.
+
+
+Similarity Score:0.5882352941176471
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+ “Those things look like they weigh 10.
+0001 pounds.”
+ I immediately called the exterminator.
+I’m trying, man.
+ I have a trainer, a woman.
+ We play tennis.
+ She beats me every time.
+ A couple of weeks ago, I beat her for the first time, she didn’t say anything, I thought that was weird.
+ I didn’t wanna say something, “I beat you!”
+ It’s okay.
+ We put the rackets away, she says, “My husband and I have an announcement to make.”
+ And I’m like, “What’s that?”
+----Punchline----
+ She goes, “I’m five months pregnant.”
+----Tagline(s)----
+ So, I beat a pregnant woman at tennis.
+
+
+Similarity Score:0.5050505050505051
+Percent Error Setup:16.09524271373843%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:419.0651906519065%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:8.731840524303655%
+----Setup----
+ I beat the both of you.
+ Neither of you could handle this action.
+Tennis is weird.
+ The scoring system per game in tennis is mathematically ludicrous.
+ It doesn’t make even a little bit of sense.
+ First of all, there’s no zero.
+ If you don’t have any points, you have to say “love.”
+ If you don’t say it like that, your opponent gets upset.
+ -“How many points you have, Brian?”
+ -“Um, I think you know.
+ I’ve never touched the ball ever.
+ I have zero.”
+ “You have love.”
+ [gasps]
+----Punchline----
+ “It don’t feel like it.”
+
+
+Similarity Score:0.3225806451612903
+Percent Error Setup:10.97909897677126%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:14.263244128891312%
+----Setup----
+ Why do you say it like that? You don’t say it with other things, like your checking account.
+----Punchline----
+ “Oh, no.
+
+
+Similarity Score:0.45454545454545453
+Percent Error Setup:80.55865379952476%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:79.7181867831786%
+----Setup----
+ I’ve got love.”
+ Be careful.
+
+
+That’s the smart part of the scoring system.
+ If you get your first shot in, he’ll go, “You got 15.”
+ “No, that’s not possible.
+ We just arrived.”
+ You get the next shot in, you get another 15, to a total of 30.
+ “Oh, okay.
+ I got it.
+ Say no more.”
+ But you get the next shot in, you get ten points… to a total of 40.
+ No explanation as to why this ratio… is any different from the first two volleys.
+ Ten, so say the random gods.
+----Punchline----
+ I award ten at this juncture for no apparent reason.
+
+
+Similarity Score:0.2912621359223301
+Percent Error Setup:5.86295523980409%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:5.044238121245217%
+----Setup----
+ If both of you have 40, that’s deuce, which I thought meant two.
+ If you get the winning shot, there’s not a point value.
+----Punchline----
+ He’ll just go, “Game.”
+
+
+Similarity Score:0.4
+Percent Error Setup:74.41928131516416%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:72.34298197706171%
+----Setup----
+ “How many points did I get?”
+ “Game.
+ What are you worried about points for?”
+ I thought we were keeping a ridiculous tally.
+ Ah.
+ All that mental gymnastics is out the window.
+ Love, 15, 30, 40.
+ Game.
+
+
+----Punchline----
+How come somebody didn’t go to that first meeting, that first scoring system meeting? Um… 
+----Tagline(s)----
+ “I know I’m late… 
+
+
+Similarity Score:0.5333333333333333
+Percent Error Setup:62.14053634644296%
+Percent Error Punchline:81.505376344086%
+Percent Error TagLine:263.34563345633455%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:44.68596395412342%
+----Setup----
+ and I hope I’m not out of line.
+ I see all that trigonometry you have on the board.
+----Punchline----
+ And I can only imagine you’ve already discussed this, but… instead of that, why not zero, one, two, three, four?”
+
+
+Similarity Score:0.6
+Percent Error Setup:80.55865379952476%
+Percent Error Punchline:138.2258064516129%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:63.12397596941561%
+----Setup----
+ “Okay, Charlie.
+ You hear Charlie’s idea? Charlie thinks little numbers… is better than love, 15, 30, 40, deuce, my ad, 30, 50, your ad.
+ He thinks little numbers is better than all that.”
+
+
+Another thing I don’t like about tennis.
+ Why are you allowed two tries for every single serve? You get a mulligan every serve? “Give me the ball back, I hit it into the net.
+ Give me the ball.”
+ “I get a point?”
+ “No, we’re playing the most lenient game in the history of sports.
+ I can make error after error after error after error and still be in this game.
+ Give me the ball.
+ Give me the ball.”
+ The hell? Can you imagine seeing that in other sports? A quarterback looking at a defensive back with a football? “Give me the ball back.
+ Where do you think you’re going with that? Bring me the ball back.
+ I did not wanna throw that interception.
+ [yelling]
+ Give me the ball back.
+ Give me the ball back.”
+ So, why in tennis do they allow that? That encourages people who play three times in their whole life.
+ They know every first shot is a freebie, so they try to land some rocket… that don’t have a chance in hell of ever touching down on the planet Earth.
+ [mimics ball bouncing]
+ [whooshing]
+ [yells]
+ They hit some shooting star across the street.
+----Punchline----
+ It lands on the roof of some warehouse.
+
+
+Similarity Score:0.18487394957983194
+Percent Error Setup:134.31938315309634%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:119.41234298197705%
+----Setup----
+ They know the next one has to get in, so they morph into a complete different player.
+----Punchline----
+ Boink.
+
+
+Similarity Score:0.5
+Percent Error Setup:81.5818825469182%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:81.56198798470781%
+----Setup----
+ “Wanna explain what that first scud was all about?”
+ “We got three balls in the can.
+ Relax.”
+ “You see little Wimbledon boys running these down? If it goes over the fence, I’m not gonna get it.”
+ “Ball’s over the fence, Brian.”
+ He’s like, “How many do we have left?”
+----Punchline----
+ “Love.
+----Tagline(s)----
+ Let’s get out of here.”
+There have been changes in our country since last time.
+
+
+Similarity Score:0.3188405797101449
+Percent Error Setup:48.83856263032831%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:782.4108241082411%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:36.388858547241945%
+----Setup----
+ I don’t know if anybody saw that blurb in the newspaper, but… I believe there’s a new president.
+----Punchline----
+ I’ve never been more afraid to bring up a subject in my life.
+----Tagline(s)----
+ Not politically, socially, you know? Just going to barbecues.
+
+
+Similarity Score:0.9545454545454546
+Percent Error Setup:80.55865379952476%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:470.9717097170972%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:59.43637356635718%
+----Setup----
+ I wanna play horseshoes.
+ I don’t wanna be yelled at.
+ I just saw the Hatfields and McCoys peel out.
+ Couldn’t take the tension.”
+ “Calm down.”
+ No matter what a president does, somebody’s unhappy.
+
+
+There’s controversy about every decision.
+ Like whether we should put boots on the ground in the Mideast.
+ Some say yes, some say no.
+ I think when you hear that term, “boots on the ground,” you assume that means soldiers in those boots.
+----Punchline----
+ I say we drop a bunch of boots on them.
+
+
+Similarity Score:0.4186046511627907
+Percent Error Setup:23.257843945492464%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:20.71654833424358%
+----Setup----
+ Planeload after planeload.
+ Just keep shoving boots out.
+ They won’t know what hit them.
+ Like: “What is with all these boots on the ground?”
+ Just keep dropping our best boots till they’re up to their neck.
+ “There’s too many boots on the ground!”
+ You ever try to be evil up to your neck in boots? It’s practically impossible.
+ Problem solved.
+Speaking of problems… I read this headline.
+ This blew me away.
+----Punchline----
+ Apparently, the Israelis and Palestinians are not getting along.
+
+
+Similarity Score:0.2716049382716049
+Percent Error Setup:27.3507589350662%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:25.32605133806663%
+----Setup----
+ When did that happen? I go on a short vacation… I don’t know how they’ll solve the issues.
+ They tried violence.
+ Hasn’t worked.
+ Nothing’s worked.
+ But you know what they haven’t tried? And I think it’s worth a shot.
+ They haven’t tried a good dad.
+ ‘Cause a good dad can solve a problem in 30 seconds.
+ I say we send a good dad over there.
+----Punchline----
+ “What in the hell is going on over here?”
+
+
+Similarity Score:0.631578947368421
+Percent Error Setup:32.46690267203337%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:29.935554341889674%
+----Setup----
+ “Well, he started it.”
+ “No, he started it.”
+ “I don’t care who started it.
+----Punchline----
+ Knock it off!”
+
+
+Similarity Score:0.5263157894736842
+Percent Error Setup:84.65156878909849%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:82.48388858547241%
+----Setup----
+ “Why are you fighting anyway?”
+ “Well, this is mine.”
+----Punchline----
+ “No, it’s mine.”
+
+
+Similarity Score:0.5714285714285714
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:87.09339158929546%
+----Setup----
+ How about if I took it away from both of you? Figure out how to share it, say you love each other, sleep.
+----Punchline----
+ We’ll have a fantastic day tomorrow.”
+
+
+Similarity Score:0.45161290322580644
+Percent Error Setup:75.44251006255759%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:71.4210813762971%
+----Setup----
+
+
+If that doesn’t work, I have a proposal.
+ They should make a rule that you can no longer answer a question with a question.
+ ‘Cause that leads nowhere.
+ That’s how they answer everything about that conflict.
+ “Should you guys be shooting rockets?”
+----Punchline----
+ “Should they be building settlements?”
+
+
+Similarity Score:0.4583333333333333
+Percent Error Setup:57.02439260947578%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:55.74877116329874%
+----Setup----
+ “Whose was this 100 years ago?”
+----Punchline----
+ “Whose was this 1000 years ago?”
+
+
+Similarity Score:0.14285714285714285
+Percent Error Setup:92.83739876824596%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:87.09339158929546%
+----Setup----
+ All great questions.
+
+
+----Punchline----
+Now that I know it’s okay to answer a question with a question, I’ll use that the next time a cop pulls me over.
+----Tagline(s)----
+ “Do you know how fast you were going?”
+ Looks like we’re at a stalemate.”
+
+
+Similarity Score:0.4888888888888889
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:172.258064516129%
+Percent Error TagLine:782.4108241082411%
+Percent TagLine Number:48.708487084870846%
+Percent Error Total:58.51447296559257%
+----Setup----
+Hey, this is cool.
+ Kim Jong-un is one of my Facebook friends.
+----Punchline----
+ I couldn’t believe it.
+
+
+Similarity Score:0.7058823529411765
+Percent Error Setup:87.7212550312788%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+ He’s always liking my stuff.
+ “Hey, I like that.”
+ Thanks, Kim Jong-un.
+
+
+I read recently, absolute truth, they said Kim Jong-un is considering outlawing sarcasm in North Korea.
+ Wow.
+ I wonder if he proposed that and one of his generals said, “Oh, yeah.
+----Punchline----
+ That’ll work.”
+
+
+Similarity Score:0.34782608695652173
+Percent Error Setup:56.00116386208235%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:57.592572364827966%
+----Setup----
+
+
+I don’t understand North Korea’s public relations program.
+ They keep releasing pictures of Kim Jong-un looking through binoculars.
+----Punchline----
+ Is that supposed to intimidate us? Listen, if you can see your enemy through binoculars… you’ve already lost.
+
+
+Similarity Score:0.43243243243243246
+Percent Error Setup:81.5818825469182%
+Percent Error Punchline:115.53763440860212%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:65.88967777170944%
+----Setup----
+I’ve been watching these senate hearings.
+ Those things are bizarre.
+ The way they talk to each other at that level is so strange.
+ At our level, if we don’t like somebody, we say like, “Hey, I don’t like you.”
+ At that level, they’re nice for four minutes, and on the fifth minute, they kick them in the teeth.
+ “First, I wanna thank you for coming and answering our questions.
+ On a personal note, I had the pleasure of working with you on the Arms Services Committee.
+ You care about your constituents.
+ On the education bill, you did a lot of work.
+ I know you care about charities, and that’s to be commended.
+----Punchline----
+ Why do you lie, cheat and steal?”
+
+
+Similarity Score:0.35
+Percent Error Setup:14.601619708064586%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:10.628072091753145%
+----Setup----
+I went to one city council meeting.
+ Man, was I disappointed.
+ These people wanted to build a building that was higher than what the law allowed.
+----Punchline----
+ So, I didn’t know why there was a meeting.
+----Tagline(s)----
+
+
+Similarity Score:0.32432432432432434
+Percent Error Setup:73.39605256777072%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:65.88967777170944%
+----Setup----
+ Yet there was a meeting to discuss this.
+ The guy representing the building said, “Here’s the deal.
+ The law right now is a building cannot be any taller than 30 feet.
+----Punchline----
+ But my clients wanna build a building that’s 700 feet.
+
+
+Similarity Score:0.23255813953488372
+Percent Error Setup:67.25668008341012%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:60.35827416712179%
+----Setup----
+ So, clearly, we need to compromise.
+ I have a proposal for a 657-foot building.”
+ City council just approved this thing.
+ And everybody left.
+ I wish I had done this.
+ I wish I’d have said, “Excuse me.
+ Before we wrap up, I have a final proposal for the city council.
+----Punchline----
+ Right now the law is I’m not allowed to rob any liquor stores.
+
+
+Similarity Score:0.375
+Percent Error Setup:48.83856263032831%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:40.99836155106499%
+----Setup----
+ But I wanna rob a hundred liquor stores.
+ So, clearly, we need to compromise.
+ I have a list of 50 liquor stores.”
+I love doing this, man.
+ I get to travel.
+ I was just in Atlanta.
+ Went to a Braves game.
+ You know the controversy about team nicknames and mascots and stuff? It was weird.
+ I was in the stands at the Braves game, everybody was going: [chanting]
+ [panting while chanting]
+ A bunch of overweight white people: “Give me another Big Gulp! And a third footlong.
+ Should we be doing this? This feels inappropriate somehow.”
+----Punchline----
+ I don’t think they meant anything by it, but… same thing when I was in Toronto at the Blue Jays game and… their fans were going: -[mimics bird chirping]
+
+
+Similarity Score:0.4
+Percent Error Setup:2.7932689976237888%
+Percent Error Punchline:240.3225806451613%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:15.237575095576192%
+----Setup----
+ I don’t think they meant anything by it.
+----Punchline----
+ They were playing the Orioles.
+
+
+Similarity Score:0.9333333333333333
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:86.17149098853085%
+----Setup----
+ It was fan chirp-off night.
+ [mimics birds chirping]
+----Punchline----
+ It was getting ugly.
+
+
+Similarity Score:0.2857142857142857
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:87.09339158929546%
+----Setup----
+
+
+If a player makes a good play, he’ll often jump up and yell, “That’s what I’m talking about!”
+----Punchline----
+ I’m not good with impressions.
+
+
+Similarity Score:0.3333333333333333
+Percent Error Setup:81.5818825469182%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:77.87438558164938%
+----Setup----
+ They’ll yell, “That’s what I’m talking about!”
+ Well, how do I know? I think they should be required to show the proof.
+ Say they make a catch in the end zone and yell, “That’s what I’m talking about.”
+ They should whip out an iPad.
+ “In fact, this is me from an interview just last evening.”
+ “Tomorrow, it’s gonna be important for us to get into field position.
+ The defensive back on me is one of the best players in the league.
+ It’ll be challenging for me to get open.
+ In the last two minutes, I’ll make a nice head fake, get open in the end zone.
+ Throw will not be good.
+ I’ll have to grab it, keep my feet in balance to make the go-ahead touchdown.”
+----Punchline----
+ “See? That’s what I was talking about!”
+
+
+Similarity Score:0.26666666666666666
+Percent Error Setup:29.95005091896609%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:24.456581103222288%
+----Setup----
+You know what kills me? Postgame press conferences.
+----Punchline----
+ They still haven’t learned you need to put a microphone on the people asking the questions.
+
+
+Similarity Score:1.12
+Percent Error Setup:91.81417002085253%
+Percent Error Punchline:92.84946236559138%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.95248498088476%
+----Setup----
+ This drives me crazy.
+ You have the table, you have the coach or the athlete sitting at the table behind a microphone.
+----Punchline----
+ So, they know about microphones.
+
+
+Similarity Score:0.3448275862068966
+Percent Error Setup:76.46573880995102%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:73.26488257782631%
+----Setup----
+ You’re at home watching this waste of time.
+ [speaking muffled gibberish]
+----Punchline----
+ “Uh, that was a coaching decision.”
+
+
+Similarity Score:0.42105263157894735
+Percent Error Setup:87.7212550312788%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:82.48388858547241%
+----Setup----
+ [continues speaking gibberish]
+----Punchline----
+ “Uh, three, maybe four.”
+
+
+Similarity Score:0.2222222222222222
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:91.70289459311851%
+----Setup----
+ [continues speaking gibberish]
+----Punchline----
+ “Definitely.”
+
+
+Similarity Score:0.3333333333333333
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:94.46859639541233%
+----Setup----
+ Complete waste of everybody’s time.
+ Waste of everybody’s time.
+ Wasting everybody’s time.
+
+
+So, if I was the athlete, I would give ridiculous answers.
+ Nothing makes any sense anyway.
+ Might as well have fun with it.
+ [continues speaking gibberish]
+----Punchline----
+ “Probably pterodactyls.”
+
+
+Similarity Score:0.34146341463414637
+Percent Error Setup:61.11730759904952%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:62.20207536865101%
+----Setup----
+ Makes as much sense as what they’re doing now.
+They do that at police press conferences.
+ When you need to hear what’s happening ’cause something’s going down, no one has figured out you need to mic the people asking the questions.
+ It blows my mind.
+ You turn on your TV, the police chief’s there.
+ He’s sweating.
+ You’re like, “What’s happening?”
+ This is what you’re taking in at home: [speaking gibberish]
+----Punchline----
+ “We don’t know how they’re all escaping.”
+
+
+Similarity Score:0.23076923076923078
+Percent Error Setup:28.373987682459635%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:28.091753140360453%
+----Setup----
+ [continues speaking gibberish]
+----Punchline----
+ “Uh… Nunchucks and flamethrowers.”
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:91.70289459311851%
+----Setup----
+ [continues speaking gibberish]
+----Punchline----
+ “We think they’re hiding in that neighborhood.”
+----Tagline(s)----
+
+
+Similarity Score:0.46153846153846156
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:88.01529219006008%
+----Setup----
+ I’m not making that up out of thin air.
+ Watch a press conference.
+ That’s what you’ll get.
+Talking about sports.
+ My favorite sport– Everybody’s favorite sport.
+----Punchline----
+ –is cigarette boat racing.
+
+
+Similarity Score:0.3870967741935484
+Percent Error Setup:73.39605256777072%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:71.4210813762971%
+----Setup----
+ Our national pastime.
+ I was watching sports highlights, and they showed a cigarette boat flying across the water, and then all of a sudden, it did this business.
+ And I’m thinking, what happens in the captain’s mind at that moment? “Okay.
+----Punchline----
+ We’ll have a bad day now.”
+
+
+Similarity Score:0.8979591836734694
+Percent Error Setup:57.02439260947578%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:54.82687056253413%
+----Setup----
+ Three backflips, hit the water and exploded into nothing but flotsam and jetsam.
+ And I swear the sportscaster said, “The driver suffered a broken toe.”
+----Punchline----
+ I could understand him saying, “All they could find was the driver’s toe.”
+
+
+Similarity Score:0.45
+Percent Error Setup:73.39605256777072%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:63.12397596941561%
+----Setup----
+ And it was broken.
+ And they put it in a splint and helicopter it off to a trauma center.
+ “Here he is.
+ Where should we put Cap’n Crunch?”
+ He broke his toe.
+ How do you break your toe cigarette boat racing? What, was he flipping in midair? “Oh, no.
+ I’m gonna get wet.
+ Let me see if it’s gonna be cold.”
+----Punchline----
+ [screams]
+
+
+Similarity Score:0.28125
+Percent Error Setup:36.559817661607106%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:40.99836155106499%
+----Setup----
+ [screams]
+ He goes to parties with his toe bandaged.
+ “Cigarette boat racing?”
+----Punchline----
+ “You know it.
+
+
+Similarity Score:0.5882352941176471
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.32768978700163%
+----Setup----
+ You wanna initial my cast?”
+I saw another thing on the sports highlights.
+ At some basketball game, at halftime, they brought a fan down to the half-court line and he made a half-court shot, and the crowd went nuts.
+ And I was like, “Wow, what was the prize?”
+----Punchline----
+ And they said the prize was Tater Tots1 for life.
+----Tagline(s)----
+ That’s a prize? That’s a curse.
+
+
+Similarity Score:0.9253731343283582
+Percent Error Setup:50.885020125115176%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:315.2521525215252%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:38.232659748771155%
+----Setup----
+ I would have missed on purpose.
+ “What happens if this goes in?”
+----Punchline----
+ “Tater Tots for life.”
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:83.40578918623703%
+----Setup----
+ Who wants to deal with that for the rest of their life? You’d be answering Tater Tot questions 30 years from now.
+----Punchline----
+ “Are you that Tater Tot guy? You made that Tater Tot shot, didn’t you? Do you still like Tater Tots? Do you eat Tater Tots every day? If you don’t feel like it, can you pretend you’re ordering Tater Tots for yourself, and slide them to your friend or do they monitor that? How? They give you a card? They click it like a dozen-donut thing? You like talking about this on your deathbed?”
+
+
+Similarity Score:0.24489795918367346
+Percent Error Setup:76.46573880995102%
+Percent Error Punchline:750.8064516129031%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:9.653741125068265%
+----Setup----
+ Listen.
+ I don’t wanna sound like I’m bragging… but I’m gonna put this out there.
+----Punchline----
+ I have enough money… to buy Tater Tots… 
+----Tagline(s)----
+ for the rest… of my life.
+
+
+Similarity Score:0.7058823529411765
+Percent Error Setup:83.62834004170506%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:315.2521525215252%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:68.65537957400328%
+----Setup----
+ I got that kind of coin.
+ Sure, I’m lucky.
+ I can surround myself with financial advisers.
+ We spent a month crunching the numbers, looking at spreadsheets, comparing data, analyzing algorithms.
+----Punchline----
+ It turns out you need $64.
+
+
+Similarity Score:0.6842105263157895
+Percent Error Setup:68.27990883080355%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:64.96777717094484%
+----Setup----
+Our national pastime is baseball.
+ I like baseball.
+ I like the home plate umpire job.
+ They call balls and strikes, which I think are equally important to the game.
+ So, why is an umpire’s reaction to a ball or a strike so markedly different? When it’s a strike, an umpire lets everybody know.
+----Punchline----
+ But when it’s a ball, sometimes an umpire don’t do nothing.
+
+
+Similarity Score:0.27692307692307694
+Percent Error Setup:45.76887638814801%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:40.07646095030038%
+----Setup----
+ “Not gonna waste my time with this nonsense.”
+----Punchline----
+ But when it’s a strike: [screaming]
+
+
+Similarity Score:0.375
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:85.24959038776625%
+----Setup----
+ “Are you open to suggestions? Why not split the difference in those reactions? ‘Cause when it was a ball, I didn’t know anything had even transpired.
+----Punchline----
+ And when it was a strike, I thought your chest might explode.”
+
+
+Similarity Score:0.55
+Percent Error Setup:72.37282382037729%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:63.12397596941561%
+----Setup----
+ It’s a hard job.
+ You have a lot of close plays at the plate.
+ It’s why I think the home plate umpire should be allowed one shrug per game.
+ Use it whenever you need it.
+----Punchline----
+ [makes whooshing sound]
+
+
+Similarity Score:0.55
+Percent Error Setup:63.16376509383639%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:63.12397596941561%
+----Setup----
+ “I don’t know.
+----Punchline----
+ Cloud of dust and a heigh-ho.
+
+
+Similarity Score:1.6363636363636365
+Percent Error Setup:95.90708501042626%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.8590933915893%
+----Setup----
+ You think I saw something in that billow you didn’t?”
+
+
+I don’t know why players argue with umpires.
+ Every game you’ll see a player argue with an umpire.
+ And I’ve never seen an umpire change his mind ever.
+ So, why would you waste your time? Has that ever worked? Ever see a guy sliding into home? “You’re out!”
+ “You’re crazy, man! He missed the tag! I had my hand–” “Okay, okay.
+----Punchline----
+ Safe.
+
+
+Similarity Score:0.2465753424657534
+Percent Error Setup:27.3507589350662%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:32.7012561441835%
+----Setup----
+ Ah! I don’t like conflict.
+ I tend to shy away from that.
+ Go ahead.
+ Give him a run.
+ No, it’s okay.
+ I didn’t know about the yelling.
+ It’s okay.
+ Give it to him.”
+
+
+Baseball has interesting traditions.
+----Punchline----
+ Why do baseball coaches wear uniforms? What’s going on? You imagine a hockey coach on the sidelines… 
+
+
+Similarity Score:0.4642857142857143
+Percent Error Setup:62.14053634644296%
+Percent Error Punchline:115.53763440860212%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:48.373566357181865%
+----Setup----
+ wearing full goalie gear? “Give it your all, fellas.”
+ “Who’s the guy in the goalie mask?”
+ So, why is it normal in baseball? They look silly, especially the ones who put on a few pounds.
+ Sitting in the dugout.
+----Punchline----
+ Pinstripes this far apart.
+
+
+Similarity Score:0.3111111111111111
+Percent Error Setup:59.070850104262654%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:58.51447296559257%
+----Setup----
+ Looks like somebody made a jailbreak out of his torso.
+ “I think I might pinch-run today.
+ No, I’ll just sit here and eat Funyuns2.”
+My dad coached me in Little League baseball.
+ He coached all eight of us and worked a full-time job.
+ Wonderful man.
+----Punchline----
+ So is my mom.
+
+
+Similarity Score:0.36
+Percent Error Setup:53.95470636729548%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:53.904969961769524%
+----Setup----
+ My mom is one of the most wonderful men that I’ve ever– Wonderful people.
+----Punchline----
+ Guess what joke’s gonna be fixed.
+
+
+Similarity Score:0.6363636363636364
+Percent Error Setup:84.65156878909849%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:79.7181867831786%
+----Setup----
+ Maybe– Maybe that’s it.
+ Maybe I don’t know how to say anything sincere.
+ My mom is a wonderful man.
+ Okay, Chuckles.
+ No.
+ My mom and dad are wonderful.
+ They’re both around.
+ We’re very fortunate.
+ They’re both funny.
+
+
+My dad has an interesting sense of humor.
+ Very dry, yet silly simultaneously.
+ He says silly, nonsensical things with a straight face.
+ If you laugh, great.
+----Punchline----
+ If you don’t laugh, he enjoys that more.
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:35.53658891421367%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:33.62315674494811%
+----Setup----
+ He says things like biddlyumbombowayday.
+ Don’t try to make sense of it.
+ We’d be in a restaurant, waitress would go, “Do you want appetizers?”
+----Punchline----
+ “Biddlyumbombowayday.”
+
+
+Similarity Score:0.5925925925925926
+Percent Error Setup:74.41928131516416%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:75.10868377935554%
+----Setup----
+ “What are you doing, Dad?”
+----Punchline----
+ “Just having fun.”
+
+
+Similarity Score:3.2
+Percent Error Setup:93.8606275156394%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:90.78099399235391%
+----Setup----
+ “How is that fun for her?”
+ Another thing he says beck beck beckedebang.
+ Means nothing.
+----Punchline----
+ Especially to the cop that pulled us over.
+
+
+Similarity Score:0.48
+Percent Error Setup:83.62834004170506%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.95248498088476%
+----Setup----
+ Coming back from a family picnic.
+ “Can I see your license and registration sir?”
+ “Beck beck beckedebang.”
+----Punchline----
+ We’re in the back of the station wagon, “Daddy’s going to jail.”
+
+
+Similarity Score:0.7741935483870968
+Percent Error Setup:81.5818825469182%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:71.4210813762971%
+----Setup----
+
+
+We love that about him.
+ Still do.
+ But now he’s at a time in his life where they try to figure out what level of care he needs.
+----Punchline----
+ And this is how he’s talking… 
+
+
+Similarity Score:0.3888888888888889
+Percent Error Setup:71.34959507298385%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:66.81157837247406%
+----Setup----
+ to medical professionals.
+ And it’s getting murky.
+ I was with him, and the doctor walked in, “How you doing, Walt?”
+----Punchline----
+ And he said, “Biddlyumbombowayday.”
+
+
+Similarity Score:0.8461538461538461
+Percent Error Setup:78.5121963047379%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.03058438012015%
+----Setup----
+ I had to be the interpreter.
+ “Oh, fantastic.
+ He’s doing great.
+ He wouldn’t say that unless he’s was doing great.”
+ Doctor’s looking at me like, “Okay.
+ You’ve been taking your medications?”
+----Punchline----
+ “Beck beck beckedebang.”
+
+
+Similarity Score:0.5
+Percent Error Setup:67.25668008341012%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:66.81157837247406%
+----Setup----
+ “Oh, you know he’s taking them.
+----Punchline----
+ He’d never say that unless he’s on meds.”
+
+
+Similarity Score:0.625
+Percent Error Setup:92.83739876824596%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:85.24959038776625%
+----Setup----
+
+
+I tried to call him the other day.
+ My sister was with him, so I called her cell phone.
+ I said, “Put Dad on FaceTime.
+ It might be easier to talk to him.”
+ I hear her say, “Brian wants to talk to you on FaceTime.”
+ And I hear him say, “What is Spacetime?”
+ And she’s like, “It’s called FaceTime.”
+ He’s like, “Never heard of Spacetime.”
+----Punchline----
+ I’m like, “This is off the rails.”
+
+
+Similarity Score:0.4657534246575342
+Percent Error Setup:33.4901314194268%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:32.7012561441835%
+----Setup----
+ She gives him the phone.
+ He has no idea there’s a camera in there.
+ He’s whipping it all over the place.
+ I’m seeing his face zip by at the speed of light.
+ I’m yelling, “Stop moving the phone! Aim it in one place!”
+ He thinks it’s for audio reasons.
+ He aims it at the corner of his room, I’m seeing a cobweb dangling.
+ “Can you hear me?”
+ “I always could hear you.
+ Aim it at your face, Dad.”
+ So, he sort of gets it but not really.
+ It’s like two unfocused eyes.
+ They don’t know where to look.
+----Punchline----
+ Like an alligator coming out of a swamp at a 45-degree angle.
+
+
+Similarity Score:0.21428571428571427
+Percent Error Setup:1.2996459919499468%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:3.2528672856362686%
+----Setup----
+ I’m like, “Hey, Dad.
+ How you doing?”
+ “Who is this?”
+ “It’s Brian.”
+ “Who am I talking to?”
+ I felt bad until he asked, “Who’s that in the square in the corner?”
+ “You, Dad.”
+ “Somebody’s in the corner looking at us.”
+ “Buck Rogers.
+----Punchline----
+ He’s watching us through Spacetime.”
+
+
+Similarity Score:0.5306122448979592
+Percent Error Setup:56.00116386208235%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:54.82687056253413%
+----Setup----
+
+
+He’s funny.
+ Sometimes you wonder, do you know if he’s there or not? He’ll make a joke that makes you know, “Oh.
+ Of course he’s there.”
+ He was eating donuts while I talked to him on FaceTime.
+ I said, “How’s that donut?”
+----Punchline----
+ He goes, “Has a hole in it.”
+----Tagline(s)----
+ The most beautiful joke I heard.
+
+
+Similarity Score:0.4482758620689655
+Percent Error Setup:57.02439260947578%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:315.2521525215252%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:46.52976515565265%
+----Setup----
+ All right, Dad.
+
+
+My dad likes that awkward moment comedy… when not everybody gets it.
+ I like everybody in the lasso.
+ My dad likes when there’s one man out.
+ You know?
+
+Here’s an example.
+ We had a family reunion.
+ I drove my dad to the restaurant where we were meeting.
+ He and I get out of the car.
+ We’re walking in.
+ He’s an old guy, doesn’t walk well.
+ He’s shuffling along.
+ I said, “Dad, you need help?”
+ He goes, “I got it.”
+ I said, “I’m next to you if you need me.”
+ He goes, “All right.”
+ The hostess looks out and sees my dad shuffling along.
+ She runs into the parking lot, says, “Do you need help, sir?”
+----Punchline----
+ He said, “I asked my son for help, and he said, ‘No.
+
+
+Similarity Score:0.6923076923076923
+Percent Error Setup:19.717763445031757%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:19.84707809939924%
+----Setup----
+ “That’s funny, Dad.
+ It’s a funny joke.
+ Funny to two-thirds of us standing here.”
+ I’m trying to cover, “My dad was joking.”
+ “Oh, I bet.
+ I bet he was.”
+ He explains nothing to her.
+ He walks right past her.
+----Punchline----
+ Biddlyumbombowayday.
+
+
+Similarity Score:0.3333333333333333
+Percent Error Setup:59.070850104262654%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:61.2801747678864%
+----Setup----
+ Yeah.
+My mom is funny, too, but she’s funny in a quirky way.
+ My mom and dad sat me down when I was a kid, Mom said, “There’s something we wanna tell you.”
+ And I was like, “Okay.”
+----Punchline----
+ And my mom goes, “We just want you to know that we named you after Thomas Jefferson.”
+
+
+Similarity Score:0.9642857142857143
+Percent Error Setup:61.11730759904952%
+Percent Error Punchline:104.19354838709675%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:48.373566357181865%
+----Setup----
+ “My name is Brian Joseph Regan.”
+----Punchline----
+ And she said, “We named you after Thomas Jefferson.”
+----Tagline(s)----
+
+
+Similarity Score:0.4444444444444444
+Percent Error Setup:92.83739876824596%
+Percent Error Punchline:13.440860215053752%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:83.40578918623703%
+----Setup----
+ I’m like, “Was that a joke? Was that a life lesson? Why is this part of my child development?”
+So, I have some weird personality quirks.
+ I wonder where they came from.
+ One is I have to over-explain things.
+ If I feel somebody doesn’t understand something, I will say it again in another way.
+----Punchline----
+ Sort of like that.
+
+
+Similarity Score:0.4406779661016949
+Percent Error Setup:44.74564764075458%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:45.60786455488804%
+----Setup----
+ Here’s another example.
+ Um… I was on the road recently, and I was hungry, and I passed a place that said, “Mr.
+ Frank.”
+ So, I said, “I’m going in to get a hot dog.”
+ And I walked in and realized it was a men’s clothing store.
+ It’s just weird when your expectations are 180 degrees off.
+ I’m expecting paper hats and a guy slinging dogs.
+ I’m seeing jackets and ascots.
+ I’m like, “This makes no sense.”
+ Before I could leave, a salesman came up and said, “Can I help you?”
+----Punchline----
+ And instead of saying, “No, thank you,” and leaving… I said, “I want a hot dog.”
+
+
+Similarity Score:0.42592592592592593
+Percent Error Setup:6.886183987197524%
+Percent Error Punchline:92.84946236559138%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:0.4347351174221695%
+----Setup----
+ So, we stared at each other for 20 seconds.
+ He says, “You know this is a men’s clothing store, right?”
+ And at that point, I knew that.
+ And I was like, “Yes, I know.”
+ And then I turned around and walked out.
+----Punchline----
+ And my guess is he tells that story more often than I do.
+
+
+Similarity Score:0.9122807017543859
+Percent Error Setup:56.00116386208235%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:47.451665756417256%
+----Setup----
+I have two kids.
+ I love being a daddy.
+ I like playing board games with my kids.
+ That’s one of my favorite things to do.
+ I love to get on the living room carpet and play Clue.
+ You have to guess what’s in the envelope by process of elimination.
+ I’ve never won.
+ I don’t know what my kids do that I’m not capable of, but I’m like, “How did you win?”
+----Punchline----
+ My son’s like, “When you looked at the last card and made a mark, I knew because you didn’t make a mark when the previous card–” “My brain is getting hot.
+
+
+Similarity Score:0.6407766990291263
+Percent Error Setup:27.3507589350662%
+Percent Error Punchline:263.01075268817203%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:5.044238121245217%
+----Setup----
+ I don’t understand anything you’re saying.”
+ The only way I can eliminate something in the game Clue from being in that envelope is if somebody puts that card in my face.
+----Punchline----
+ “Colonel Mustard? I doubt he’s in there.
+
+
+Similarity Score:0.6
+Percent Error Setup:67.25668008341012%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:63.12397596941561%
+----Setup----
+ How can he be in two places?”
+ I learned something about the game Clue.
+----Punchline----
+ If you ever show up somewhere, and everyone’s last name is a color… you might wanna get on out of there.
+
+
+Similarity Score:0.43243243243243246
+Percent Error Setup:84.65156878909849%
+Percent Error Punchline:149.56989247311824%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:65.88967777170944%
+----Setup----
+ Ain’t nothing good going down there.
+ Especially if as you’re leaving, you see a candlestick in the conservatory.
+ Skedaddle.
+ If a place even has a conservatory, blow that pop stand.
+ If you ever hear someone say, “I believe we should all retire to the conservatory…” “You know, we got a long drive.
+ You all enjoy the conservatory.
+----Punchline----
+ We’ll Google that, see what that means.”
+
+
+Similarity Score:0.42424242424242425
+Percent Error Setup:40.65273265118084%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:39.15456034953577%
+----Setup----
+I like the games when I was a kid.
+ Trouble.
+----Punchline----
+ They put the dice in a bubble ’cause they knew we were stupid.
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:89.76771252606565%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:77.87438558164938%
+----Setup----
+ If they weren’t in the bubble, we’d lose them for sure.
+ Boop-boop.
+ “I lost the dice.
+ They’re in a bubble.”
+ Boop-boop.
+ “I lost them again! They’re in a bubble.
+ I’m sensing a pattern.”
+----Punchline----
+ I’d like to see one of those in Vegas at the craps table.
+
+
+Similarity Score:0.4583333333333333
+Percent Error Setup:65.21022258862324%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:55.74877116329874%
+----Setup----
+ “Baby needs a new pair of shoes.”
+----Punchline----
+ Boop-boop.
+
+
+Similarity Score:0.6
+Percent Error Setup:91.81417002085253%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:90.78099399235391%
+----Setup----
+
+
+We played Mouse Trap.
+ We played it differently than other families.
+ The way we played Mouse Trap is we’d try to guess how far we would get into the setup process… before we got frustrated and threw everything back in the box.
+----Punchline----
+ Any game that needs a construction hat and blueprints… 
+
+
+Similarity Score:0.37735849056603776
+Percent Error Setup:57.02439260947578%
+Percent Error Punchline:24.784946236559126%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:51.13926815947569%
+----Setup----
+ You know what intrigues me about the game Mouse Trap? Knowing that this conversation had to have taken place at a conference table.
+ “Freddy? Freddy, you had something you wanted to offer?”
+ “Um, yeah.
+----Punchline----
+ I was thinking swingy boot.
+
+
+Similarity Score:0.8780487804878049
+Percent Error Setup:64.1869938412298%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:62.20207536865101%
+----Setup----
+ Hit a bucket with a ball in it, so, boot, bucket, ball.
+----Punchline----
+ Anyway, that’s all I got so far.”
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:80.64008738394321%
+----Setup----
+ That was mulled around by Milton and Bradley.
+----Punchline----
+ “This has the makings of one of the best games in the world.”
+
+
+Similarity Score:0.8695652173913043
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.79628618241398%
+----Setup----
+ I got a great way to destroy a family.
+ A lot of techniques everybody knows about.
+ Alcoholism, drug abuse, gambling addictions.
+ Those can destroy a family.
+----Punchline----
+ But those take a while.
+----Tagline(s)----
+ You wanna destroy a family quickly? Break out a game of Scattergories.
+
+
+Similarity Score:0.5957446808510638
+Percent Error Setup:72.37282382037729%
+Percent Error Punchline:31.93548387096775%
+Percent Error TagLine:626.6912669126691%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:56.67067176406335%
+----Setup----
+ They should call that Argument in a Box.
+ “It’s things at a beach.
+ You can’t say sandwiches.”
+ “Why? I said sandwiches.”
+ “You can’t say sandwiches.
+ It’s things at a beach.”
+ “I eat sandwiches when I go to the beach.”
+ “Doesn’t matter.
+ Not a beach thing, I won’t allow it.”
+ “Who allows you to be the guy who’s allowing things?”
+ “It has to be a common-sense beach thing, moron.
+ Something at the beach when you get there.
+----Punchline----
+ Like an umbrella! An umbrella is at the beach when you get there!”
+
+
+Similarity Score:0.3076923076923077
+Percent Error Setup:21.211386450705596%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:16.107045330420533%
+----Setup----
+ Family’s destroyed.
+ That’s a good holiday game.
+----Punchline----
+ Break that out during the holidays, and rip your family to shreds.
+
+
+Similarity Score:0.5714285714285714
+Percent Error Setup:91.81417002085253%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:80.64008738394321%
+----Setup----
+Here’s something I don’t think a parent has said.
+----Punchline----
+ “The kids are playing with all their old Happy Meal toys.”
+
+
+Similarity Score:0.5714285714285714
+Percent Error Setup:90.7909412734591%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:80.64008738394321%
+----Setup----
+ I don’t think a McDonald’s Happy Meal toy has ever made it to sundown.
+ Usually they break as you’re taking them out of the cellophane.
+ “What is this? It’s broken.
+ Toss it into the trash.”
+ Even if you get it to work, you never wanna do it more than once.
+ “What happens? Push this button.
+ It shoots out four inches? Throw it in the trash.
+----Punchline----
+ Somebody shut that toy factory down.”
+
+
+Similarity Score:0.4931506849315068
+Percent Error Setup:32.46690267203337%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:32.7012561441835%
+----Setup----
+I love being a daddy.
+ I like taking my kids to Disneyland.
+ I love Disneyland.
+----Punchline----
+ The only thing I don’t like about Disneyland is the other people.
+
+
+Similarity Score:0.6428571428571429
+Percent Error Setup:84.65156878909849%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:74.18678317859093%
+----Setup----
+ Have you seen them there? What the hell are they doing there? Twice while we were in line for a ride, the family that was behind us just got in front of us.
+ First time, I didn’t know what to do.
+----Punchline----
+ Like, “Clearly, I don’t have all the information.
+
+
+Similarity Score:0.47058823529411764
+Percent Error Setup:57.02439260947578%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:52.98306936100491%
+----Setup----
+ They were behind us, and now they’re in front of us, and how come I’m not saying something?”
+ So, the next line for the next ride I was on red alert.
+----Punchline----
+ “Spread out, kids.
+
+
+Similarity Score:0.5
+Percent Error Setup:67.25668008341012%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:66.81157837247406%
+----Setup----
+ Swing your hips.
+ Swing them.
+ Swing them rope to rope.
+ You have to be careful at the switchback.
+ Hug the post.
+ Hug the post! Hug the post!”
+ If you don’t hug the post, some worm family: [shouting gibberish]
+----Punchline----
+ [singing]
+
+
+Similarity Score:0.1951219512195122
+Percent Error Setup:60.094078851656086%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:62.20207536865101%
+----Setup----
+ It happened anyway.
+ I’m doing our best to protect our place in line.
+ First it was the little kids in the family behind us.
+ They just got up in front of my kids.
+----Punchline----
+ So, my heart starts going– I look back thinking one of their parents will say, “No, we’re behind this family and have been for a half hour.”
+
+
+Similarity Score:0.41935483870967744
+Percent Error Setup:65.21022258862324%
+Percent Error Punchline:217.63440860215053%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:42.84216275259421%
+----Setup----
+ That’s what I thought should happen.
+----Punchline----
+ But instead, the mom came up and said, “What are you kids doing up here?”
+
+
+Similarity Score:0.9565217391304348
+Percent Error Setup:92.83739876824596%
+Percent Error Punchline:81.505376344086%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.79628618241398%
+----Setup----
+ “What are you doing up here?”
+ I looked back at the dad.
+ Maybe he’s the voice of reason.
+ He just squeezes up the other side, says, “Well, I guess we’re up here now.”
+ That’s what you guess? That’s the guess you take under the circumstances? This time, I said something.
+ I’m like, “Listen.
+ We’re behind this guy that’s in front of you.
+ It’s been a half an hour.
+ It’s kind of hard not to know our place.
+----Punchline----
+ The guy’s got like a red Mohawk, and Backgammon pieces in his ear lobes.
+
+
+Similarity Score:0.6236559139784946
+Percent Error Setup:20.18815770331216%
+Percent Error Punchline:70.16129032258063%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:14.263244128891312%
+----Setup----
+ It’s been him and then us for a half an hour, and now you guys are betwixt us.”
+ And the dad goes, “Okay.
+ Go ahead, if it’s that big a deal to you.”
+----Punchline----
+ “It is.
+
+
+Similarity Score:0.5405405405405406
+Percent Error Setup:65.21022258862324%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:65.88967777170944%
+----Setup----
+ It’s that big a deal to me.
+ I want my family flying around on elephants before your family.
+ It might sound absurd to you, but I like the way it makes me feel inside.”
+ Play me as the jerk.
+ I wish I had handled it differently.
+----Punchline----
+ I wish when he stepped in front of me, I would have reached into the pockets of his cargo shorts and just pulled out his belongings and just hurled them.
+
+
+Similarity Score:0.41025641025641024
+Percent Error Setup:51.90824887250861%
+Percent Error Punchline:251.66666666666666%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:28.091753140360453%
+----Setup----
+ Just as far as I could humanly hurl.
+ And then just grabbed her purse and just whipped it into some distant flowerbed watching Disney receipts slowly descend back down to Earth.
+----Punchline----
+ And when they looked at me weird, I’d go, “Oh, I thought you wanted complete anarchy.
+----Tagline(s)----
+
+
+Similarity Score:0.28
+Percent Error Setup:67.25668008341012%
+Percent Error Punchline:92.84946236559138%
+Percent Error TagLine:48.09348093480935%
+Percent TagLine Number:82.90282902829028%
+Percent Error Total:53.904969961769524%
+----Setup----
+ Yeah.
+----Punchline----
+ When you just step right in front of us in a clearly roped-off line, I thought that was a signal all semblance of right and wrong was out the window.”
+
+
+Similarity Score:0.5454545454545454
+Percent Error Setup:97.95354250521314%
+Percent Error Punchline:251.66666666666666%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:69.57728017476789%
+----Setup----
+I don’t know what it is with people.
+ I went to my nephew’s high school graduation.
+ I don’t think I’ve ever been more disappointed in the human species in my life.
+ I’m in the stands, this woman gets on the microphone, she tried.
+ She tried so hard.
+ She gets on the mic, “Ladies and gentlemen, we have a wonderful day here with all these graduates.
+ We’re gonna ask you in advance to please not applaud or cheer when your individual child or friend is called because we have way too many graduates.
+----Punchline----
+ It would not be fair to the people at the end.
+
+
+Similarity Score:0.5961538461538461
+Percent Error Setup:5.86295523980409%
+Percent Error Punchline:36.129032258064505%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:4.122337520480608%
+----Setup----
+ But please when your individual child or family member is called, please don’t applaud at that time.
+ Okay.
+ Thank you for understanding.
+ Okay.
+ Here we go.
+ Let’s get started.
+ With our first graduate, Aaron Anderson.”
+----Punchline----
+ “Yeah! Aaron! Aaron! Whoo! Aaron! Aaron!”
+
+
+Similarity Score:0.13953488372093023
+Percent Error Setup:63.16376509383639%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:60.35827416712179%
+----Setup----
+ Are we the smartest species? We’re– We’re top of the food chain? I so wish while he was yelling that a clamp would have descended… from the darkness of the ceiling, like one of those claw games, just right above him, and then just clamped onto his ribs, and just pulled him up, a-whooping and a-hollering, a-legs a-flailing, just pulled him up into the darkness.
+ I don’t want him to die.
+----Punchline----
+ I just never wanna see him again.
+
+
+Similarity Score:0.375
+Percent Error Setup:26.327530187672764%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:26.24795193883124%
+----Setup----
+ Just gone.
+The decisions some people make.
+ I don’t make good decisions.
+ Ever agree to something that you wonder how you agreed to that? My brother-in-law was talking about his motorcycle, and said to me, “You should go for a ride with me on my motorcycle.”
+ I was like, “Yeah, it’d be fun to go for a ride.”
+ He goes, “All right.
+----Punchline----
+ Let’s go.”
+
+
+Similarity Score:0.5538461538461539
+Percent Error Setup:36.559817661607106%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:40.07646095030038%
+----Setup----
+ I’m like, “What is happening?”
+ So, we get to his motorcycle.
+ He’s sitting on it.
+ [mimics motor revving]
+ “Hop on.”
+----Punchline----
+ Okay.
+
+
+Similarity Score:0.6086956521739131
+Percent Error Setup:78.5121963047379%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.79628618241398%
+----Setup----
+ I don’t think anyone has done that.
+ So, I tried to hop.
+----Punchline----
+ [singing]
+
+
+Similarity Score:1.0666666666666667
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:86.17149098853085%
+----Setup----
+ Hopping down the Harley trail Hop, you say.
+ I don’t even know how to get on the motorcycle.
+----Punchline----
+ I’m like, “Can we rig up a footstool and a pulley system?”
+
+
+Similarity Score:0.9375
+Percent Error Setup:80.55865379952476%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:70.4991807755325%
+----Setup----
+ I finally get behind him, and I notice he doesn’t have a back bar.
+ It’s just me and street.
+ “Hi, street.”
+----Punchline----
+ So, we haven’t left yet, and I don’t know how it works, so I put my arms around him.
+
+
+Similarity Score:0.8095238095238095
+Percent Error Setup:77.48896755734445%
+Percent Error Punchline:126.8817204301075%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:61.2801747678864%
+----Setup----
+ And he was like, “No, no, no.
+ No.
+ No, that ain’t happening.
+ What are you, joking? You’re joking.
+----Punchline----
+ Okay.”
+----Tagline(s)----
+ I’m like, “Yeah, I’m joking.”
+
+
+Similarity Score:3.142857142857143
+Percent Error Setup:80.55865379952476%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:263.34563345633455%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:74.18678317859093%
+----Setup----
+ He’s like, “You got little handles by your seat.”
+ I’m like, “I know that.
+ What?”
+ It’s these two little handles.
+ You’re not allowed to sit in the car without some harness system holding you in, but they’ll let you sit on a motorcycle like this? Good luck! So, he tears away, and I’m like: [screams]
+ I use every ounce of gut muscle I have to work my way back up.
+ He’s starts herking and jerking, our helmets started clicking.
+ Click, click, click.
+ “What are you doing? That’s Morse code for stop.”
+ Click, click.
+ Click, click.
+ Click, click, click.
+ Instead of stopping, he guns the gas.
+----Punchline----
+ I go so far back, I feel my underwear waistband flip up.
+
+
+Similarity Score:0.5546218487394958
+Percent Error Setup:8.462247223703983%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:9.706171490988535%
+----Setup----
+That’s not the scariest experience I’ve had in a vehicle.
+ When I was a kid… one time, my parents let the four oldest boys in our family take the station wagon to go bowling.
+ It’s a true story.
+ Mike is our oldest brother.
+ He was like 17 at the time.
+ And there was Pat and Dennis and then me.
+ I was like 9.
+ I’m in the back.
+ [grunts]
+ We were late, and Mike said, “I told Mom and Dad we’d have the car back at 9.”
+ And I was like: [mumbles]
+----Punchline----
+ “Is that a moon?”
+
+
+Similarity Score:0.4583333333333333
+Percent Error Setup:6.886183987197524%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:11.497542326597484%
+----Setup----
+ I’m 9.
+ He’s like, “They’re gonna be mad.”
+ I was like, “Eh.”
+ I didn’t know what else to contribute.
+----Punchline----
+ “Do your best under the circumstances.”
+
+
+Similarity Score:0.8888888888888888
+Percent Error Setup:79.53542505213133%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:75.10868377935554%
+----Setup----
+ That’s what I’d been taught.
+ So, I was like, “Mike, I know you wanna get home quickly, and I don’t know how to tell you, but I have to pee.”
+ He goes, “That’s tough, ain’t it, Brian?”
+ “Yeah.”
+ I never got that reaction out of Mom or Dad.
+ “Oh, we got a new driver.
+ It’s tough.”
+ I said, “Mike, I’m serious.
+ I have to pee.”
+ And he goes, “Deal with it.
+ Deal with it, Brian.”
+----Punchline----
+ “Okay.
+----Tagline(s)----
+ Mike, I’m having trouble dealing with it.
+
+
+Similarity Score:0.6666666666666666
+Percent Error Setup:22.234615198099032%
+Percent Error Punchline:77.31182795698925%
+Percent Error TagLine:367.15867158671585%
+Percent TagLine Number:65.80565805658057%
+Percent Error Total:19.79464773347897%
+----Setup----
+ Do you have a backup plan?”
+ I swear he goes, “Pee out the back window.
+ Pee out the back window, Brian.”
+----Punchline----
+ My other two brothers go, “We’ll hold him.”
+
+
+Similarity Score:0.3870967741935484
+Percent Error Setup:77.48896755734445%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:71.4210813762971%
+----Setup----
+ Instead of talking him out of this ludicrous idea… they think it’s worth a shot.
+ So, operation pee out the back gets underway.
+ I get on my knees in the back of the station wagon, Mike’s driving like a bat out of hell, and Pat and Dennis grab on to my belt loops.
+----Punchline----
+ There’s a secure connection.
+
+
+Similarity Score:0.4745762711864407
+Percent Error Setup:44.74564764075458%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:45.60786455488804%
+----Setup----
+ So, we all start moving our way back to the back window, this big three-headed blob.
+ I’m thinking, “I don’t believe we’re doing this.”
+ Then I hear that dreaded: [mimics whirring sound]
+ Huh.
+----Punchline----
+ Now, when we start this process, there are no cars behind us.
+
+
+Similarity Score:0.425531914893617
+Percent Error Setup:65.21022258862324%
+Percent Error Punchline:47.473118279569874%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:56.67067176406335%
+----Setup----
+ So, they hang on, I get out up over the tailgate.
+ I look out, now we’re leading a convoy.
+ And my brothers won’t pull me back in.
+ So, I start peeing.
+----Punchline----
+ This guy puts on his windshield wipers.
+
+
+Similarity Score:0.4
+Percent Error Setup:67.25668008341012%
+Percent Error Punchline:9.247311827956999%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:63.12397596941561%
+----Setup----
+ I don’t know if you’ve ever peed out of the back of a station wagon at 60 miles an hour, but there’s a surprise involved.
+ It don’t go that way.
+----Punchline----
+ It starts that way a stream, but it comes back a storm front.
+
+
+Similarity Score:0.7555555555555555
+Percent Error Setup:68.27990883080355%
+Percent Error Punchline:58.81720430107526%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:58.51447296559257%
+----Setup----
+ It’s this weird auto-aerodynamic nightmare.
+ It’s El Niño for El Niño.
+ And I’m not just peeing on me.
+ I’m peeing on Pat and I’m peeing on Dennis and I’m peeing on the back of Mike’s head.
+ They go, “Quit peeing on us or we’ll let you go!”
+ “I can’t stop!”
+   You guys are great.
+----Punchline----
+ Thank you.
+
+
+Similarity Score:0.4
+Percent Error Setup:41.67596139857427%
+Percent Error Punchline:65.96774193548387%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:44.68596395412342%
+----Setup----
+ Thank you.
+ You guys are wonderful man.
+ Thank you very much for coming out.
+ I hope you had a good time.
+ I know I did.
+ Good night.
+I don’t know what it– I don’t know– I don’t know what it is with people.
+ I’m gonna say that more cleanly.
+ Hang on a second.
+ I don’t know… 
+[speaking gibberish]
+ Hang on, folks.
+ We’re almost done.
+----Punchline----
+ Two more bits.
+
+
+Similarity Score:0.6764705882352942
+Percent Error Setup:34.513360166820235%
+Percent Error Punchline:54.623655913978496%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:37.310759148006554%
+----Setup----
+ Three more bits.
+ I don’t know what it is with people.
+ That’s not that hard to say.
+----Punchline----
+ All right, gotta do it again.
+
+
+Similarity Score:1.52
+Percent Error Setup:81.5818825469182%
+Percent Error Punchline:20.59139784946237%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:76.95248498088476%
+----Setup----
+ Where was I? I can’t be standing in a different place.
+ Here.
+----Punchline----
+ I don’t know what it is with people.
+
+
+Similarity Score:1.9090909090909092
+Percent Error Setup:86.69802628388537%
+Percent Error Punchline:2.0967741935483772%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:79.7181867831786%
+----Setup----
+ I’m gonna make it an absolute nightmare for the editor.
+ “How the hell are we gonna put that… He was standing… He’s looking into a pink light… No, we need it.
+----Punchline----
+ We need the transition.
+
+
+
+
+Similarity Score:0.32432432432432434
+Percent Error Setup:67.25668008341012%
+Percent Error Punchline:43.27956989247313%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:65.88967777170944%

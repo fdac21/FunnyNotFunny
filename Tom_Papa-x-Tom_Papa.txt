@@ -1,0 +1,3081 @@
+----Setup----
+
+----Punchline----
+
+
+
+Similarity Score:0.0
+Percent Error Setup:99.45807527393997%
+Percent Error Punchline:90.03285870755751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:98.97758552890286%
+----Setup----
+[presenter]
+ Ladies and gentlemen, Tom Papa.
+----Punchline----
+[mouths]
+
+
+Similarity Score:0.2857142857142857
+Percent Error Setup:96.74845164363984%
+Percent Error Punchline:90.03285870755751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:96.42154935116005%
+----Setup----
+[mouths]
+Thank you.
+ Thank you.
+ Thank you.
+ Look at you.
+ Look at you.
+----Punchline----
+ New Jersey.
+
+
+Similarity Score:444.0
+Percent Error Setup:93.49690328727965%
+Percent Error Punchline:70.09857612267251%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:92.33189146677154%
+----Setup----
+Yeah! That’s why I’m here.
+ It’s the people.
+ It’s definitely not the weather.
+ It’s the people.
+Thank you so much for coming out.
+ I’m proud of you.
+ Good job getting out of the house.
+----Punchline----
+ Good job.
+----Tagline(s)----
+
+
+Similarity Score:1150.054054054054
+Percent Error Setup:82.11648404001906%
+Percent Error Punchline:70.09857612267251%
+Percent Error TagLine:5.208333333333336%
+Percent TagLine Number:77.08333333333334%
+Percent Error Total:81.0853322847031%
+----Setup----
+ It’s nice to be back.
+ It really is.
+ I’ve been living in LA now.
+ Uh.
+ It’s a little scary.
+ The planet doesn’t want us anymore.
+ We’re on fire… all the time.
+ My kids just run out on the lawn and catch ashes on their tongues, like it’s snowflakes.
+ “Thank you, Santa.”
+ I’m like, “Spit that out.
+ It’s our neighbor’s house.”
+The planet doesn’t want any of us though, right? Everyone’s in trouble now.
+ Houston got it a couple times, Florida… Uh.
+----Punchline----
+ The Bahamas, Puerto Rico… How about the poor people in Staten Island? Oh, man.
+----Tagline(s)----
+There are people there right now… putting on their pajamas… knowing they’re going to wake up in Staten Island.
+
+
+Similarity Score:0.3793103448275862
+Percent Error Setup:56.10409718913768%
+Percent Error Punchline:49.50711938663746%
+Percent Error TagLine:1795.8333333333333%
+Percent TagLine Number:54.166666666666664%
+Percent Error Total:40.6999606763665%
+----Setup----
+ People in the Bahamas just had a fundraiser for the people in Staten Island.
+ Thoughts and prayers, guys.
+But thank you for coming out.
+ You look beautiful.
+ I hope you’re doing alright.
+ You look happy.
+ I travel the whole country and everybody’s freaking out.
+ Everywhere I go, people are doing deep yoga breaths in the airport.
+ They’re downloading meditation apps on their phone, just trying to keep it together.
+ Calm down, you’re doing great.
+ You’re doing great.
+ I’m telling you, you’re doing great.
+ Life isn’t perfect.
+ It never was, and it never will be.
+ We’ve all got stuff to deal with.
+ You’re doing great.
+So what, you’re fat.
+ Who cares? We’re all fat.
+ You’re either really fat, kind of fat, or trying not to be fat.
+ Either way, fat’s coming.
+ And that’s alright.
+ Don’t hate on it.
+ You know why you’re fat? Because you’re winners.
+ Yeah, first generation, born at the right time, doesn’t have to fight for survival.
+ Food always within arm’s reach, perfect temperature everywhere you go.
+ Every day you wake up in America, it’s a perfect 72 and snacky.
+ So, yeah, we’re going to be a little chubby.
+ Big deal.
+ Don’t hate on it.
+ Don’t hate on it.
+ Accept you.
+ This is it, guys.
+You’re a grown-up.
+ You’re an adult.
+ This is what you ended up looking like.
+ Game over.
+ So, you don’t have the body of an Olympic athlete.
+ Well… you’re not an Olympic athlete.
+ You’re Don from Sales.
+ You got a fat ass, you wear khakis, you hike them up when you walk.
+ We still like ya.
+ So, don’t tell me what you’re quitting.
+ I don’t care.
+ I don’t care what your low self-esteem… decided you should quit this week.
+ “I’m quitting meat.”
+ “I’m quitting gluten.”
+ I don’t care.
+ You’re my friend.
+ You looked awful yesterday.
+ You’re going to look a little worse tomorrow.
+----Punchline----
+ Yeah.
+
+
+Similarity Score:1.7540453074433657
+Percent Error Setup:66.37089090042878%
+Percent Error Punchline:80.065717415115%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:57.96303578450649%
+----Setup----
+Why are we even talking about this? Let’s get some ice cream and enjoy the day.
+My wife quit sugar in January because she ate cookies like a monster… all through December, and on January 1st, came marching into the kitchen: “That’s it.
+ I’m never eating sugar again.”
+ [chuckling]
+ “Yes, you are.”
+ And you’re going to eat more than you ever ate before.
+ Not because you’re weak, but because you’re a human being and you get sad sometimes.
+ And to stop yourself from slitting your own throat, you eat a cookie once in a while.
+I have friends in my life that don’t eat bread anymore.
+ They don’t eat bread.
+ [slower]
+ They don’t eat bread.
+ They’re going to lose three and a half pounds.
+ No one’s ever going to know.
+----Punchline----
+ And they don’t eat bread.
+
+
+Similarity Score:0.5223880597014925
+Percent Error Setup:30.63363506431634%
+Percent Error Punchline:40.197152245345016%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:31.49823043649233%
+----Setup----
+Could you imagine? No toast in the morning with butter for the rest of your life? Kill yourself.
+ Make some room for people who know how to live.
+ I know it’s hard.
+ I know, I feel the pressure too.
+ Everyone in your face, telling you to do more, lose more weight, be better… I get it.
+ I get it.
+ They show you the ads for the gym, they show you to try to get you to join up, like the “Before” and “After” guy.
+ I always like the “Before” guy, frankly.
+ Yeah, he looks a little chubby.
+ He also looks like he has a box of donuts and a lot of friends.
+ That “After” guy’s got a weird look in his eye.
+ Looks like he takes his shirt off when he shouldn’t.
+They’re always getting in our face: “Yeah, well, other generations were skinnier.”
+ Yeah? Well, their lives were miserable.
+ Gandhi didn’t look like Gandhi because he was killing it at SoulCycle.
+ He had a horrible life.
+ He wore a diaper and ate butterflies for lunch.
+Every show has a makeover segment on it now, right? They always take some woman, tell her she’s not good enough, and, therefore, no women watching are good enough.
+ It’s always a mom… Always a mom.
+ Just a worker.
+ Right? Fifteen kids and 20 animals… driving around in her Cheerio-covered minivan.
+ She didn’t think her life was going to go this way, no.
+ She thought she was going to be a princess.
+ That’s what they told her her whole life: “You’re a princess.”
+ And on her wedding day, she thought she made it.
+ They dressed her up like a snow queen.
+ They took pictures of her next to the duck pond.
+ She thought she did it.
+----Punchline----
+ She woke up the next morning, they took her veil away, gave her some sweatpants and told her to get to work.
+
+
+Similarity Score:0.2939297124600639
+Percent Error Setup:57.1581705574083%
+Percent Error Punchline:129.24424972617743%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:60.007864726700745%
+----Setup----
+But she doesn’t care.
+ She loves this family, dedicates her life to these people.
+ She’s an angel here on Earth.
+ And what does her family do in return? They pop out of a pantry on national TV and scream in her face.
+ ‘We’re giving you a makeover!”
+ “I thought I looked okay.”
+ “No, you’re disgusting.
+ We had a meeting when you were making us lunch.
+ We decided we’re not going to look at this anymore.”
+Then they drag her ass to The Today Show.
+ They put her in clothes she could never afford or wear.
+ She can’t wear heels this big.
+ They’re going to get stuck in the field when she’s putting up the soccer nets.
+ Hair and makeup she could never replicate on her own without an extra three hours in the morning before the school bus comes.
+ This is the worst part: On national TV, she comes waddling out in her heels, trying not to fall.
+ Her whole family’s in front of her, they start crying, in her face.
+ “Oh my God, you’re beautiful.
+ You look nothing like you.”
+Cut her a break.
+ You’ve got to be nicer to each other.
+ You’ve got to be nicer to yourself.
+ This is hard.
+ It’s hard what we’re doing, isn’t it? It’s hard being a person.
+ Yeah.
+ It’s hard.
+ When I was little, I used to look at grown-ups with money and cars and think, “Wow, that looks fun.
+ I can’t wait.”
+ Then I was an adult for six weeks.
+ I’m like, “This blows.
+ “I have to pay for everything.”
+ Just the physical maintenance of you every day, right? It’s endless.
+ Just the brushing and cleaning and wiping… hopefully every day.
+ It’s like you’re your own pet.
+ And some people don’t take care of their pet very well.
+ You see them on the sidewalk, their hair’s all matted, looks like they ate out of the garbage.
+ “Where’s your collar, Dan?”
+ “Aaah!”
+God.
+ Just the check list of stuff you’ve got to do to get out of the house.
+ I mean, look around tonight.
+ Right? Look around.
+ No one’s killing it in here.
+ You look alright, but no one’s like, “Wow, look at that guy.”
+ And still, to look like this took some doing, didn’t it? Yeah.
+ You made choices, put things back…[chuckling]
+ I was walking down Sixth Avenue in New York, this businessman walking the other way.
+ So well thought out, everything immaculate: suit, tie, leather shoes match his briefcase… glasses… not a hair out of place.
+ Fly open, one ball out.
+ I understood.
+ He did everything on the list, didn’t check that one box.
+ Just on his way to a meeting.
+ Probably on his way back from a meeting, actually.
+ No, that’s the other thing.
+ As an adult, nobody cares.
+ Nobody helps you.
+ Probably looked him in the eye in the meeting.
+ “I’m not telling him, I got my own problems.
+ I think I’m wearing my wife’s underwear today.
+ I don’t know what the hell’s going on.”
+ His wife probably kissed him goodbye in the morning.
+ “So long, honey.
+ What a jackass.
+ He’ll figure it out.
+ If I’ve got to see it, so should everybody else.
+ Wouldn’t hurt to get a little sun on that guy once in a while.”
+[sighs]
+ No one cares.
+ We’re totally alone.
+ You are.
+ Even the people closest to you only get so close, right? The people you sleep next to, only so close.
+ You’ve got to give yourself little pep talks in your head.
+ All day long, like a crazy person.
+ ‘Cause you’re the only one looking out for you.
+ “I’ve got my wallet, got my cell phone.
+ Okay, okay.
+ [sighs]
+ Where are my keys? Where are my keys? Okay, I’ve got my keys.
+ Alright, it’s going to be a great day.
+ It’s going to be a great day.”
+ The only difference between you and a crazy person is they say it out loud on the street.
+ [loudly]
+ “I’ve got my wallet, got my cell phone… Going to be a great day!”
+ You’re looking at him across the street, “This guy’s nuts.
+ We don’t yell like that.
+ [chuckling]
+ No, we don’t.
+----Punchline----
+ We should get some ice cream.”
+
+
+Similarity Score:2.1420289855072463
+Percent Error Setup:270.13458789899954%
+Percent Error Punchline:30.230010952902518%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:252.7329925285096%
+----Setup----
+ No one cares.
+Even my iPhone turned on me, my only true friend in the world.
+ It’s taking all the photos I take and putting them in categories of its own choosing.
+ It considers my fat face and my normal face to be two different people.
+ And there’s a lot more of the fat face guy.
+ Apparently, he owns the phone.
+You ever catch yourself on the phone, that undershot?[audience groaning]
+[gasps]
+ You don’t even think you’re fat, and you’re like, “I’m a monster.”
+ “How are they not just hitting me with a dart when I come out of the front door… and taking me to the zoo to be identified?”
+It’s hard.
+ I don’t know why we don’t feel like we’re doing great.
+ You work hard, do all the stuff you’re supposed to be doing.
+ You’re doing your best, and still, you feel like it’s not enough.
+ I think it’s social media.
+ I think since social media came out.
+ Before social media, I thought I was kicking ass.
+ I really did.
+ Now, every time I open my phone, someone’s in my face.
+ “Are you killing it today?”
+ “Are you living 100% maxed out energy?”
+ “Are you living your best life?”
+ No, I’m not.
+ I’m not doing any of those things… because that’s not normal.
+ I don’t care what The Rock’s Instagram says, that’s not normal.
+You know what’s normal? How you feel right now.
+ Right now, in your funny little gassy bodies.
+ A little achy, a little tired, light-headed… taking deep breaths, so you don’t pass out in front of your friends.
+ Worried about your bills, worried about how you’re getting home, worried about that thing you found on your ass.
+ That’s normal.
+ And it’s exhausting and that’s normal too.
+ Being tired, which I know you are all the time.
+ That is normal.
+ You don’t need a five-hour energy drink.
+ You need to lay down once in a while.
+[audience whooping and applauding]
+So, we beat ourselves up about it all the time.
+ Right? All my friends… “I don’t know what’s wrong with me.
+ Two o’clock in the afternoon, every day.
+ I get so tired.
+ What’s wrong with me?”
+ Nothing.
+ Nothing.
+ You woke up in the dark… went to a job you don’t enjoy… Already put in five hours.
+ They gave you 20 minutes for lunch, and now you need a nap.
+----Punchline----
+ And they won’t let you.
+
+
+Similarity Score:0.22900763358778625
+Percent Error Setup:109.72486898523105%
+Percent Error Punchline:40.197152245345016%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:100.90444357058593%
+----Setup----
+…close your eyes for ten seconds so maybe you’ll get through the goddamn day.
+You’re doing fine.
+ Social media plays with your head, though.
+ It does.
+ You know? It has me, too.
+ I read all these articles… People are getting clinically depressed because they’re looking at other people’s lives on social media, and they start to think that their life pales in comparison.
+ Calm down.
+ First of all, no one has a great life.
+ No one.
+ No one.
+----Punchline----
+ They are posting their best moments, with a filter, to make you feel shitty.
+
+
+Similarity Score:0.32608695652173914
+Percent Error Setup:58.2717960933778%
+Percent Error Punchline:49.50711938663746%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:52.96893432953205%
+----Setup----
+“Look at us at the Eiffel Tower.
+ Suck it, guys.”
+ Yeah, they don’t show them for three hours stuck at Baggage Claim, or sitting in the hotel for five days because the husband’s got diarrhea from a French tart he shouldn’t have eaten.
+ Yeah, that’s happening too, trust me.
+And if your friend is douchey enough to post 50 pictures of their Hawaiian vacation while they know you’re at work, don’t get depressed, get even! Start posting pictures of you at their house.
+ “Bob just peed in the pool.
+ LOL.”
+ “Sorry about all the people.
+ Might want to change the sheets when you get back.”
+[chuckling]
+ What are we doing to ourselves with this social media? Really? What are we doing? These are people I chose to follow.
+ My friends and family.
+ and I never get off Instagram or Facebook and think: “Wow, good for everyone!”
+ No, I want them all to die.
+ When I’m on Instagram, it’s like I’m in a traffic jam with everyone I know.
+ When you’re in traffic, you’re like, “Look at this jerk-off.
+ Out of my way…” That’s how I am on Instagram.
+ “Oh, ‘We’re partying again.
+’ They’re alcoholics, that’s what they are.”
+ “Oh, they’re in love.
+ No, they’re not.
+ He cheated on her last year.
+ I know it.”
+We’ve got to control it, because it does get to you.
+ It does.
+ You see people with money and fame and you think, “What’s wrong with my life? Where did I screw up? Why aren’t I living like that?”
+ No.
+ No, that’s an illusion.
+ A simple life is what wins.
+ A simple life.
+This is a life.
+ This is a life.
+ You run out of toothpaste.
+ You need more toothpaste.
+ You tell yourself that for a week and a half.
+ Standing on it, squeezing it, pushing through the hole from the inside.
+ Just trying to get one strand on your brush, so you don’t feel like a monster out in the world.
+----Punchline----
+ You finally stop at CVS on the way home.
+
+
+Similarity Score:0.16265060240963855
+Percent Error Setup:74.4997617913292%
+Percent Error Punchline:0.3285870755750262%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:69.72080220212348%
+----Setup----
+   Yeah, you feel like a winner.
+ Yeah.
+ You are.
+Brad Pitt and Angelina Jolie, right? That was the perfect couple we were all supposed to emulate.
+ Two perfect people in this relationship.
+ Look at their life.
+ Your life, your simple life, so much better.
+ You don’t want that life.
+ Marriage: over.
+ Good, they deserved it.
+ That was arrogance.
+ Take two perfect people, put them in one relationship? That’s not going to work.
+ You want your marriage to last, you need a little funny-looking in it.
+----Punchline----
+ No, you need to look across the table and think, “Where are you gonna go?”
+
+
+Similarity Score:0.3106796116504854
+Percent Error Setup:52.852548832777515%
+Percent Error Punchline:59.47426067907996%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:47.34565473849784%
+----Setup----
+When you’re young and stupid, you think you want a supermodel.
+ No, you moron, you don’t want some beautiful woman asking to be taken to Europe.
+ You want a girl with a crooked eye asking if you have jumper cables.
+ That’s your girl.
+ That’s a keeper.
+----Punchline----
+ She’s not running out on you, she’s limping around in circles in the parking lot.
+
+
+Similarity Score:0.5161290322580645
+Percent Error Setup:75.07146260123868%
+Percent Error Punchline:59.47426067907996%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:68.305151395989%
+----Setup----
+These are the good times.
+ You hear people talk about “the good old days” all the time.
+ Lately, “If we could just go back to the good old days.
+'” “The good old days.”
+ Are you kidding me? These are “the good old days.”
+ The good old days? We’re just figuring out how to do stuff now, and we don’t even have it figured out yet.
+ You want to go to the good old days? They didn’t know how to do anything back there.
+ Nothing.
+You ever see the first bicycle ever made? I don’t know how to make anything.
+ But I know you don’t take the smallest wheel you can find… and put that in the back, and the biggest wheel on earth… and put that up front.
+ It’s a bad bike.
+ You couldn’t even get in the seat by yourself.
+ Your friends had to fling you up there by the ends of your handlebar mustache… and hope you landed on the seat.
+ And once you started pedaling, you couldn’t stop.
+ You pedaled till you died.
+ And that was okay, because your life expectancy in the good old days… twenty-eight years old.
+Please! A horrible time to live.
+ Hospitals were a nightmare.
+ All they did was cut your leg off.
+ Didn’t matter what you had.
+ Broken arm, the flu… You walked in, you hopped back out.
+No medicine.
+ No medicine.
+ No Advil.
+ Could you imagine? A life without Advil? [gasps]
+ You ever go to the cabinet and realize you’re out of Advil? [gasps]
+ I just lay on the ground and hope to die.
+ What are you going to take, that 12-year-old Benadryl from the back? They had no TUMS.
+ No TUMS! You ate, got gassy and exploded.
+ These are the good old days.
+Look at all your outfits.
+ Look at these beautiful fabrics you’re wearing.
+ And I know you had options.
+ This isn’t your only outfit.
+ No, not in the good old days.
+ One hard woolen outfit.
+ Hard leather shoes made out of pig livers… and burlap underpants.
+ Burlap underpants! Ever see black and white pictures from back then? They’re all angry, just staring at the camera.
+ Like, “What’s wrong with those people? Why are they so unhappy?”
+----Punchline----
+ Burlap underpants.
+
+
+Similarity Score:0.4032697547683924
+Percent Error Setup:97.2606002858504%
+Percent Error Punchline:70.09857612267251%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:87.61305544632324%
+----Setup----
+Awful!No plumbing.
+ You went into an outhouse.
+ Into a hole in the ground… and used leaves and a stick as toilet paper.
+ Couldn’t shower off.
+ It wasn’t invented yet.
+ If you wanted to get clean, once every two weeks, you dipped in a pickle barrel in the middle of the kitchen with your family.
+ [exclaims in horror]
+ Could you imagine? Could you imagine going last? [exclaims in horror]
+ A pickle barrel filled with hair and vagina water.
+[audience groaning]
+And you were cleaner coming out than when you went in.
+----Punchline----
+ Put on your burlap underpants, climbed on your bike and went to town.
+
+
+Similarity Score:0.9019607843137255
+Percent Error Setup:52.31062410671748%
+Percent Error Punchline:39.539978094194964%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:47.8568619740464%
+----Setup----
+I’ve got to say, for this taping… you guys are kicking ass.
+[whooping]
+Good people.
+ Good job.
+ Good job.
+ If you think you’re going to be on camera, probably not.
+ Some of you.
+ You guys are very bright up front.
+ And you look really high.
+ [Tom chuckling]
+ Are you? You are.
+ Yeah, you are.
+ He’s frozen right now.
+ He’s like, “Holy shit! “The TV is talking to me.”
+ It’s alright.
+ It’s alright.
+ You look good.
+ You’re doing well.
+ Deep breaths, deep breaths… 
+[chuckling]
+ But you are going to be on camera.
+----Punchline----
+ And you’re going to see what I’m talking about.
+
+
+Similarity Score:0.42424242424242425
+Percent Error Setup:51.76869938065746%
+Percent Error Punchline:0.3285870755750262%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:49.39048368069209%
+----Setup----
+Money, that’s the big one.
+ Money.
+ That’s the big stress.
+ You know? That’s what gets people down more than anything else.
+ Right? You’re obsessed.
+ “We need more money, gotta get more money.
+ Never have enough.
+ More money… I need more money!”
+ But that’s a matter of perspective too.
+ Look, you don’t realize… We didn’t realize when we were young and poor, how rich we really were.
+ Right? Because you had freedom, and you’ll never have it again.
+ Yeah! Look, we all want money.
+ We all do, right? You want as much as you can get.
+ You want to take care of your family and your friends, to be able to get out of trouble, don’t want to be stressed week-to-week.
+ You want to be able to buy something stupid once in a while without your spouse calling you a moron.
+ Right? If you’re a 40-year-old man and you want to buy an Xbox, you should buy an Xbox.
+ You don’t need your wife calling you a moron.
+ You’ll find that out in two weeks’ time… when you realize you don’t have any time for an Xbox because you’re a 40-year-old man.
+I made a horrible business decision.
+ I got married and had two children.
+ Horrible idea.
+ I love them, but they just grow and get bigger and need more money and more money.
+ At this point, it’s like I’m living with two unemployed coke addicts.
+ Seriously, they come into my office every morning: “Hey, you got more money for me?”
+ “What happened to the change from yesterday?’ “I don’t know.
+ The economy, right?”
+And I spoil them.
+ I spoil the hell out of them.
+ Because they’re girls.
+ They’re two girls.
+ So, forget it.
+ They got me.
+ Oh, they got me.
+ I hope they don’t watch this and realize.
+ No, they got me.
+ And, you know, my father had money, but he didn’t spoil us, so I’m going the other way.
+ You know? My father made money, but he was like, “I’m not going to give it to children.
+ I’m going to spend it on what I want to spend it on.”
+ Could you imagine living in a time where the children weren’t in charge? Sounds like a magical time to be alive.
+ He took us to an amusement park once, he saw the line… He said, “Just look at it through the fence, you get the idea.”
+My daughters make me take them out for ice cream three times a week.
+ And I do it, like an idiot.
+ Oh, they’re so entitled.
+ They walk into that shop with the little sample spoons, the worst invention in retail.
+ Just… Nom, nom, nom.
+ “No.
+ No” “Let me see if you did better with that one.”
+ Nom, nom, nom.
+ “No.”
+ My father took us out for ice cream once.
+ “Everyone gets one scoop of vanilla, no cones.
+ Put out your hands.”
+ [in English accent]
+ “Thank you, Father.
+----Punchline----
+ This is the most wonderful of days.”
+
+
+Similarity Score:0.7157464212678937
+Percent Error Setup:160.66579323487375%
+Percent Error Punchline:20.26286966046002%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:149.9803381832481%
+----Setup----
+[sighs]
+ Man… But now the responsibility when you have these people… Sometimes late at night, when my wife is asleep and the kids are asleep and the animals are just dreaming peacefully, without a care in the world… and I’m standing naked, alone in the hallway, rapt with fear, because I know their lives depend on me.
+ And I can’t tell anyone about it, I can’t complain.
+ I just have to swallow the stress and slowly lose my hair.
+ I can’t wake my daughter up at two o’clock in the morning and just sit on the end of her bed.
+ “Hey, honey are you awake? Hey! You ever feel like you’re not going to make it? Do you ever feel like you just can’t do it anymore? Forget about it, get some sleep.
+ I’ll see you at breakfast.”
+----Punchline----
+ Brutal.
+
+
+Similarity Score:0.34285714285714286
+Percent Error Setup:25.214387803716054%
+Percent Error Punchline:80.065717415115%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:28.43098702320094%
+----Setup----
+   No.
+ I’ve just got to work.
+ I’ve just got to work, the non-stop working.
+ Oh, God.
+ Just to go back to those easy days when you’re just single, driving around in your little shitty car.
+ Oh! Do you remember your first car? Yeah, what was it?[man]
+ ’86 Subaru.
+’86 Subaru.
+ [wistful]
+ Ohhh.
+ Where’d you get it? Off a friend.
+ Alright, it was an ’86 Subaru.
+----Punchline----
+ What year are we talkin’? 1995.
+
+
+Similarity Score:0.2702702702702703
+Percent Error Setup:63.69104335397808%
+Percent Error Punchline:30.230010952902518%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:62.170664569406206%
+----Setup----
+ Subaru before they were cool.
+ Yeah.
+ There weren’t a lot of hikers and lesbians driving them back then.
+ No way.
+ What color was it? Silver.
+ That’s pretty cool.
+ Was this in New Jersey? Yeah? Cruising around… all cool… Weed in your pocket in your Subaru.
+ Remember what you paid for it?[man]
+ Five hundred.
+Five hundred dollars? That was a lot of money back then.
+ Oh, but you loved it, didn’t you? Oh, God.
+ How about you, high guy, did you…? Do you remember your first car?[replies indistinctly]
+Ford F-150.
+ Hot damn.
+ That wasn’t here in New Jersey.
+ No.
+ Where was it?[man]
+----Punchline----
+ West Virginia.
+
+
+Similarity Score:0.27184466019417475
+Percent Error Setup:45.80752739399714%
+Percent Error Punchline:70.09857612267251%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:47.34565473849784%
+----Setup----
+ Good for you.
+ Yeah, you had to have a truck there, or they’d kick you out of the state.
+ Imagine if you rolled up in the Subaru.
+----Punchline----
+ No way! “We saw a gay guy in the center of town.”
+----Tagline(s)----
+My first car was a Toyota Corolla.
+
+
+Similarity Score:0.7346938775510204
+Percent Error Setup:84.82610767031919%
+Percent Error Punchline:29.572836801752466%
+Percent Error TagLine:658.3333333333333%
+Percent TagLine Number:54.166666666666664%
+Percent Error Total:74.95084545812033%
+----Setup----
+Baby Shit Orange.
+ That’s what it said in the brochure.
+ And I loved it.
+ It was awful.
+ If you have a horrible car right now… be proud of it, because you have freedom and you’ll never have it again.
+ You can do anything you want with a shit car.
+ Find a Darth Vader head… If you like Star Wars, glue it right to the hood.
+ Can’t do that with a leased Mercedes.
+ No, they won’t let you.
+ You can with a Subaru.
+ Put on a Vader mask, get in the Vader-mobile, go the wrong way down the highway.
+ Everyone’s getting out of your way, because they know you’re poor and have nothing to lose.
+[sighs]
+ But you need dreams.
+ You need dreams.
+ You have to have goals at the end of all this.
+ Obtainable, real goals… Lower your expectations.
+ Really.
+ No big jets and helicopters and all the rest… When this is all over for me, my dream, my dream… Bagel shop at the beach.
+ Yeah, not owning one, working in one.
+ I don’t need that kind of pressure.
+ Not a good beach, either.
+ Jersey Shore in the winter.
+ Yeah.
+ This dream’s coming true.
+ All I have to do is not wet myself in the interview.
+ I’m getting this job.
+ I want to make bagels for you in March at the Jersey Shore.
+ “Did you just wet yourself?”
+ “No, I did not.”
+ “Welcome aboard.”
+They say you should visualize your dreams.
+ I do, I see it.
+ I fantasize about it all the time.
+ Who else works there? Juan, he’s 72.
+ He makes the bagels.
+ He rides his bike there.
+ I throw in some Spanish, so he knows I’m cool.
+ “Yo es muy guapo.”
+ “You’re an idiot, Tom, but I like you.”
+ And Sean, you need that guy.
+ He’s a pothead, you need that.
+ And Dolores, she works the register.
+ A little older now, a little sloppy in the caboose… Doesn’t have a good dental plan, eats a lot of day-old bagels, but, you know… Beggars can’t be choosers.
+ It’s Jersey Shore in the winter.
+----Punchline----
+ Once in a while, she drops something at the register, bends down to pick it up, Juan and I catch each other’s eye, we think, “Yeah, I would.”
+
+
+Similarity Score:0.9757412398921833
+Percent Error Setup:85.33825631252978%
+Percent Error Punchline:189.0470974808324%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.6578843885175%
+----Setup----
+That’s my dream.
+ But not now, not now, not now… I’ve got to get the kids out.
+ They’ve got to move out.
+ I’ve got to do all that.
+ That’s another weird thing, I just realized I can’t believe they’re leaving.
+ I have a seventeen-year-old.
+ She’s leaving.
+ It struck me.
+ I was like, “Wait a minute.
+ Wait a minute.
+ I didn’t want any of this.
+ I didn’t want this house.
+ I didn’t want this dog.
+ I didn’t want to live in this town.
+ I did this for you.
+ And now you’re just gonna leave?”
+ But then I thought, “But wait, when they’re both gone, what’s stopping me? What’s stopping me from going back to the life that I had before? How much can a Corolla be on eBay?”
+----Punchline----
+ I’m going to get a backpack, fill it with everything I liked when I was 19: some Van Halen CDs, a little weed… I’m going to walk up the driveway and blow the house up behind me like Die Hard.
+----Tagline(s)----
+
+
+Similarity Score:0.27218934911242604
+Percent Error Setup:31.17555979037637%
+Percent Error Punchline:308.6527929901424%
+Percent Error TagLine:5.208333333333336%
+Percent TagLine Number:77.08333333333334%
+Percent Error Total:13.605977192292567%
+----Setup----
+ Yeah.
+ To be honest… I don’t want them to leave.
+ It’s going to be rough.
+ I don’t want to see them go.
+ No.
+ It’s fun… It’s… They’re not even that great, and I want them to be around.
+We have a mean girl.
+ We have a mean girl.
+ Yeah, I didn’t know they were real.
+ They’re real.
+ Yeah, I feel guilty.
+ I made it.
+ I feed it.
+ I’m keeping it alive.
+ I give it money.
+ It’s like I’m funding the terrorists.
+ But it is complicated, because I can’t tell how mean she is.
+ When we were little, if you were a bad kid, they came right up to your father at school: “Hey, you got a shitty one here.
+ And your father was grateful an adult was talking to him: “Thank you.
+ I’ll beat him immediately.”
+ Now, they’ll get fired if they say that.
+ It’s confusing.
+ I can’t tell how mean she is and I love her.
+ So it’s all… I’m sure, at some point, Hitler’s parents must have turned to each other, like, “He’s a little weird, right?”
+ “Yeah, he’s weird.
+ He’s six.
+ Who has a mustache like that at six?”
+She got in the car the other day, reached over my shoulder, changed the radio station… A whole Taylor Swift station came on.
+ I went to change it… All the stations are hers now.
+ I’m like, “When did that happen?”
+ She goes, “Don’t worry about it.
+ Just make it louder.”
+ Could you imagine, as a child, getting in your father’s car, demanding he put on your music and then, “Louder, a little lower, louder… Right there, chief, right there.”
+ When you eventually came out of your coma… they would have told you a story of how arrogant you were… and why you lost five years of your life… when you were hit in the head with a pipe… that you deserve.
+But I get it.
+ You know, this is the age when music hits your life.
+ You don’t listen to your parents anymore.
+ When I was her age, that’s when Prince showed up.
+ You think I was listening to my father? My fat, bald, white father… when Prince showed up? Right? Half naked, his little nipple hairs sticking out… Full mustache, but wearing makeup.
+ Kind of gay, but singing about sleeping with women.
+----Punchline----
+ I was like, “I don’t know what this guy is trying to tell me, but I’m going to follow him to the end of my days.”
+
+
+Similarity Score:19.926829268292682
+Percent Error Setup:107.55717008099094%
+Percent Error Punchline:169.11281489594742%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:109.59496657491152%
+----Setup----
+From that point on, all your role models were perverts, right? Prince, David Bowie… Freddie Mercury running around with his ball bag hanging out… We didn’t even know he was gay.
+ We didn’t even know he was gay.
+ The name of his band was Queen.
+----Punchline----
+ Big penises on the side of the stage, shooting fireworks… “Wow, he’s an interesting entertainer.”
+
+
+Similarity Score:2.3278688524590163
+Percent Error Setup:75.61338732729871%
+Percent Error Punchline:59.47426067907996%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:68.81635863153755%
+----Setup----
+But you know what? Honestly, I like that she’s a mean girl.
+ I like it.
+ What are we saying? You know? Girls should be tough.
+ If it means being called mean, so what? It’s scary out there.
+ Yeah, she’s tough.
+ Go ahead.
+ She’s got to go out there and meet men… Gotta meet men! Ugh! Gotta bring men home, big hairy men.
+ Ugh! Who knew? Who knew that men were so awful? Who knew? I think the women knew.
+----Punchline----
+ I think the women knew.
+
+
+Similarity Score:0.4235294117647059
+Percent Error Setup:57.18794664125774%
+Percent Error Punchline:40.197152245345016%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:56.54738497837201%
+----Setup----
+   Yeah, I think you knew.
+ We had no idea.
+ I feel bad.
+ We should have been looking out for you.
+ We had no… Regular guys did not know that these guys were out there.
+ And we know a lot of secrets.
+ We didn’t know these guys were so bad.
+ Think of the psychotic narcissism of these men, that your hello when you meet a woman for the first time is to reach into your pants, take out your worst part… and present it to her, like it’s an award she’d be happy to receive.
+ That’s a psychopath.
+ I’ve been married 19 years.
+ When I take my pants off, lights are out.
+ Curtains drawn… I’m under the covers.
+ I don’t even want to see it.
+ I’m like, “I’m sorry, honey.
+ By law, you have to take a look.”
+But it’s good.
+ It’s a great thing that’s happened.
+ We’re correcting it, we’re getting rid of horrible people.
+ We’re changing the workplace.
+ It’s a positive thing.
+ I was worried about my daughters.
+ I was, I was like, “How am I going to teach them… how awful men are?”
+ You know? “How are they going to know how bad guys can be?”
+ I’m the only man in their life, and I’m pretty great.
+----Punchline----
+ Especially to them.
+
+
+Similarity Score:0.3627906976744186
+Percent Error Setup:14.346117198666034%
+Percent Error Punchline:60.13143483023001%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:9.90955564294141%
+----Setup----
+…with tales to tell.
+ And every week since then, there’s been another monster.
+ My daughters will be lesbians by Thanksgiving.
+ You’ve got to be tough.
+ You’ve got to be tough.
+ It’s tough out there.
+One of our cats just died.
+ That was a sad thing.
+[audience]
+----Punchline----
+ Aww!Yeah, just one more to go.
+
+
+Similarity Score:0.9019607843137255
+Percent Error Setup:76.15531205335874%
+Percent Error Punchline:30.230010952902518%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:73.92843098702319%
+----Setup----
+ No.
+ To be honest, this cat and I did not get along.
+ Uh, I tried to like her, but she didn’t like me.
+ You know a cat doesn’t like you when you come home at night, it gets on its hind legs like a human being and runs at you with its claws out.
+That’s alright.
+ It’s not my job to love the animals.
+ They want animals.
+ It’s my job as the father to get them animals.
+ I get them animals.
+ I drive them home, they live with them and love them, and when they’re about to die, I drive them back out.
+ I’m like the warden on death row.
+ They hear me coming with the cat carrier, they all back into the room: “Who’s he coming for this time?”
+ “I don’t know.
+ Grace has been walking kind of funny.”
+ There’s one old cat with a harmonica.
+ “Don’t pay him no mind.
+ He comes for all of us one day.”
+ [meowing harmonica riff]
+So, I brought her in to the vet.
+ She knows she’s not feeling well.
+ And she knows it’s her last trip there.
+ She sees the vet, turns to see my wife… I’m sitting there.
+ The look of disappointment in this cat’s face like, “Really? You?”
+ “Look, I don’t want to be here either.
+ Let’s just get through this.”
+ The vet’s like, “Alright, so this is what happens.
+ We give them one shot, that mellows them out, then we give them the second shot.
+ Does the trick.”
+ I’m like, “I know.
+ I’ve been here before.”
+ And he said, “Okay.
+ I’ll leave you two alone now, so you can say your goodbyes.”
+ You’re in a vet’s office.
+ You can’t be like, “No, I’m good.”
+ “I can skip that part.
+ Just give me that collar, I’ll get out of here.
+ Oh, the goodbye.
+ Right!”
+ The cat’s like, “Get off of me.”
+I didn’t think I was going to cry.
+ I didn’t think I was going to cry, but… she was really working it.
+ She was really working it.
+ I felt like her last goal on Earth was to break me.
+ You know? She just kept looking at me with those big eyes, just… And I was hanging in there.
+ Then she went into her final purr.
+ That sad, broken, pathetic death purr.
+.
+ It was so… 
+[low, emotional purrs]
+ Oh, I just lost it.
+ As soon as I broke, she just laughed.
+----Punchline----
+ “Ha-ha!”
+
+
+Similarity Score:0.2144638403990025
+Percent Error Setup:116.22796569795142%
+Percent Error Punchline:80.065717415115%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:104.99410145497443%
+----Setup----
+[chuckling]
+ I’m nose to nose with her.
+ I’m all sad, I’m all wet-faced.
+ And she had a death spasm, like one of those… Her paws landed on my face and my reaction was just, “Ahhh!”
+ The vet walks in, “Dude, dude!”
+ Choking the cat.
+ “I’m sorry.
+ I’m sorry.”
+ “I said there were two shots.”
+ “I know, I was just helping out, I guess.”
+And the kids, you know, they were sad but then… you promise them another pet.
+ [chuckling]
+ You know? Can’t do that with Grandma.
+ Can’t do that with Grandma.
+ [deep voice]
+ “Hey, how are you? My name’s Flo.
+----Punchline----
+ Where does Daddy keep the whiskey?”
+
+
+Similarity Score:0.32075471698113206
+Percent Error Setup:46.34945212005717%
+Percent Error Punchline:30.230010952902518%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:45.812033031852145%
+----Setup----
+ They said, “You promised we could get a dog.
+ You said when the cats pass, we can get a dog.”
+ I was like, “Yeah, but I meant when both the cats pass.”
+ And the mean one started whispering to the other one… They were like, “We can make that happen.”
+ We’ve got to get them a dog.
+ This is going to get weird.
+ And I said, “Alright, I’ll agree.
+ But it has to be a boy.”
+ I need male energy in this house.”
+ Everything is a girl.
+ Everything’s a girl.
+ My wife’s a girl, I made two girls, the cats were girls… We have a lizard.
+ It’s a girl.
+ I’m like, “We need a boy.”
+And they agreed.
+ And we got a black Lab and her name is Bella.
+ I like her, though.
+ She’s cool.
+ She’s cool.
+ She’s got a little Rottweiler in her.
+ We found her in Bakersfield on the side of a road.
+ Yeah, see, I like a mutt.
+ I like a mutt.
+ If you like pure bred… Whatever you want to do.
+ I’m not going to judge.
+ I don’t know, but, you know, I watch the Westminster Dog Show and, you know, it’s a little too fancy.
+ All these purebred… 
+[English accent]
+ “Now, the German Shepherd, blah, blah, blah.”
+ “Sixteenth century… blah, blah, blah.”
+ How about a “real dog” dog show? You know? “Here’s Ralph from Bayonne.
+ Has trouble keeping his tongue in his mouth.
+ Got some of his owner’s edibles out of his backpack.
+ Hasn’t been the same since.
+----Punchline----
+ That’s Ralph from Bayonne.”
+
+
+Similarity Score:0.34108527131782945
+Percent Error Setup:37.10695569318723%
+Percent Error Punchline:50.16429353778751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:31.891466771529693%
+----Setup----
+But, you know, this is all a part of it.
+ You want to prepare your kids for life, but it’s hard, right? We’re not really prepared for life.
+ It’s hard.
+ Everybody’s complaining, feeling like they’re not doing alright.
+ You’re doing great.
+ You’re doing great.
+ I promise you.
+ I don’t say that lightly, my friends.
+ I don’t.
+ I don’t know any of you and I’m telling you, you’re doing great.
+ I’ll go one better.
+ You’re peaking right now.
+ I’m not kidding.
+ You have a little money in your pocket, you can come watch this silly-ass show… It’s not going to get much better, guys.
+ These are the good times.
+ In the not too far distant future, people will ask you to go somewhere, and your one question is going to be: “Are there stairs?”
+ And if there are, you’re not going.
+Do what you can and don’t beat yourselves up.
+ You’re trying.
+ You’re doing the best you can.
+----Punchline----
+ You try and be nice to people, you try and work out, you try and take care of yourself, but you’re going to skip and you’re going to mess up all the time, right? You are.
+
+
+Similarity Score:1.8652849740932642
+Percent Error Setup:15.45974273463554%
+Percent Error Punchline:268.7842278203724%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:1.337003539127014%
+----Setup----
+No?[man]
+ Yeah.
+Oh, you did? Good for you.
+ What did you do?[man]
+ Two-mile run.
+You took a two mile run.
+ Good for you.
+ How about you, West Virginia? Did you work out? No, sir.
+ Did you work out yesterday?I went to work.
+You went to work.
+ We’re counting that.
+ Good for you.
+ Where do you work?I work in the city.
+You work in the city.
+ What do you do there?I work in a restaurant.
+You work in a restaurant.
+ Are you a waiter?Waiter and back of house.
+Waiter and back of house.
+ So, you’re running your ass off the whole day.
+ All day, probably longer than this guy.
+ Mr.
+ “I ran for two miles in my Nike uniform.”
+ You’re slinging food and running around like a crazy person… while high! Let me ask you, how does a guy from West Virginia, in a Ford F-150, end up in New York, working in a restaurant?Because of my fiancée.
+Because of your fiancée.
+[audience]
+ Aww!Wow! Beautiful! How did you meet her?We met online.
+----Punchline----
+You met online.
+----Tagline(s)----
+…who looks like he’s got great weed.”
+
+
+Similarity Score:0.16091954022988506
+Percent Error Setup:11.66626965221534%
+Percent Error Punchline:70.09857612267251%
+Percent Error TagLine:658.3333333333333%
+Percent TagLine Number:54.166666666666664%
+Percent Error Total:11.049941014549743%
+----Setup----
+…but I feel like you’ve got to get back to the woods.
+ Do you like New York City? You want to stay here for all of your days? I don’t think so.
+ No.
+ Exactly! It’s a hellhole.
+ You want to go back to rolling hills and your Ford truck.
+ Will you go with him?Yes.
+You will.
+ So, you’re here, you’re going to… Is this the plan?We’re going to Europe.
+You’re going to Europe? What are you going to do there?[man]
+ She’s from Portugal.
+----Punchline----
+You’re from Portugal? This is the greatest story I’ve ever heard.
+
+
+Similarity Score:0.9347826086956522
+Percent Error Setup:56.10409718913768%
+Percent Error Punchline:9.638554216867472%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:52.96893432953205%
+----Setup----
+This is a love story.
+----Punchline----
+ You know what my love story is? I met a girl from New Jersey.
+
+
+Similarity Score:1.1
+Percent Error Setup:97.29037636969986%
+Percent Error Punchline:49.50711938663746%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.77585528902871%
+----Setup----
+Good for you.
+ You do whatever the hell you gotta do.
+ I’m not giving you advice at all.
+ You, I can talk to.
+ No, you both look great.
+ You’re doing what you got to do.
+ You both look good.
+ You know what my workout is? Apple Watch.
+ Buzzes once an hour, tells me it’s time to stand.
+ [buzzes]
+ “Time to stand, Tom.”
+ “Okay, Apple watch.”
+ “Sorry I didn’t get up the last two days.”
+   A Fitbit? Get a Fitbit.
+ Everyone should have a Fitbit.
+ Strap something to your wrist, count what you normally do as exercise? Get it! “I walked from my car to my cubicle.
+ Eighty steps!”
+ “Good job, Carol.
+ Good job.
+ You’re an athlete now.
+ You could run the 5K.
+ Just a couple more steps.
+ You could do it.”
+Do what you gotta do.
+ Just don’t die.
+ All of you.
+ Don’t die! That should be the only thing on your Post-it Note.
+ “Don’t die.”
+ And act accordingly.
+ Right? Eat the right things when you can, walk the dog the long way, touch your toes once in a while… You don’t want to wake in the middle of the night sweating for no reason… trying to figure out which is the bad arm to be tingly.
+ “Do we have baby aspirin? I think we’re supposed to take baby aspirin… or lick a baby? Does someone have a baby? I think I’m having a heart attack.”
+ You’ve got to go for physicals once in a while, which isn’t the best.
+ I just went recently.
+ My doctor… So humiliating, isn’t it? At least when you go to an eye doctor, you’re like, “My eyes are good or bad.
+ It’s not me.”
+ But the doctor, it’s like, “You’ve been living like an animal.”
+ “I’m sorry.
+ I had a rough year.”
+ So humiliating.
+As a man, the most humiliating part… you’ve got to take your pants off in front of this guy.
+ And I know, ladies, I know… what you deal with at the doctor’s office is much worse than us.
+ I’m not comparing it.
+ What you have to smoosh your boobs up against… I know.
+ What you deal with… Look, there’s no stirrups where we go.
+ There probably was at one time and we enjoyed it too much.
+ But for us, the worst part… you pull your pants off, he cups your balls and makes you cough.
+ Still.
+ No one knows why.
+ Just for fun.
+ And then, I immediately turn around and assume the position… and get ready for the rear entry.
+ And this doctor I’ve been going to for ten years goes, “No, I’m not doing that anymore.”
+ “Well, it’s not like I wanted you to.”
+ It’s like he was breaking up with me.
+ I was like, “Hey, I only did this for you.”
+----Punchline----
+ “All these times… I didn’t enjoy it once.”
+
+
+Similarity Score:0.3898305084745763
+Percent Error Setup:150.91114816579324%
+Percent Error Punchline:10.295728368017523%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:141.2898151789225%
+----Setup----
+But you do what you can.
+ I don’t want you to die.
+ I want you to keep going, keep doing great.
+ And don’t do what other people tell you is a good time.
+ It never is, never is.
+ Right? Breakfast in bed.
+ Perfect example.
+ Horrible idea.
+ It’s a bad idea.
+ Every poor mother on Mother’s Day has got to get a tray filled with hard toast and runny eggs… and we pin her down in her bed.
+ “Enjoy your breakfast, like a hospital patient.
+ Good luck not spilling the juice on your nightgown.
+ We’ll be at IHOP.
+ See you in an hour.”
+And no more cruises.
+ Stop with the dumbass cruises.
+ It’s a dumb idea of a good vacation.
+ Anything you can do on those dumbass boats, you can do here on land.
+ Waterslide, shitty magic shows… It’s all here.
+ You don’t need to go to the middle of the ocean, where you do not belong… with two thousand other people, floating around on a giant white toilet.
+ That’s all those boats are: horrible toilets ruining the seas.
+ What does everybody talk about on those dumb boats? “Oh! The food! Oh, my God.
+ Seven meals a day.
+ They take your three meals, they add four more to it.”
+ Yeah, great, and what does everybody do? Waddle off to their room and take a dump in the sea.
+ Stop it.
+I was in Italy, in this tiny little town… You couldn’t fit one more person there.
+ Scariest thing I ever saw.
+ In the middle of dinner, this cruise ship pulled into port.
+ It was like our city was being attacked… by a bigger city.
+ The gangplank came down.
+ They came waddling out in their Tommy Bahama and their flip-flops, ate everything they could find, went back on the boat, took another dump in the sea.
+ Stop it.
+[whooping]
+And while we’re at it, no more zip lining.
+ Stop with the goddamn zip lining in beautiful places.
+ Isn’t it enough to go to these beautiful destinations, and absorb the beauty that’s before you in the three days you have there? Do you really have to be tied into a dirty harness and a lice-ridden helmet, pushed by a non-regulated local off a platform? Why? So you can fly along a wire through the treetops of the jungle? Get a book, sit at the ocean’s edge, and calm down.
+ Look, you want to zip line through a scary place? I get it.
+ You want to zip line through Staten Island? You should.
+ You should be high above that place, moving quickly… trying not to get shot as fast.
+And don’t watch so much news.
+ Don’t watch so much news.
+----Punchline----
+ You want to feel better about yourself? Turn the news off.
+
+
+Similarity Score:0.24282560706401765
+Percent Error Setup:138.98880419247263%
+Percent Error Punchline:19.605695509309967%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:131.5768777034998%
+----Setup----
+I’m serious.
+ Like I said, we’re blessed: the first generation that doesn’t have to fight for survival.
+ But we’re also the first human brains that have to deal with horrible news, 24 hours a day on multiple devices.
+ No other human being has had to deal with this onslaught.
+ And it’s controlling us and it’s splitting us apart, and it’s turning us on each other.
+ You’ve got to be smarter than it.
+ You’ve got to manage it.
+ In the old days, the only news you got was a town crier.
+ A man in tights and a wig… came into your village.
+----Punchline----
+ “Hear ye, hear ye! Donna has syphilis.
+
+
+Similarity Score:2.6422018348623855
+Percent Error Setup:45.26560266793711%
+Percent Error Punchline:20.26286966046002%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:44.27841132520645%
+----Setup----
+Enjoy your day.”
+ And you did, because that’s all the news you really need.
+ That’s it.
+ Don’t buy it.
+ You’ve got to think for yourself.
+ You guys, I’m telling you, you’ll live a much better life.
+But really, the real thing, the real thing… honestly and with all sincerity, you have to find someone to love.
+ You need someone to love.
+ That’s the whole answer.
+ Really.
+ It doesn’t even have to be a person.
+ It could be an animal.
+ Really! You just need two eyes looking at you across the living room.
+ It could be a fish! It could be a fish.
+ Just looking at you, one eye at a time.
+ Makes you feel accounted for, makes you feel needed.
+ It’s important.
+ You know?The hardest part is finding someone to trust.
+ That’s hard.
+ Because everyone lies to you.
+ Everyone lies to you all the time.
+ Your friends, co-workers, relatives, your parents… Your parents looked you in your little baby face and lied to you.
+ I know they lied to you, because I have children and I lie to them.
+I remember realizing my mother was a liar.
+ She put out clothes for me, a new outfit for Tommy.
+ You should have seen this outfit.
+ For school, six years old, horrible.
+ Red long-sleeved turtleneck shirt.
+ Red! Long sleeved, form-fitting on my chubby body, turtleneck shirt.
+ Tucked into orange plaid pants.
+[groaning]
+Yeah, with a belt and a buckle.
+ So it was tucked in and cinched up tight.
+ So, my little chubs hung over the side.
+ And the pants didn’t go all the way down, so you saw my shoes, my hard, black, feminine dress shoes… with heels and buckles on those, like a pilgrim, like a fat little pilgrim.
+I came down into the kitchen, “Are you sure, Mom? This is how I should go to school?”
+ “Yes, you’re a handsome boy.”
+ I went to school and got a beating… a beating… from children who cared.
+ “Kick him again, someone’s lying to this fat bastard!”
+ He thinks he looks good.
+ He looks like he works the dog track at six years old.”
+The hardest part, if you do find someone to love, and you’re trying to figure out if you’re going to go the distance, you have to realize, the person you’re dating isn’t the one you’re going to spend most of your years with.
+ That’s why people split up.
+ You have to think far out, 30 years out.
+ What is this person going to be then? When you’re dating, that’s young and sexy.
+ That’s the sales model.
+ That’s what moves it off the showroom floor.
+ You’ve got to think 30 years out.
+ Picture your man now three times the size.
+ Just a snowman of blubber around his existing body.
+ And bald.
+ He’s going to be bald, or worse, just three hairs.
+ Like a doll that’s been caught in a fire.
+No more cool clothes, comfortable clothes.
+ Yeah.
+ Elastic waistbands and terry cloth material.
+ Yeah, and Crocs for adults… Yeah, that he wears with socks, because sometimes it’s cold in the morning when you’re getting the paper.
+No more motorcycle in the garage, but he’s in the garage.
+ You know why? He paints birdhouses now.
+ Yeah, that’s why he’s not having sex with you.
+ He’s painting birdhouses.
+The same thing with your girl.
+ Young, beautiful, long hair… When she’s old, it gets cut short, it goes straight up in a poof.
+ Like she’s surprised.
+ All old ladies look surprised.
+ “Surprise! I’m still here.
+ I almost slipped, but I didn’t.”
+All she remembers about fashion is she likes flowers.
+ That’s all she wears, a shower curtain dress filled with flowers.
+ One on each toe, one on her surprise head.
+ “Who wants to play cards?”
+No more lace bras and panties.
+ Underpants! Industrial-strength cotton, get-the-job-done, keep-everything-in-places-where-it-used-to-be underpants… that she hand washes in the sink.
+ When you’re brushing your teeth and have to spit in the toilet, if you’re not aggravated, you married the right lady.
+ And this isn’t a sad story, this is the story.
+----Punchline----
+ If everything goes right, this is the happy ending you get.
+----Tagline(s)----
+
+
+Similarity Score:0.17507418397626112
+Percent Error Setup:258.21224392567893%
+Percent Error Punchline:19.605695509309967%
+Percent Error TagLine:5.208333333333336%
+Percent TagLine Number:77.08333333333334%
+Percent Error Total:244.55367675973258%
+----Setup----
+But if you do want a human being and you don’t have one, that’s on you.
+ That’s your fault.
+ You’re picky, you’re too damn picky.
+ Lower your expectations.
+ There are seven billion people out there.
+ You can find one.
+ You can find one person who doesn’t make you throw up when they take their top off.
+ What? Everyone’s weird and gross out there? Yeah? So are you! We all are.
+ That’s what love is, my friends.
+ Finding someone whose flaws you can put up with.
+ That’s it.
+ That’s chemistry.
+You ever take the first morning flight? That 6:00 a.
+m.
+ flight… where you wake up at home at 4:00.
+ You don’t even know how you got to the airport.
+ You’re just, all of a sudden, under fluorescent lights at Security.
+ [groans in confusion]
+ You’re not in control of your body, no one is.
+ I love that moment.
+ Because there’s a sea of people who you could have woken up with, if you had made the wrong choice.
+I was in on one recently, behind this older gentleman, he burped, farted and sneezed… at the same time.
+ Just exploded out of every one of his openings, all at once.
+ Pa-pow! Like a human tugboat.
+ Pa-pow! It was horrible.
+ People scattered.
+ Changed lanes, changed flights… Went home and tried again tomorrow.
+ His wife stood next to him, did not flinch.
+ She probably does the same thing.
+ The two of them, every morning firing off, making coffee… Pa-pow, pa-pow! The cat, the dog… Pa-pow, pa-pow-pow-pow! Like the grand finale on the 4th of July.
+But that’s love and that’s what I wish for all of you.
+----Punchline----
+ I thank you so much for coming out.
+
+
+Similarity Score:0.4244604316546763
+Percent Error Setup:45.77775131014769%
+Percent Error Punchline:10.295728368017523%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:42.11561148250099%
+----Setup----
+You guys were tremendous.
+ Thank you so much.
+ Thank you, New Jersey, you guys are great.
+ I’ll see you next time.
+   
+
+
+----Punchline----
+
+
+
+Similarity Score:0.16
+Percent Error Setup:86.99380657455931%
+Percent Error Punchline:90.03285870755751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:87.21981911128587%
+----Setup----
+
+
+aired December 2016[plodding music]
+♪
+----Punchline----
+Please welcome to the stage Tom Papa.
+----Tagline(s)----
+Thank you.
+
+
+Similarity Score:0.7142857142857143
+Percent Error Setup:97.83230109575989%
+Percent Error Punchline:30.230010952902518%
+Percent Error TagLine:184.375%
+Percent TagLine Number:54.166666666666664%
+Percent Error Total:92.84309870232009%
+----Setup----
+Cleveland.
+ Thank you so much.
+ You guys look great.
+----Punchline----
+ Cleveland, Ohio.
+
+
+Similarity Score:0.3333333333333333
+Percent Error Setup:95.12267746545973%
+Percent Error Punchline:70.09857612267251%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:93.86551317341723%
+----Setup----
+That’s why I’m here: good people, the best people.
+ So great.
+ Good to see you.
+ Thank you for coming out.
+----Punchline----
+ Look at you.
+
+
+Similarity Score:0.3333333333333333
+Percent Error Setup:89.16150547879943%
+Percent Error Punchline:60.13143483023001%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:87.73102634683445%
+----Setup----
+Look at you.
+ You made a little plan for yourself.
+ And you stuck with it.
+ You didn’t cancel.
+ I know you wanted to cancel.
+ I know it.
+ I know it.
+----Punchline----
+ I almost did too.
+
+
+Similarity Score:0.4
+Percent Error Setup:83.74225821819914%
+Percent Error Punchline:50.16429353778751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:82.10774675580024%
+----Setup----
+Texting each other, “We still gonna go to the thing?”
+ “Yeah.
+ Don’t you want to go?”
+ “No, I do.
+ I’m just seeing if there’s any weakness on your part.”
+----Punchline----
+ I will tear this night down.
+----Tagline(s)----
+
+
+Similarity Score:1.4054054054054055
+Percent Error Setup:84.28418294425917%
+Percent Error Punchline:30.230010952902518%
+Percent Error TagLine:5.208333333333336%
+Percent TagLine Number:77.08333333333334%
+Percent Error Total:81.0853322847031%
+----Setup----
+Be home with my pants off all night.
+ That’s all you want.
+ You just want to be home with your pants off.
+ Oh, it’s the best feeling in the world.
+ And you only get it if you cancel.
+ Oh, there’s no better feeling in the world than canceling.
+ Oh! It’s the best! Just going from “I have to do something” to “I’m not doing anything.”
+ Oh, what a dream.
+ Canceling dinner plans with another couple? Oh, heaven.
+ “You think we can cancel on ’em?”
+ “Yes.
+ “I don’t have to listen to him talk or watch her chew.
+ Yes.”
+ Oh, canceling the gym? Oh, that one’s sweet.
+ You don’t even have to call anyone.
+ Just do it in your head.
+ “I’m not going.”
+----Punchline----
+ Done.
+
+
+Similarity Score:0.5161290322580645
+Percent Error Setup:33.88518342067651%
+Percent Error Punchline:80.065717415115%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:36.61030279197798%
+----Setup----
+Oh, it’s the best.
+ Snow days? Remember snow days? Oh! It’s the best.
+ God canceling everything on everybody.
+ More powerful than your parents.
+ “I want to go to school, but I can’t.
+----Punchline----
+ God won’t let us.”
+----Tagline(s)----
+Yeah, it’s a hard thing, not to cancel, and you didn’t cancel, and you made it, and it means a lot, and I thank you.
+
+
+Similarity Score:0.7301587301587301
+Percent Error Setup:82.65840876607908%
+Percent Error Punchline:50.16429353778751%
+Percent Error TagLine:2364.583333333333%
+Percent TagLine Number:54.166666666666664%
+Percent Error Total:67.79394416044042%
+----Setup----
+Sincerely.
+ What else you gonna do, really? What are you gonna do, stay home? Watch the news? Watch more news? You gonna watch more news? That’s a treat.
+ Now, are you scared? Are you guys scared? Everybody’s scared now.
+ Are you scared? Yeah? ‘Cause you watch too much news.
+ Turn it off.
+ Go to a show.
+ Look, some things are scary.
+ I’ll give it to you.
+ Uh, no grown-ups left, that’s kind of scary.
+ There’s no one left to fight the bad guys.
+ There’s adult coloring books now.
+ Adult coloring books.
+ And they’re popular.
+ I saw a man–a man– a grown man– on the floor of an airport.
+ A man laying on his stomach on the floor of an airport, just coloring, just– Why even wear pants? Why? You’re not a man.
+ You’re a baby man.
+ My friend’s like, “No, Tom, you don’t understand.
+ “They are adult.
+ I have one.
+ It’s a ‘Game of Thrones’ coloring book.”
+ My apologies.
+ I thought it was something childish, like “The Hobbit.”
+ I didn’t know it was “Game of Thrones.”
+ That must be hard, with all the snow in that show.
+ Having to use the white crayon? You never really know if it’s working or not.
+ No one can deal.
+ How about these people with the fake service dogs? You see these creeps? Fake service– there’s real service dogs that help real people.
+ Then a girl shows up with a Pekinese sticking out of a Hello Kitty handbag and acts like it’s working.
+ And how little do you have to think of yourself to scam a certificate and show it at the gate? “I have to have this puppy with me on this flight, or I’m gonna lose my marbles.”
+ “Oh, by all means.
+ Welcome aboard.”
+ What could possibly go wrong with your crazy ass… at 40,000 feet? I got on a flight the end of last year.
+ There was a woman next to me.
+ I’m not making any of this up.
+ Middle seat.
+ She turned to me, and she had a Chihuahua in a BabyBjorn.
+ I swear to–head, penis, legs, and dog arms.
+ The look of humiliation in this animal’s face… He was just like, “I apologize.
+ “We normally walk.
+ “We’ve been walking up till now.
+ “I’m gonna have to get pants.
+----Punchline----
+ “This is upsett– I can’t reach.”
+
+
+Similarity Score:0.15025906735751296
+Percent Error Setup:105.38947117675083%
+Percent Error Punchline:30.230010952902518%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:97.32599292174598%
+----Setup----
+[sighs]
+ Look, it’s easy to scare human beings.
+ We scare easy.
+ We’re a timid creature, you know? We–my wife is one of those people that gets frightened in restaurants if you don’t give her exact directions to the bathroom.
+ You have these people in your life? “Where is it? Where?”
+ “It’s back there, to the right.”
+ “But where? Has anyone gone? Has anyone gone?”
+ “No, just follow a wall.
+ You’ll get there.”
+ Seriously, has anyone not come back? Has anyone not come back? “I miss Grandpa.”
+ “Me too.”
+----Punchline----
+ “We shouldn’t have taken him to the Applebee’s and let him go by himself.”
+
+
+Similarity Score:0.3883495145631068
+Percent Error Setup:52.31062410671748%
+Percent Error Punchline:49.50711938663746%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:47.34565473849784%
+----Setup----
+   Look, you get scared, but keep your eye on the ball.
+ You know, you have to have perspective.
+ Are you afraid of ISIS? You think ISIS is coming to your house? Are they coming to your house? No.
+ Keep your eye on the ball.
+----Punchline----
+ There’s so many other ways you could die.
+
+
+Similarity Score:0.6071428571428571
+Percent Error Setup:74.52953787517865%
+Percent Error Punchline:10.295728368017523%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:71.37239480928038%
+----Setup----
+You drove here tonight.
+ You made it here.
+ You still got to get back.
+ These roads are crazy.
+ You should be scared of moms in Honda Odysseys.
+ That’s who you should be scared of, not some guy dressed up like a ninja from Party City running around Yemen.
+ Keep it in perspective.
+ Look, life is stressful.
+ It’s hard being a human being.
+ It’s hard.
+ It’s hard getting through life.
+ I understand.
+ I had a hard day today as well.
+ My whole day today was spent trying not to eat nachos.
+ That was my whole day.
+ No, they’re bad for me, I shouldn’t eat them, and I can’t stop.
+ And I ate them again.
+ I ate them again.
+ Gas station nachos today.
+[crowd groans]
+Oh, back off.
+----Punchline----
+ Your fancy Cleveland farm-to-table nacho attitude.
+
+
+Similarity Score:0.22900763358778625
+Percent Error Setup:32.801333968556456%
+Percent Error Punchline:30.230010952902518%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:33.031852143138025%
+----Setup----
+You think a drug addict cares where he gets his drugs? No.
+ He just gets them, and he puts them in his body.
+ Look, I’m not an animal.
+ I didn’t wake up and say, “I’m eating nachos today.”
+ I woke up.
+ I said, “No, today’s the day.
+ No nachos.
+ We’re not doing it.”
+ But that’s a different guy making those decisions.
+ That’s Morning Tom who says those things.
+ Oh, no, you’d like Morning Tom.
+ He’s a winner.
+ He’s a winner.
+ Oh, Morning Tom, he puts on workout clothes, returns emails, makes fruit smoothies.
+ Fruit smoothies.
+ Gets a blender, puts in protein powder.
+ Neeeeeeeee! Stare down my weak family eating Fruit Loops.
+ Neeeeeeee! “You guys are losers.
+ You know that, right? “All three of you.
+ You’re looking at a winner right here.”
+ We all are in the morning.
+ There’s a different you coming out right now.
+ In the morning, you’re clear-eyed and focused.
+ That’s why you never hit on anyone in the morning.
+ You got to wait till late at night, when they’re confused and tired.
+----Punchline----
+ They got to lay down somewhere; might as well be with you.
+
+
+Similarity Score:0.2978723404255319
+Percent Error Setup:5.163172939494997%
+Percent Error Punchline:29.572836801752466%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:3.893039716869838%
+----Setup----
+No one has ever gotten laid in the history of mankind at the breakfast buffet.
+ “I’ll be back for waffles.”
+ But that’s okay.
+ That’s all right, you know? Problem is, morning time doesn’t last very long.
+ Passes out around 2:00.
+ And the guy that wakes up in his place is a very different guy.
+ He is not a winner.
+ That guys is not–he’s an alcoholic, is what he is.
+----Punchline----
+ Takes that same blender and fills it up with margarita mix and tequila.
+----Tagline(s)----
+Yeah.
+
+
+Similarity Score:0.3058823529411765
+Percent Error Setup:62.607193901858025%
+Percent Error Punchline:39.539978094194964%
+Percent Error TagLine:89.58333333333333%
+Percent TagLine Number:54.166666666666664%
+Percent Error Total:56.54738497837201%
+----Setup----
+Now my kids are looking at me.
+ “Who’s the loser now?”
+ Drunk at 3:00.
+ And he’s a liar.
+ He’ll say anything to get me to drink, anything.
+ “Come on.
+ Just have one.
+ “Have one.
+ You deserve it.
+ You deserve it.”
+ That’s all I got to hear.
+ “Yeah, you’re right.
+ I do deserve it.
+ “Yeah, I worked hard this week.
+ I fixed the toilet too.
+ “You don’t hear that running anymore, no.
+ “I did that.
+ “I took the lid off the back.
+ “I put my hand in that creepy water.
+ “I touched the chain with the grass on it.
+ “I did that.
+ “And it’s fixed.
+ “It’s gonna stay fixed… “as long as you use the other bathroom.
+ “Just use the other toilet.
+----Punchline----
+ I’m not sure what the hell I did.”
+
+
+Similarity Score:0.23076923076923078
+Percent Error Setup:34.42710814673654%
+Percent Error Punchline:10.295728368017523%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:33.54305937868659%
+----Setup----
+And then he–please.
+ Then he just comes at you.
+ “Come on.
+ Come on.
+ “If you have one, you gonna stop at one? “You can’t stop at one.
+ You think Sinatra ever stopped at one?”
+ “Yeah, you’re right.
+ “I’m just like Sinatra too, “without the songs and the money.
+ All right.”
+ And then three hours later, I’m just wandering around my house drunk, with a phone in my hand.
+ “I wonder if Panda Express makes nachos.”
+ But that’s okay.
+ You have to have perspective in your life.
+ You have to enjoy yourself.
+ You can’t work crazy all the time.
+ What difference does it make? You got to enjoy yourself.
+ You know, if you worked all the time, what would be different? Nothing.
+----Punchline----
+ Nothing.
+----Tagline(s)----
+What you’re going to accomplish? Calm down.
+
+
+Similarity Score:0.6106870229007634
+Percent Error Setup:34.42710814673654%
+Percent Error Punchline:80.065717415115%
+Percent Error TagLine:658.3333333333333%
+Percent TagLine Number:54.166666666666664%
+Percent Error Total:33.031852143138025%
+----Setup----
+Really.
+ And that’s all right.
+ Don’t compare yourself to the people who change the world.
+ They’re freaks, genetic freaks.
+ Steve Jobs, Edison– freaks.
+ First of all, no sleep.
+ No sleep.
+ Three hours of sleep a night, those guys.
+ Three.
+ I’m out.
+ I’m out.
+ I need a lot of sleep.
+ Sometimes I wake up in the morning, my first thought is, “I don’t think I can get a nap today.”
+ I don’t even know if I’m tired.
+ I don’t even know if I slept last night.
+ I haven’t even opened my eyes.
+ I know I peed five times.
+ I don’t know if I REM’d out at the end.
+ And it’s not a lazy thing; it’s a genetic condition.
+ I come from a long line of nappers.
+ The Papa family naps.
+ My whole childhood was waking up adults to ask them stuff.
+----Punchline----
+ They would just lay around the living room like a pile of sea lions.
+
+
+Similarity Score:0.4774193548387097
+Percent Error Setup:24.130538351595998%
+Percent Error Punchline:49.50711938663746%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:20.762878489972472%
+----Setup----
+“Dad, Dad.
+ “Dad.
+ Can I go to Keith’s house?”
+ [long moan]
+ “Grandma, Grandma, can I go to Keith’s house?”
+ [long moan]
+ “She moved her whiskers.
+ That’s yes.
+----Punchline----
+ Let’s go.”
+
+
+Similarity Score:8.733333333333333
+Percent Error Setup:85.36803239637922%
+Percent Error Punchline:70.09857612267251%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.66378293354306%
+----Setup----
+And so what? So you don’t work all the time.
+ What’s gonna happen? How’s your life gonna change? What, you’re not gonna be part of the super-rich? Is that what’s gonna happen? [muttering]
+ First of all, that shouldn’t be a goal.
+ It doesn’t change your life at all.
+ And second of all, the list of people with all the money shrinks every year.
+ It’s down to ten people now.
+ In two years, it’s gonna be, like, Bob.
+ Bob has all the money.
+ Everybody, just sleep in.
+ Take the whole summer off.
+ Bob’s got all the money.
+ And it shouldn’t be a goal.
+ It’s just this abstract thing that you just keep chasing, you know? I’ve–personally, never a goal.
+ I don’t need a lot of money.
+ I can live a poet’s life.
+ I really, sincerely could.
+ Don’t need money.
+ Don’t need stuff.
+ Always giving it away.
+ I could move every week.
+ I really could.
+----Punchline----
+ But, uh, I do not live alone.
+----Tagline(s)----
+ I’m married, and I have two children, and they are greedy, capitalist pigs.
+
+
+Similarity Score:0.36363636363636365
+Percent Error Setup:17.085516912815628%
+Percent Error Punchline:20.26286966046002%
+Percent Error TagLine:1321.875%
+Percent TagLine Number:54.166666666666664%
+Percent Error Total:10.027526543452614%
+----Setup----
+“More, more, more.”
+ “Whaaa.”
+ “I want food with every meal.”
+ “Whaaa.”
+ So I work hard.
+ All my money goes to them.
+ Every damn penny goes to these people.
+ I live in a horrible school district in L.
+A.
+ now, and it was either pay for school or guns and ammo.
+ And they have no skills or coordination, so I’m paying for school.
+ Goes against everything I believe in, but I’m paying for school.
+ My only rule for paying for school is, I won’t pay for any school that is predominantly Asian.
+ Why? Why would I pay all of that money for my kids to be last in everything? We can’t compete.
+ These families are dominant.
+ They kick ass.
+ We can’t compete.
+ They’re straight-A students.
+ These kids play five instruments, five.
+ They’re walking to school.
+ They have an oboe and a violin and a drum kit.
+ The dad’s pushing a baby grand piano across the parking lot.
+ My kids play the toilet paper roll.
+ Literally, we just walk around the house.
+ [imitating horn playing music]
+ “I think you got it, honey.”
+ [imitating horn]
+ “I don’t think you have to practice anymore.
+ “Get some Pop-Tarts.
+ Sit on the couch.
+ Enjoy your life.”
+ They beat us everywhere we go.
+ I put the little one on the swim team.
+ I figure we have a chance there, right? Let’s go to the pool.
+ That’s an Asian-free zone.
+ Let’s try it.
+ Not anymore.
+ They dominated every other sport.
+ Now they’re at the pool.
+ But my kid’s big.
+ She’s got a back like Michael Phelps.
+ I’m like, “We can take ’em.
+ Come on.
+ We can do this.”
+ They hit the gun.
+ Their kids took off like speed boats.
+ My kid, two strokes, drowned right in their wake.
+ We scooped her out, resuscitated her, put her right back on the couch.
+ And we quit that night.
+ We quit that night.
+ She was like, “I thought we’re not allowed to quit things, Dad.”
+ “Yeah, well, I’m not gonna be humiliated “like that again.
+ “I’m not gonna ruin my Saturdays “and sit through that.
+----Punchline----
+ “Yeah, you lay there “and think about what you might be good at, and we’ll try again.”
+
+
+Similarity Score:0.16066481994459833
+Percent Error Setup:85.88018103858981%
+Percent Error Punchline:79.40854326396494%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:84.54581203303185%
+----Setup----
+Now–so I’m not gonna be part of the super-rich, and I have news for you.
+----Punchline----
+ Uh, you’re not either.
+
+
+Similarity Score:0.7
+Percent Error Setup:91.87112910909957%
+Percent Error Punchline:50.16429353778751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:89.77585528902871%
+----Setup----
+They don’t do this.
+----Punchline----
+ They don’t come out to the ass end of Cleveland, sit in the dark, and listen to jokes.
+
+
+Similarity Score:0.9565217391304348
+Percent Error Setup:97.83230109575989%
+Percent Error Punchline:89.37568455640745%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:88.24223358238301%
+----Setup----
+They do different things.
+ They summer.
+ They summer.
+ They summer.
+ Do you summer? I don’t summer.
+ Summer happens, and I deal with it.
+ Just stay in the shade and walk slow.
+ No, they buy all white, a whole white wardrobe on Memorial Day to go summer.
+ I can’t wear white.
+ I bought a white shirt last year.
+ I sweat through it in 20 minutes.
+ It looked like I was smuggling turkey gravy under my armpits.
+ Yeah, I should have thrown it out, but I spent 20 bucks for it at Old Navy.
+ I’m gonna wear it.
+ I just kept my arms in the reason of the season.
+ No, we don’t summer.
+ We don’t wear all white.
+----Punchline----
+ My family doesn’t have parties in the middle of a wheat field.
+
+
+Similarity Score:0.4496124031007752
+Percent Error Setup:37.13673177703669%
+Percent Error Punchline:29.572836801752466%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:34.054266614235154%
+----Setup----
+ That is not my family.
+ We go to my sister’s picnic table.
+ We eat egg salad sandwiches.
+ We push Grandma in the kiddie pool, and her tit pops out.
+ That’s what we laugh at.
+ That’s what we get.
+ “Oh, Grandma, your titteth has poppethed out.
+ To be or not to be in a home.”
+ I say we keep her.
+ She’s hilarious.
+----Punchline----
+ Puts sponges in the toaster.
+
+
+Similarity Score:0.4117647058823529
+Percent Error Setup:66.40066698427822%
+Percent Error Punchline:40.197152245345016%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:65.23790798269759%
+----Setup----
+Look, there’s nothing wrong with making money, right? You want to make money.
+ You have to make money.
+ I’m not saying you want to be poor.
+ We’ve all been there, right? When I started comedy out of college, I made five bucks a night, five, in New York.
+ I needed the money.
+ It was fun times, but everything smelled like hot dogs, everything.
+ I did.
+ My girlfriend did.
+ It was like, “Are we making hot dogs again?”
+ “No, that’s us.
+ We got to get jobs.
+ This is not working out.
+ We smell weird.”
+ But how much is enough? You know what I mean? How much is enough? Do you really need a mansion? Who needs a mansion? Who needs a mansion? If you have 80 children, you should have a mansion, right? If you have 80 children, you need that square footage.
+----Punchline----
+ You know what these places look like, ’cause they come in the beautiful real estate section of the Sunday paper, this beautiful magazine filled with mansions.
+
+
+Similarity Score:0.5088757396449705
+Percent Error Setup:23.04668889947594%
+Percent Error Punchline:169.11281489594742%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:13.605977192292567%
+----Setup----
+They always have those perfect kitchens, the beautiful island with a fruit bowl with a pyramid of perfect green apples.
+ You eat one.
+ A new one just appears out of nowhere, ’cause they have an apple boy.
+ They have an apple boy.
+ Just sits under the kitchen sink and waits.
+ I’ve never even bought a fruit bowl.
+ Have you ever bought a fruit bowl? No.
+ You buy fruit.
+ You need a bowl.
+ You just pick it out of the other bowls.
+ Congratulations, bowl.
+ You’ve been nominated.
+ Say good-bye to your friends.
+ You’re the fruit bowl.
+ And fruit isn’t even the main thing in the fruit bowl.
+ It’s mostly car keys and pennies and garlic skin.
+ One black banana from 1995.
+ No one wants to pick it up, ’cause you know it’s gonna split.
+ So if you have a lot of money and you help people, that’s one thing, but the culture’s devolved into this “I’m better than you” attitude just to have stuff.
+ You know people in your family and friends who just mortgage it, lease it just to say, “I’m better than you,” even if they don’t have it.
+ “Just look at what I have.
+ “Look at my car.
+ It’s newer than yours.
+ “Look at my wife.
+ She’s newer than yours.
+ “She might be older, but she has all new parts.
+ “Where do you shop? The regular supermarket? “That’s disgusting.
+ “I can tell from your skin, “’cause it’s splotchy and gross.
+ “No, I respect it.
+ I just can’t do it.
+ “I only shop at Whole Foods and Trader Joe’s.
+ “That’s where I get my conflict-free M&Ms.
+ Naaah.
+ Naaah.”
+ I’m done with the Whole Foods.
+ I’m done with it.
+ I like eating healthy.
+ I do.
+ But you have to be a billionaire to eat healthy? I’m not spending five bucks on an apple ’cause you thought it was a good idea to ship it from Vermont by bicycle.
+ “Then where you gonna get your kale? How you gonna get your kale?”
+ I don’t know.
+ I don’t care.
+ I don’t even know what it is.
+ My grandmother never made it.
+ My mother never saw it.
+ It just showed up, like, a week and a half ago.
+ But it’s here now, and you got to eat it.
+ Well, how do I know what it is? ‘Cause it takes like mulch, and you feel like a koala bear when you’re chewing on it.
+ “Are you supposed to eat the stem? Oh, okay.”
+ Hard to tell the eat part from the throw-out part.
+ They get up to the register.
+ They put on a whole show about their bags.
+ “I have my own bags.
+ “I want everyone here to know “I wouldn’t use their bags.
+ “I am an angel sent from heaven.
+ “I wove my own bags out of human hair and seaweed.”
+ Get over yourself.
+ These people have driven me to Costco.
+ That’s the only place I shop now.
+ I go to Costco.
+----Punchline----
+ Yeah.
+
+
+Similarity Score:0.3665987780040733
+Percent Error Setup:165.00119104335397%
+Percent Error Punchline:80.065717415115%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:151.00275265434524%
+----Setup----
+Yeah.
+ No one acts like they’re better than you at Costco.
+ Everyone knows exactly who they are at Costco.
+ “I’m disgusting, and I need more stuff immediately.
+ “And I’m making one trip.
+ I brought the big car.
+ This is my only weekend out.”
+ There’s a sense of community when you go to Costco, right? You can’t go there by yourself.
+ You can drive there alone.
+ You’re gonna have to make some friends on your way in.
+ You can’t get a 25-pound salami on your back by yourself.
+ Trying to throw it in your cart like the Scottish strongman competition.
+ The place is so massive, they got to hand out little samples in cups to keep up your strength.
+ It’s like a white trash marathon in that place.
+ “Here’s a fried baloney ball.
+----Punchline----
+ You’re doing great.”
+
+
+Similarity Score:0.27941176470588236
+Percent Error Setup:28.46593616007623%
+Percent Error Punchline:60.13143483023001%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:30.475815965395203%
+----Setup----
+“There’s fried chicken popsicles, aisle ten.
+----Punchline----
+ You’ll get there by Tuesday if you keep up the pace.”
+
+
+Similarity Score:0.3333333333333333
+Percent Error Setup:96.74845164363984%
+Percent Error Punchline:19.605695509309967%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:90.79826976012583%
+----Setup----
+ You get to the register.
+ No one’s talking about bags at Costco.
+ They don’t even have bags.
+ They have boxes with holes in it.
+ “There was a dead pig in this yesterday.
+ “I don’t know if that bothers you.
+ “The cardboard’s a little wet.
+ He was a bleeder.”
+ And they know they’re not gonna live forever at Costco.
+ They have coffins at the door.
+ They literally sell coffins at the door, which sounds absurd until you look in your cart filled with Cheez-Its and Slim Jims.
+ You’re like, “How much longer can I live like this? “Seriously? “You know what? Today’s the day.
+ “I’m buying a coffin today.
+ “You know what? Give me the coffin.
+ “I’m gonna use it as my box.
+----Punchline----
+ Put all my stuff in there.”
+
+
+Similarity Score:0.4307692307692308
+Percent Error Setup:33.34325869461649%
+Percent Error Punchline:30.230010952902518%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:33.54305937868659%
+----Setup----
+Look, I don’t even blame you if you’re one of the Costco people or the Whole Foods people.
+ It’s not even up to you anymore, right? You go to a store once, they take so much information from you, you end up in this long-term relationship with these companies.
+ Back off.
+ I deal with human beings.
+ That’s enough.
+ I’m not dating you, CVS.
+ Every time I go to CVS, “Do you have your card? “Do you have your CVS card? Do you have your card?”
+ “No, for the tenth time this week.
+ No, I don’t have a card.”
+ “You don’t have a card? “This man doesn’t have a card! “This man doesn’t have a card.
+ You’ve got to join us.”
+ People coming out of the back, “Join us.
+ Join us.”
+ “No, I don’t want to join you.
+ “I don’t want anything on my keychain.
+ “I didn’t want to make eye contact with you, frankly.
+----Punchline----
+ “I just want to sneak in here, get this ointment, go home, and deal with this.”
+----Tagline(s)----
+
+
+Similarity Score:6.534883720930233
+Percent Error Setup:16.543592186755596%
+Percent Error Punchline:69.44140197152245%
+Percent Error TagLine:5.208333333333336%
+Percent TagLine Number:77.08333333333334%
+Percent Error Total:12.072355485646872%
+----Setup----
+“Do you take money? “I’ll pay you money.
+ “I’ll pay you double if you let me leave.
+ “I should be home with my pants off, solving this problem right now.”
+ When you don’t join up, they act like a psychotic girlfriend on your way out.
+ “Well, how about your email or your phone number? “We’re not gonna use it; we just want to have it.
+ “We just want to smell it when you’re not here, ’cause we love you.”
+ Back off.
+ Check into the hotel, “Welcome back, Tom.”
+ “Whoa, what do you mean, ‘welcome back’? “You don’t know me.
+ “That’s why I stay with you.
+ You don’t know me.
+ “I know people in town.
+ I don’t stay with them.
+ “They know me.
+ “This is our relationship: “I come in late at night, “I do weird stuff to your towels, “and I leave in the morning.
+ Forget my name.”
+ Every restaurant, they can’t just come up to your table now.
+ They got to bounce up there.
+ “You guys ever eaten here before? You guys ever eaten in an Outback Steakhouse before?”
+ Just lie.
+ “Yeah, I’ve been here before.”
+ They leave, and they get your drink.
+ My wife likes to be honest.
+ “No, I’ve never been in one of these before.
+ What’s gonna happen?”
+ He’s gonna do a show.
+ He’s gonna do a goddamn show.
+ “Let me tell you how it works.
+ “We’re a little crazy at the Outback Steakhouse.
+ “You think you’ve been eating your whole life, “chewing and swallowing? “That’s not what we do here.
+ “You order your appetizer, bring out a cannon, and we shoot it right in your face.”
+ They all have their own credit card now.
+ “Do you have your KFC MasterCard?”
+ “What?”
+ “Do you have your KFC MasterCard?”
+ “No, I don’t have a chicken credit card in my wallet “with a picture of a plantation owner on the side.”
+ “Well, I could save you 15% of your purchase right now if you apply for a KFC MasterCard.”
+ “Yeah, I’m sure the 25 people behind me “wouldn’t mind me filling out some paperwork and running a credit check during their lunch half-hour.”
+ I don’t care about 15% of $8.
+ I don’t care.
+ I just want to sit in the parking lot by myself, eat it quickly before my wife comes out of Banana Republic and sees I’m not following doctor’s orders.
+ Move it.
+ “But if you don’t use the cards, “you’re not gonna get your points.
+ “If you don’t get points, you won’t have status.
+ Don’t you want status?”
+ Don’t fall for it.
+ Don’t fall for it.
+ There’s no such thing as status.
+ It’s all illusion.
+ They try and fool you.
+ Doesn’t matter how many points you have, where you fly on the plane, what you drive.
+----Punchline----
+ We’re all exactly the same: horrible animals running around in pants, trying to keep ourselves busy, fighting the overwhelming urge to mount each other and make smaller versions of ourselves.
+
+
+Similarity Score:0.20366598778004075
+Percent Error Setup:149.28537398761316%
+Percent Error Punchline:208.98138006571742%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:151.00275265434524%
+----Setup----
+All the same.
+ But they try and fool ya, right? Flying here, “Okay, we’re gonna board your flight now.
+ “Not everybody.
+ Sit down.
+ “Not all at once, you maniacs.
+ “There’s some special people here “getting on that plane first, ’cause they have status.
+ “We’re gonna start off with our diamond-crusted, “gold-plated, carbon fiber-based, Teflon-coated, “premier, elite-access, super-duper Douchebag Flying Guy Club.”
+ And the whole place stands up.
+ Everybody has it.
+ How special is it? There’s one guy in the other lane with a crooked leg and a cane.
+ “I have no status at all.”
+ And he walks funny, so they board him first anyway.
+ I travel a lot.
+ I travel all the time.
+ I was traveling a lot last year, and I took my family out with me.
+ Figured that would be a good thing.
+ That was– what do you call that? A mistake.
+ That’s a mistake.
+ That is not a good thing.
+ You realize when you travel with your family, you don’t really know these people all that well.
+ When you’re home, you’re like bees in and out of a hive.
+ You don’t really hang out.
+----Punchline----
+ And then you wake up that first morning in a hotel room just looking at each other.
+
+
+Similarity Score:0.2731707317073171
+Percent Error Setup:1.3399237732253464%
+Percent Error Punchline:79.40854326396494%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:4.797483287455762%
+----Setup----
+ “You guys are pretty weird, right? “Does the little one always do that? “I didn’t even know we had her.
+ She doesn’t look like any of us.”
+ Big moment this year, though, during the travels.
+ The kids, for the first time in their lives, wheeled their own luggage.
+ Huge, huge milestone.
+ ‘Cause look– yeah, it’s big.
+----Punchline----
+ It’s a big deal.
+
+
+Similarity Score:0.2903225806451613
+Percent Error Setup:69.11029061457837%
+Percent Error Punchline:50.16429353778751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:68.305151395989%
+----Setup----
+Look, I’ve made my own people, right? I’ve made my own people.
+ I’ve made two people, and I am their leader.
+ I am their leader.
+ So when they want to go somewhere, I have to plan it, because they don’t know where anything is.
+ They think New York and L.
+A.
+ are right next to each other.
+ I have to pay for everything, ’cause they have no money or skills of any kind.
+ But for years, I would have to carry everything that they owned, like a mule, like a human mule.
+ They would literally load everything on my back and then sit on top of the pile like a small Peruvian lady, and I would just walk through the airport with canteens hitting my legs, just standing at the gate with flies in my eyes.
+ And sometimes you see a donkey with flies in his eyes and you think, “Why doesn’t he get those flies out of his eyes?”
+ Now I know.
+ I’ve seen a donkey’s soul.
+ He doesn’t care about the flies.
+ He hopes the fly eats through his eye and devours the part of his brain that feels and remembers.
+ Oh, but this year, the handle went up, and they just walked ahead.
+ I was crying in the airport, I was so happy.
+ Still can’t pack, though.
+ We got to the hotel.
+ The only thing there was a Curious George and some magnets.
+ Really? Two week’s vacation.
+ You thought that was gonna do it.
+ All right.
+ Hope you like that bathing suit.
+ You’re gonna wear it a lot.
+ And I’m still learning about my wife, still learning about my wife.
+ Oh, I married a talker.
+ I married a talker.
+ 16 years together.
+ Still coming up with new stuff to say every goddamn day.
+ She starts from the minute she gets up till about a half-hour after she falls asleep.
+ Just talks… She’ll talk to anybody.
+ The housekeeper at the hotel doesn’t speak any English at all.
+ My wife doesn’t care.
+ “Then my mother said she didn’t like my hair.
+ Can you believe that?”
+ This poor woman’s like, “Oh, no.
+ Terrible.”
+ Then we come home.
+ She starts talking to the cats.
+ Cats, they don’t speak any language at all.
+ My wife just sees two ears, like, “I should fill those with talking noises.
+ “How many times have I told you not to go on the counter? We talk about this every day.”
+ Cat’s like, “Meow, meow.
+ That’s terrible.
+----Punchline----
+ Meow.”
+
+
+Similarity Score:0.32116788321167883
+Percent Error Setup:121.6472129585517%
+Percent Error Punchline:80.065717415115%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:110.10617381046008%
+----Setup----
+Went to Disney for the first time, a trip to Disney.
+ That was, uh– that was rough.
+ That was rough.
+ That is not a good place.
+ They call it “the happiest place on Earth.”
+ For who? For who? Ugh! Look, I love the idea.
+ I love the idea that this man created something out of his own head.
+ He just wanted to create a nice little place where families can go and kids can let their imagination run wild and feel safe for a couple hours in this horrible world.
+ Beautiful idea.
+ But what he couldn’t foresee when he was developing it in 1950 was the type of people it was going to attract in 2016 in the United States of America, ’cause they didn’t make these kind of people back then.
+ There weren’t dinosaur-sized people stomping through the park with their elephant children attached to their tail… Pushing the biggest strollers I’ve ever seen.
+ I had no idea John Deere made strollers.
+ One woman had five kids in it.
+ Fi–I never–I don’t know what you even call that.
+ A pentalometer? A jumbotron? Five pumpkin-faced kids eating cheeseburgers, and she’s plowing through the crowd, knocking other families out of the way like tumbleweeds just so she can get to the churro stand first.
+ Then there are people there, women, who have no children at all, who want to be a princess themselves.
+ Grown women who want to be a princess.
+ They want to dress like Cinderella, but they don’t make a Cinderella dress for someone 48 years old, 6’5″, 380.
+ They never had a meeting and said, “Let’s make more of those.”
+ Does that stop them? No, it does not.
+ They buy that dress.
+ They stuff everything they have into it, and a lot doesn’t fit.
+ There’s a lot of extra hanging over the sides.
+ But that’s okay.
+ They’re happy there.
+ They have their autograph book and their wand, and they skip through the park.
+ Fine.
+ Honestly, I didn’t think I was gonna fall for it.
+ I didn’t.
+ I didn’t think we were gonna do.
+ I didn’t.
+ But once you make your own people, the ads just find you.
+ Every time you open your phone, open your laptop, turn on TV, there they are, just selling you joy and perfection, right? Every time you turn it on, the mom and dad are beautiful, perfect teeth and hair, clothes.
+ “I love you.”
+ “No, I love you.”
+ “You’re beautiful.”
+ “No, you’re beautiful.”
+ “Our kids are beautiful.”
+ And the kids are holding Mickey’s hand, looking back at the parents.
+ “Thanks, Mom and Dad, for not being stupid and poor.”
+ I’ll admit it; I wanted to be that family.
+ I wanted to be that family.
+ We were not that family.
+ We didn’t come close.
+ We were not perfect.
+ We were sweaty and pissed off and cursing in front of the children.
+ “This is your damn fault.
+ “If your parents didn’t raise you like an animal, we would have left a little bit earlier.”
+ And the kids don’t even hear us, ’cause they’re slapping each other in the face.
+ And we haven’t even parked yet.
+ We haven’t even parked.
+ We’re still in the van.
+ We’re pissed off ’cause we didn’t get to park in Mickey and Minnie parking.
+ They sent us with that big hand to the ass end of Chip and Dale parking.
+ That’s another tram ride we didn’t plan for.
+ Then you get to the front of the park.
+ I know it’s a cliché, but you get up there.
+ You open your wallet.
+ They take everything you got.
+ Everything– every dollar, every coin, every credit card, gym memberships, pictures of your family, unused condoms.
+ That mouse rapes you at the turnstile, and you have to plaster a smile on your face in front of your kids, ’cause you don’t want to ruin the happiest place on Earth.
+ “It’s gonna be a great… day, guys.
+ It’s really gonna be a lot of fun.”
+ Then you get inside.
+ It’s just line after line after line.
+ I thought I was gonna beat it.
+ I had the app on my phone.
+ I’m like, “I’m gonna beat ’em.”
+ No, you’re not beating Disney.
+ I’m like, “Let’s go on the Peter Pan ride.
+ “That’s a horrible ride from 1912.
+ “Look, no one wants to even go on it.
+ The line only goes back and forth two times.”
+ Yeah, up here.
+ Then they take you to the basement.
+ It loops around for three days.
+ Then they shoot you out the ass end.
+ It goes around the Matterhorn 12 times.
+ And it’s a bad ride.
+ It’s a bad ride.
+ Old cardboard cutouts, Christmas lights that don’t even work anymore.
+ All the voices are jumbled.
+ [distorted]
+ “I’m Tinker Bell.
+ I’m Tinker Bell.”
+ 2 1/2 hours! Was it worth it? No.
+ What would be worth it? Nothing.
+ I get to the end of that line, there could be naked supermodels with bags of money and all-you-can-eat nachos.
+ I’d be like, “No, not into it.
+----Punchline----
+ You lied to me.”
+
+
+Similarity Score:0.1507177033492823
+Percent Error Setup:350.3394473558837%
+Percent Error Punchline:50.16429353778751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:327.3692489186001%
+----Setup----
+ Here’s what I learned, though.
+ Here’s what I learned.
+ If you go ahead and go–and if you make your own people, you’re gonna have to go– you just want to go once.
+ You want to go once, so you got to blow it out, make it all about the kids, go big.
+ Give ’em your money.
+ “Here’s $300 cash, kids.
+ “Spend it the way you want to spend it.
+ It’s your day.”
+ And halfway up Main Street, they’ll be broke, ’cause they’re small, and they’re stupid and gullible.
+ And they’re going to buy a lot of blinking stuff that’s not gonna work by the time they get outside.
+ And now they’re laying in the gutter of Main Street like little Disney hobos, broken toys, crying, just yelling at the characters.
+ “Get over here, duck, and shake your ass.
+ I got nothing left.”
+ Make sure you fill them with sugar, a lot of sugar.
+ Make them tweak out on sugar.
+ Don’t even have to wear sunblock.
+ “How about that, kids? “You hate when I put it on you.
+ “I don’t want to put it on you.
+ “Don’t wear it.
+ I bet you don’t even burn in Disney.”
+ They do burn, especially when they’re little.
+ They turn purple, and they start to blister.
+ And now they’re crying.
+ They got broken toys.
+ They’re crashing on sugar.
+ And this is when you walk ’em.
+ You got to walk the hell out of ’em.
+ Give ’em the map.
+ “Anywhere you want to go.”
+ “Oh, you want to go from the Cars ride “to It’s a Small World? “Sure, 20 miles apart.
+ Let’s start walking.”
+ Midnight rolls around.
+ They’ve been on two rides the whole day.
+ We’ll never go back again.
+----Punchline----
+ My kids see that mouse now, they shake like they went to war with it.
+
+
+Similarity Score:0.41721854304635764
+Percent Error Setup:54.99047165316817%
+Percent Error Punchline:59.47426067907996%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:54.38458513566654%
+----Setup----
+   I like moving around, especially by myself.
+ You get to see a lot of people, and it’s inspirational.
+ You know, people are good, and they’re kind, and they look out for each other.
+ And–yeah, I actually like people more the older I get.
+ When I was younger, I didn’t like people so much, and now, you know, you realize, “We’re all the same, you know?”
+ You pee on your own leg more than three times a week.
+ You’re like, “How great am I?”
+ You know? And that’s another thing I don’t understand about the wealth.
+ I mean, what’s the thing? What’s the goal? To just get so much money, you isolate yourself from everybody else? Just go from your helicopter to your island and back to your place? Why? We’re only here once.
+ You got to mix it up, you know? Look, I’m not Pollyannaish about it.
+ I mean, sometimes I get around people in a crowd, I wish I had my own helicopter.
+ Not just to fly away.
+----Punchline----
+ I would turn it upside down and chop everyone’s head off.
+
+
+Similarity Score:0.34782608695652173
+Percent Error Setup:6.788947117675083%
+Percent Error Punchline:19.605695509309967%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:5.9378686590640966%
+----Setup----
+Sometimes.
+ But for the most part, people are cool, and they look out for each other, and it’s nice, you know? And the only bad part: it only takes one person who doesn’t know how to act among us to ruin the good time of everyone else, some disgusting behavior, and it ruins the good time of everybody, ’cause they’re breaking the human contract, which is very simple.
+ You’re abiding by it right now.
+ So when we get around each other, just turn it down a notch.
+ Don’t do publicly what you like to do privately.
+ When you’re alone, it gets kind of weird.
+ That’s okay.
+ You’re an animal.
+ There’s only so long you can not put a finger in one of your openings.
+ That’s okay.
+ Hey, you got a job to do.
+ They don’t make tools for everything you got to get done.
+ Fine.
+ Right now, there’s someone in here that likes filling up his pants with Cheez Doodles and dancing around like a pretty pony.
+ And he’s not doing it.
+ He’s fighting the urge until he gets home.
+ And we respect you for that, sir.
+ We thank you.
+ And I guarantee you it’s a sir.
+ I guarantee you.
+ These other people don’t care.
+ They think the whole world centers around them, disgusting people.
+ They just walk around peeing on things, farting everywhere, letting their dogs go all over your lawn, blowing their nose in the air.
+ Have you ever been around that guy? What the hell? What is– what goes on in your head where you think, “I’ve got something in my nose” and the other part of your brain says, “Blow it out of your face now”? And they’re good at it, which means they practice.
+ Awful people, disgusting people, the same people that curse in front of children, don’t give up their seat for old people, don’t hold the door open for women– awful people.
+ They’re the same people that bring their own smelly-ass food on planes.
+ They apparently think they’re flying alone, and they bring this smelly-ass food that they made in a disgusting laboratory they call a kitchen.
+ Awful.
+ You know who these people are, by the way, ’cause they’re the ones walking through the airport carrying their own pillow from their bed.
+ That’s a psychopath.
+ If you’re a grown-up and you take your pillow out of your bedroom, you better stop at the couch, and you better have the flu.
+ You open the door and take it out into the world with you, you should be caught with a net, and we should never see you again.
+ “Going on a big trip today.
+ “What’s that? You’re so right, pillow.
+ You’re so right.”
+ Look, I don’t think there should be food on a plane at all.
+ How about that, chubsy? How about that? Can you survive without a sandwich? Can you do it? During the Great Depression, we ate nothing but rusty nails and dirt for years.
+ Can you make it to Boise without a sandwich? All right, maybe I’m insensitive.
+ Maybe you have a tapeworm that needs feeding.
+ I don’t know.
+ I don’t know what’s going on inside your gut.
+ But then be nice, something non-offensive.
+ How about an apple, maybe some trail mix? The last flight I was on, a guy broke out a tuna fish and dead skunk ass sandwich.
+ I don’t know what part of Whole Foods has that, but this guy found it, chopped it up with tuna and mayo, and put it on rye.
+ And he waited till the doors were shut and we’re at 10,000 feet.
+ He released this stink bomb like it was a planned attack.
+ You ever smell something so bad that you just get confused? Your head snaps back.
+ You make little circles with your hands.
+ You just blurt something out.
+ “Roosevelt!”
+ [panting]
+ “Just keep breathing out.
+ Just breathe out, out.”
+ “It’s too late.
+ I breathed in.
+ It’s in me.
+ I breathed in.
+ I messed up.
+ It’s in me.
+ I can taste it.
+ I can taste it.”
+ People were opening their air vents just to get air from somewhere else.
+ “Oh! Oh! I don’t care if it’s from the engine.
+ Oh!”
+ People were putting their faces in strangers’ armpits for relief.
+ You know what kills me about these situations? All the good people, the social tension of all the nice, cool people.
+ How many other people on the flight? 200? 300 people? So nice, so kind.
+ They don’t even complain.
+ They just sit there and suffer in silence.
+ You’ve never been in that situation and have a guy pop up at the back.
+ “Are you kidding me? “No, honey, let me go.
+ This has to be said.
+ “7:00 in the morning, skunk ass.
+ “Screw you! Oh, I’m the bad guy.
+----Punchline----
+ All right, all right.”
+
+
+Similarity Score:0.12234706616729088
+Percent Error Setup:331.37208194378275%
+Percent Error Punchline:50.16429353778751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:309.4769956744003%
+----Setup----
+Never.
+ The most you get, people just roll their eyes and whisper.
+ “Pee-yew, he smells.
+ I think it’s skunk ass.
+ I would never do that.
+ That’s terrible.”
+ I’ve got two people that I made.
+ I’ve got two kids.
+ And they’re going through a weird phase.
+ I don’t know if it’s a weird phase.
+ It’s just–my kids are finally realizing I’m not as great as they thought.
+ You know what I mean? Like, for years, I was their god.
+ They were amazed by everything I did.
+ “He gets food.
+ I don’t know how he does it.”
+ “That’s nothing; I saw him lift a chair over his head by himself.”
+ “Wow!”
+ “I know!”
+ The other day, I was yelling at ’em.
+ I mixed up their names.
+ They shot me a look like, “Oh.
+ Maybe our leader’s an idiot.
+ Maybe he’s not kidding when he says he can’t help with our math homework.”
+ And they’re not wrong.
+ I can’t help them anymore.
+ I don’t understand it.
+ But I have to act like it’s a parenting decision for my own ego.
+ They’ll be like, “Dad, can you help me with my math homework?”
+ “No, I’m not giving you the answers.
+ This is between you and your teacher.
+ Work it out.”
+ Then I’m in the bathroom on YouTube, “How do you add fractions with different bottoms? “Oh, you just got to make them the same.”
+----Punchline----
+ “How?”
+
+
+Similarity Score:0.29310344827586204
+Percent Error Setup:24.642686993806574%
+Percent Error Punchline:80.065717415115%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:18.60007864726701%
+----Setup----
+[sighs]
+ My daughter got in the car the other day.
+ She reached over my shoulder.
+ She hit the radio.
+ A whole Taylor Swift station came on that she reprogrammed herself.
+ I’m like, “No, when did you do that?”
+ And I change it.
+ A Katy Perry station comes on.
+ She hijacked the whole radio.
+ I’m like, “When did you do that?”
+ She’s like, “Don’t worry about it.
+ Just make it louder.”
+ Could you imagine? I couldn’t imagine, as a child, getting in my father’s car, demanding my music, and then, “Louder.
+ Lower.
+ A little louder.
+ Right there, Chief.
+ Right there.”
+ When I eventually came out of my coma, they would have told me a story of how arrogant I was and why I lost five years of my life when I was hit in the head with a pipe.
+ And as the only man in my house, it’s my job to maintain my importance in the family by teaching my daughters that there are no great guys.
+----Punchline----
+ That’s my job: to teach my daughters there are no great guys.
+
+
+Similarity Score:43.84357541899441
+Percent Error Setup:10.040495474035254%
+Percent Error Punchline:29.572836801752466%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:8.49390483680692%
+----Setup----
+Yeah, I believe it.
+ Yeah, there’s a lot of guys applauding that.
+ You know.
+ There’s no great guys.
+ If you think you’re with a great guy tonight, you’re not.
+ Look, American men are as great as you’re gonna get.
+ We fight for equality, and we push strollers.
+ We wear diaper bags.
+ We tell you we want equal pay.
+ But keep in mind it’s an act.
+ It’s an act.
+ Because inside all of us is a 16h-century man who wants to burn the village to the ground.
+ He’s always in there, so just keep that in mind.
+ If you have a man, you have a wild animal.
+ This is a wild animal, so use him wisely.
+ You’re in control, so don’t do stupid things with your man.
+ Don’t ask us to do certain things.
+ Don’t be stupid.
+ Don’t ask us to watch the children.
+ What are you doing? We’re not really watching the children, not the way you watch the children.
+ We watch them eat bottle caps and fall down stairs.
+ And we laugh.
+ Don’t ask me to shop with my 13-year-old.
+ I shouldn’t be shopping for clothes.
+ I shouldn’t be in Forever 21, waiting for my daughter to come out of the dressing room.
+ No one there knows I have a daughter in the dressing room.
+ They just see a sweaty, uncomfortable man breathing heavy by himself next to the bras and panties.
+ And I shouldn’t pick the young one up from gymnastics.
+ No dad should be picking up his daughter from gymnastics.
+ I shouldn’t be hanging out with the other moms, waiting for it to be over.
+ They’re all talking about juice boxes and play dates.
+ All I’m thinking is, “Which one of these moms would I have sex with first?”
+ I’m being honest.
+ That’s where our head goes.
+ Not which one would I have sex with, by the way, ’cause I’d have sex with all of them.
+ The weird one, the one with the thing on her eye, I’ll make it work.
+ I can make it work.
+ But which one first, while I’ve got the energy? That’s my job, try and give them lessons, but it’s hard, because the real world starts coming in, right? And they start learning about the real world.
+ I try to protect them, but they start learning about all the good and the bad that’s out in the world, and it’s funny in my house, ’cause they’re learning about it at different rates.
+ You know, like, we learned about Thanksgiving, and the little one’s like, “Oh, we love Thanksgiving.
+ “We love the Indians.
+ We gave them our buckle hats and our shoes and a turkey, and they gave us some feathers and some mashed potatoes, and we had dinner with them, and they love us, and we love them.”
+ And the 13-year-old’s just leaning against the refrigerator.
+ “What’s this Trail of Tears I’m hearing about? We took their land and then moved them out west, then took their land again and then killed them all?”
+ And the little one’s like, “It’s not the same Indians, right, Dad?”
+ I’m like, “Yeah, it’s the same Indians.”
+ She’s like, “Why did we do that?”
+ “Oh, easy with the ‘we,’ first of all.
+ We’re the Papas.
+ We’re Italian.
+ We got here in 1945.
+ We eat spaghettis and ride Vespas.
+----Punchline----
+ We’re lovers.”
+
+
+Similarity Score:0.14054054054054055
+Percent Error Setup:199.1424487851358%
+Percent Error Punchline:70.09857612267251%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:183.7200157294534%
+----Setup----
+But it’s hopeful to see this generation, ’cause they just–they just– you know, they’re more tolerant, and it’s not even tolerant; they don’t have to tolerate it.
+ They don’t even know that things are bad or that they hate each other.
+ They’re just nice and nice people, and it’s very hopeful.
+ They don’t even see race.
+ They don’t say “black people” or “white people.”
+ They just say “darker” or “much darker” or “whiter” or “much whiter” or “gross.”
+ That’s how they talk.
+ The first time my daughter ever heard about race, she saw “The Jackie Robinson Story,” and that really blew her away.
+ She’s like, “Wait a minute.
+ “Are you telling me that white people had to let the black people play baseball?”
+ I was like, “Yeah, that’s how it happened for a while.”
+ She’s like, “No, no, no way.
+----Punchline----
+ “Isn’t it the black people who let the white people play sports?”
+
+
+Similarity Score:0.23529411764705882
+Percent Error Setup:24.130538351595998%
+Percent Error Punchline:29.572836801752466%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:21.7852929610696%
+----Setup----
+She’s like–she’s like, “‘Cause I’ve seen some of our white people play basketball.
+ We shouldn’t do that.”
+ And I’m like, “Yeah, they let us play once in a while.
+----Punchline----
+ “They also let us make music, and that’s where country comes from.”
+
+
+Similarity Score:0.38095238095238093
+Percent Error Setup:84.28418294425917%
+Percent Error Punchline:29.572836801752466%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:78.52929610696027%
+----Setup----
+The only reason I want a son is because that’s the only thing ruining our good time on the planet.
+ The only time someone loses it and does something awful, 100% of the time, it’s a guy.
+ And I don’t get it, ’cause I was a man… for a while.
+ I was, before I built this vagina tribe that I live in.
+ You really can’t be a man in the vagina tribe.
+ You can’t.
+ I watch the play-offs, but people are putting bows in my hair and doing my nails at the same time.
+ No, angry young men, I really don’t get it.
+ Just calm down, guys.
+ Calm down.
+ You feel like a loser? That’s okay.
+ We all do.
+ We all do.
+ You’re not missing out on anything.
+ We’re all losers.
+ We’re human beings.
+ You get little moments of victories, and most of the time, you lose.
+ That’s okay.
+ That’s the way the whole world works.
+ Travel all around.
+ Everyone’s exactly the same.
+ Thank God you’re not that happy, or I wouldn’t have a job.
+ You’d just sit at home and call your friends.
+ “Ha-ha ha ha ha.
+----Punchline----
+ Life is wonderful.”
+----Tagline(s)----
+
+
+Similarity Score:0.21761658031088082
+Percent Error Setup:1.881848499285375%
+Percent Error Punchline:60.13143483023001%
+Percent Error TagLine:5.208333333333336%
+Percent TagLine Number:77.08333333333334%
+Percent Error Total:1.337003539127014%
+----Setup----
+It’s okay.
+ I’m happy to do it.
+ But come on.
+ You’re a young man.
+ Get your life in order.
+ Just get anything.
+ Get a guitar.
+ Get a skateboard.
+ Get a girl.
+ Get a girl.
+ You’re 19.
+ Get an 18-year-old girl.
+ That’s the only age that won’t sound creepy.
+ 19, everything is working full bore.
+ That’s not gonna last.
+ You think everyone’s with supermodels? No.
+ Lower the bar.
+ Lower the bar.
+ Any woman will soothe your soul.
+ Go to a bowling alley.
+ Go to a bowling alley.
+ Go to the back of the bowling alley.
+ There’s a deep fryer in the back of the bowling alley.
+ There’s a girl working that deep fryer.
+ That’s your girl.
+ She’ll be a ton of fun.
+ You’ll get fries and onion rings on the side.
+ Get a cougar.
+ That didn’t exist when I was 19.
+ There weren’t hot, middle-aged women looking for young men to violate.
+ They’re out there now in force.
+ Go to any ladies’ night in any Holiday Inn in Any City, USA.
+ Walk out on the dance floor.
+ Push all the 50-year-old douche bags in their Tommy Bahama out of the way.
+ Raise your arms.
+ “I’m 19.”
+ They will rape you on the dance floor.
+ And look, there are angry young women out there.
+ There’s a lot of angry young women.
+ But they don’t blow stuff up.
+ They just terrorize one guy at a time.
+ They pick one guy out, and they just ruin his life.
+----Punchline----
+ It’s not nice, but it’s better for the community as a whole.
+
+
+Similarity Score:1.2529182879377432
+Percent Error Setup:32.229633158646976%
+Percent Error Punchline:29.572836801752466%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:31.380259535981125%
+----Setup----
+ But we’re gonna be just fine.
+ And look, look.
+ You have to vote for the right people that are gonna do the right things, and if they don’t do the right things, then you just get them out.
+ That’s just the way it goes.
+ Don’t stress about it.
+ Move it along.
+ That’s the way it goes, ’cause it’s their job.
+ They got to deal with that stuff.
+ We can’t do it.
+ We’re busy.
+ We’re busy, all right? I can’t go out and fight ISIS.
+ My house is crazy.
+ I got enough to deal with in my house, right? You got all your stuff to do.
+ You got to watch LeBron run around.
+ You’ve got to go to games.
+ We’re busy.
+ We’re busy people.
+ I can’t fight ISIS.
+ Neither can you.
+ One of my cats just died.
+ That’s what I’m dealing with.
+ Yeah.
+ Well, we had three, so two to go.
+ No, I love cats.
+ I love that level of intimacy.
+ I wish my kids were more like cats.
+ That would be perfect.
+ Oh, my God.
+ And please, if I could just leave food for them once a week and they brush against my leg to let me know they’re alive, perfect.
+ Perfect.
+ I don’t even know why we have these animals.
+ Do you? It makes no sense.
+ All these years of engineering and walls and electricity to keep nature out.
+ Then we just open the door like a bouncer.
+ “You two, come on in.
+ No, not you, squirrel, you coke addict.
+ Get out of here.”
+ Then you have an animal just sitting on your counter, looking at you.
+ I was watching TV the other day.
+ My cat, looking at me, dropped its ass, back legs up, front paws, just started pulling itself straight at me, six feet across.
+ Didn’t break eye contact the entire time.
+ Stared me down.
+ “That’s right.
+ My ass in your carpet.
+ What of it? What you gonna do about it, go in my box? I don’t think so.
+ Who’s scooping it out? Not me.
+----Punchline----
+ Never have, never will.”
+
+
+Similarity Score:0.27325581395348836
+Percent Error Setup:83.7124821343497%
+Percent Error Punchline:50.16429353778751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:75.85528902870625%
+----Setup----
+It’s a crazy house.
+ 16 years putting this whole thing together, and it works.
+ I wish you the same success.
+ I really do.
+ And the family is a good thing.
+ 16 years in the family, 16 years with the same woman, the same person.
+----Punchline----
+ Good thing.
+
+
+Similarity Score:0.425531914893617
+Percent Error Setup:76.15531205335874%
+Percent Error Punchline:70.09857612267251%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:75.97325992921746%
+----Setup----
+ It’s good, and it works.
+ But it’s time for a girlfriend.
+ It’s definitely time for a girlfriend.
+ It’s not fair.
+ It’s not fair to my wife.
+ It’s not fair to this woman to expect her to act like a girlfriend for this long; it’s not.
+ Look, when you’re a girlfriend, you’re motivated.
+ You’re excited to see that guy come home.
+ My wife is not that good of an actress.
+----Punchline----
+ This poor woman has watched me walk from the bedroom to the bathroom in the middle of the night, underwear hanging off my ass, banging into furniture in the dark, for 16 years.
+
+
+Similarity Score:0.9423076923076923
+Percent Error Setup:62.065269175798%
+Percent Error Punchline:238.88280394304493%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:46.834447502949274%
+----Setup----
+I’m out of stories.
+ I’ve run out of stories.
+ You ever hang out with a married couple, the guy starts telling a story, the wife just starts stirring her drink and rolling her eyes? “Here we go again.
+ Blah, blah, blah.
+ We’ve all heard it, Don.
+ We’ve all heard it.”
+ We’re entering that stage.
+ I’m a comedian.
+ She doesn’t think I’m funny.
+ It’s time for a girlfriend.
+ And look, I’m not gonna be sneaky about it.
+ I’m not gonna cheat.
+ I’m gonna sit her down.
+ I’m gonna tell her my plans straight out.
+ I’ll be like, “Look, I found a girl.
+ “She’s young, and she’s dumb.
+ She’s just what we need.
+ She hasn’t heard any of my stories.
+ She thinks I’m hilarious.
+ She wants to fool around all the time.
+ Don’t think of her as my girlfriend.
+ Think of her as your assistant.”
+Thank you so much, Cleveland.
+ You guys were wonderful.
+----Punchline----
+ Thank you so much.
+
+
+Similarity Score:0.2692307692307692
+Percent Error Setup:18.169366364935684%
+Percent Error Punchline:50.16429353778751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:20.251671254423908%
+----Setup----
+   
+
+
+----Punchline----
+
+
+
+Similarity Score:0.4
+Percent Error Setup:97.83230109575989%
+Percent Error Punchline:90.03285870755751%
+Percent Error TagLine:100.0%
+Percent TagLine Number:100.0%
+Percent Error Total:97.44396382225717%
